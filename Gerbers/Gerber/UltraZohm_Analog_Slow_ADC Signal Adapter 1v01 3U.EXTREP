@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GBR   30/12/2019  1:03:26
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 Signal Layer 1                          
+.G2                 Signal Layer 2                          
+.G3                 VCC                                     
+.G4                 GND                                     
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM3                Mechanical 3                            
+.GM11               Mechanical 11                           
+.GM13               Mechanical 13                           
+.GM14               Mechanical 14                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM4                Mechanical 4                            
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.2                  Dielectric 3                            
+.3                  Dielectric 2                            
+.4                  Dielectric 5                            
+.5                  Dielectric 4                            
+------------------------------------------------------------------------------------------

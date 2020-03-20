@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=AGND Pin=BS1-2
+Added Component: Designator=BS2(RES_1206)
+Added Pin To Net: NetName=NetBS1_2 Pin=BS1-2
+Added Pin To Net: NetName=GND Pin=BS1-1
+Added Pin To Net: NetName=AGND Pin=BS1-2
+Added Differential Pair: Name=ADC_IN11
+Added Differential Pair: Name=ADC_IN12
+Added Differential Pair: Name=ADC_IN13
+Added Differential Pair: Name=ADC_IN14
+Added Differential Pair: Name=ADC_IN15
+Added Differential Pair: Name=ADC_IN16
+Added Differential Pair: Name=ADC_IN17
+Added Differential Pair: Name=ADC_IN18
+Added Differential Pair: Name=ADC_IN21
+Added Differential Pair: Name=ADC_IN22
+Added Differential Pair: Name=ADC_IN23
+Added Differential Pair: Name=ADC_IN24
+Added Differential Pair: Name=ADC_IN25
+Added Differential Pair: Name=ADC_IN26
+Added Differential Pair: Name=ADC_IN27
+Added Differential Pair: Name=ADC_IN28
+Added Differential Pair: Name=ADC_IN31
+Added Differential Pair: Name=ADC_IN32
+Added Differential Pair: Name=ADC_IN33
+Added Differential Pair: Name=ADC_IN34
+Added Differential Pair: Name=ADC_IN35
+Added Differential Pair: Name=ADC_IN36
+Added Differential Pair: Name=ADC_IN37
+Added Differential Pair: Name=ADC_IN38
+Added Differential Pair: Name=ADC_IN41
+Added Differential Pair: Name=ADC_IN42
+Added Differential Pair: Name=ADC_IN43
+Added Differential Pair: Name=ADC_IN44
+Added Differential Pair: Name=ADC_IN45
+Added Differential Pair: Name=ADC_IN46
+Added Differential Pair: Name=ADC_IN47
+Added Differential Pair: Name=ADC_IN48
+Added Differential Pair: Name=AIN11
+Added Differential Pair: Name=AIN12
+Added Differential Pair: Name=AIN13
+Added Differential Pair: Name=AIN14
+Added Differential Pair: Name=AIN15
+Added Differential Pair: Name=AIN16
+Added Differential Pair: Name=AIN17
+Added Differential Pair: Name=AIN18
+Added Differential Pair: Name=AIN31
+Added Differential Pair: Name=AIN32
+Added Differential Pair: Name=AIN33
+Added Differential Pair: Name=AIN34
+Added Differential Pair: Name=AIN35
+Added Differential Pair: Name=AIN36
+Added Differential Pair: Name=AIN37
+Added Differential Pair: Name=AIN38
+Added Differential Pair: Name=AIN41
+Added Differential Pair: Name=AIN42
+Added Differential Pair: Name=AIN43
+Added Differential Pair: Name=AIN44
+Added Differential Pair: Name=AIN45
+Added Differential Pair: Name=AIN46
+Added Differential Pair: Name=AIN47
+Added Differential Pair: Name=AIN48
+Added Member To Class: ClassName=Power Supply Member=Component BS2 Ferrite bead

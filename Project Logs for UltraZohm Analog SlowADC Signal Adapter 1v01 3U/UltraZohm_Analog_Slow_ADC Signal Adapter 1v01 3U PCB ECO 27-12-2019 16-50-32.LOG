@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=ADC_IN1_P4 Pin=J2-85
+Added Pin To Net: NetName=ADC_IN1_N4 Pin=J2-86
+Added Pin To Net: NetName=ADC_IN2_P4 Pin=J2-87
+Added Pin To Net: NetName=ADC_IN2_N4 Pin=J2-88
+Added Pin To Net: NetName=ADC_IN3_P4 Pin=J2-89
+Added Pin To Net: NetName=ADC_IN3_N4 Pin=J2-90
+Added Pin To Net: NetName=ADC_IN4_P4 Pin=J2-91
+Added Pin To Net: NetName=ADC_IN4_N4 Pin=J2-92

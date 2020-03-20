@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=AIN2_N2 Pin=R39B-2
+Removed Pin From Net: NetName=AIN2_P1 Pin=R58A-1
+Removed Pin From Net: NetName=AIN2A_N Pin=R58A-2
+Removed Pin From Net: NetName=AIN2_P2 Pin=R58B-1
+Removed Pin From Net: NetName=AIN2_N2 Pin=R58B-2
+Removed Pin From Net: NetName=AIN2_P3 Pin=R58C-1
+Removed Pin From Net: NetName=AIN2C_N Pin=R58C-2
+Removed Pin From Net: NetName=AIN2_P4 Pin=R58D-1
+Removed Pin From Net: NetName=AIN2D_N Pin=R58D-2
+Removed Pin From Net: NetName=AIN2_P5 Pin=R58E-1
+Removed Pin From Net: NetName=AIN2E_N Pin=R58E-2
+Removed Pin From Net: NetName=AIN2_P6 Pin=R58F-1
+Removed Pin From Net: NetName=AIN2F_N Pin=R58F-2
+Removed Pin From Net: NetName=AIN2_P7 Pin=R58G-1
+Removed Pin From Net: NetName=AIN2G_N Pin=R58G-2
+Removed Pin From Net: NetName=AIN2_P8 Pin=R58H-1
+Removed Pin From Net: NetName=AIN2H_N Pin=R58H-2
+Removed Member From Class: ClassName=Buffer_Analog1 Member=R58A
+Removed Member From Class: ClassName=Buffer_Analog2 Member=R58B
+Removed Member From Class: ClassName=Buffer_Analog3 Member=R58C
+Removed Member From Class: ClassName=Buffer_Analog4 Member=R58D
+Removed Member From Class: ClassName=Buffer_Analog5 Member=R58E
+Removed Member From Class: ClassName=Buffer_Analog6 Member=R58F
+Removed Member From Class: ClassName=Buffer_Analog7 Member=R58G
+Removed Member From Class: ClassName=Buffer_Analog8 Member=R58H
+Added Component: Designator=C6A(RES_1206)
+Added Component: Designator=C6B(RES_1206)
+Added Component: Designator=C6C(RES_1206)
+Added Component: Designator=C6D(RES_1206)
+Added Component: Designator=C6E(RES_1206)
+Added Component: Designator=C6F(RES_1206)
+Added Component: Designator=C6G(RES_1206)
+Added Component: Designator=C6H(RES_1206)
+Added Component: Designator=C7A(RES_1206)
+Added Component: Designator=C7B(RES_1206)
+Added Component: Designator=C7C(RES_1206)
+Added Component: Designator=C7D(RES_1206)
+Added Component: Designator=C7E(RES_1206)
+Added Component: Designator=C7F(RES_1206)
+Added Component: Designator=C7G(RES_1206)
+Added Component: Designator=C7H(RES_1206)
+Added Component: Designator=C8A(RES_1206)
+Added Component: Designator=C8B(RES_1206)
+Added Component: Designator=C8C(RES_1206)
+Added Component: Designator=C8D(RES_1206)
+Added Component: Designator=C8E(RES_1206)
+Added Component: Designator=C8F(RES_1206)
+Added Component: Designator=C8G(RES_1206)
+Added Component: Designator=C8H(RES_1206)
+Added Component: Designator=C9A(RES_1206)
+Added Component: Designator=C9B(RES_1206)
+Added Component: Designator=C9C(RES_1206)
+Added Component: Designator=C9D(RES_1206)
+Added Component: Designator=C9E(RES_1206)
+Added Component: Designator=C9F(RES_1206)
+Added Component: Designator=C9G(RES_1206)
+Added Component: Designator=C9H(RES_1206)
+Added Pin To Net: NetName=AIN1_P1 Pin=C6A-1
+Added Pin To Net: NetName=AIN1_N1 Pin=C6A-2
+Added Pin To Net: NetName=AIN1_P2 Pin=C6B-1
+Added Pin To Net: NetName=AIN1_N2 Pin=C6B-2
+Added Pin To Net: NetName=AIN1_P3 Pin=C6C-1
+Added Pin To Net: NetName=AIN1_N3 Pin=C6C-2
+Added Pin To Net: NetName=AIN1_P4 Pin=C6D-1
+Added Pin To Net: NetName=AIN1_N4 Pin=C6D-2
+Added Pin To Net: NetName=AIN1_P5 Pin=C6E-1
+Added Pin To Net: NetName=AIN1_N5 Pin=C6E-2
+Added Pin To Net: NetName=AIN1_P6 Pin=C6F-1
+Added Pin To Net: NetName=AIN1_N6 Pin=C6F-2
+Added Pin To Net: NetName=AIN1_P7 Pin=C6G-1
+Added Pin To Net: NetName=AIN1_N7 Pin=C6G-2
+Added Pin To Net: NetName=AIN1_P8 Pin=C6H-1
+Added Pin To Net: NetName=AIN1_N8 Pin=C6H-2
+Added Pin To Net: NetName=AIN2_P1 Pin=C7A-1
+Added Pin To Net: NetName=AIN2A_N Pin=C7A-2
+Added Pin To Net: NetName=AIN2_P2 Pin=C7B-1
+Added Pin To Net: NetName=AIN2_P3 Pin=C7C-1
+Added Pin To Net: NetName=AIN2C_N Pin=C7C-2
+Added Pin To Net: NetName=AIN2_P4 Pin=C7D-1
+Added Pin To Net: NetName=AIN2D_N Pin=C7D-2
+Added Pin To Net: NetName=AIN2_P5 Pin=C7E-1
+Added Pin To Net: NetName=AIN2E_N Pin=C7E-2
+Added Pin To Net: NetName=AIN2_P6 Pin=C7F-1
+Added Pin To Net: NetName=AIN2F_N Pin=C7F-2
+Added Pin To Net: NetName=AIN2_P7 Pin=C7G-1
+Added Pin To Net: NetName=AIN2G_N Pin=C7G-2
+Added Pin To Net: NetName=AIN2_P8 Pin=C7H-1
+Added Pin To Net: NetName=AIN2H_N Pin=C7H-2
+Added Pin To Net: NetName=AIN3_P1 Pin=C8A-1
+Added Pin To Net: NetName=AIN3_N1 Pin=C8A-2
+Added Pin To Net: NetName=AIN3_P2 Pin=C8B-1
+Added Pin To Net: NetName=AIN3_N2 Pin=C8B-2
+Added Pin To Net: NetName=AIN3_P3 Pin=C8C-1
+Added Pin To Net: NetName=AIN3_N3 Pin=C8C-2
+Added Pin To Net: NetName=AIN3_P4 Pin=C8D-1
+Added Pin To Net: NetName=AIN3_N4 Pin=C8D-2
+Added Pin To Net: NetName=AIN3_P5 Pin=C8E-1
+Added Pin To Net: NetName=AIN3_N5 Pin=C8E-2
+Added Pin To Net: NetName=AIN3_P6 Pin=C8F-1
+Added Pin To Net: NetName=AIN3_N6 Pin=C8F-2
+Added Pin To Net: NetName=AIN3_P7 Pin=C8G-1
+Added Pin To Net: NetName=AIN3_N7 Pin=C8G-2
+Added Pin To Net: NetName=AIN3_P8 Pin=C8H-1
+Added Pin To Net: NetName=AIN3_N8 Pin=C8H-2
+Added Pin To Net: NetName=AIN4_P1 Pin=C9A-1
+Added Pin To Net: NetName=AIN4_N1 Pin=C9A-2
+Added Pin To Net: NetName=AIN4_P2 Pin=C9B-1
+Added Pin To Net: NetName=AIN4_N2 Pin=C9B-2
+Added Pin To Net: NetName=AIN4_P3 Pin=C9C-1
+Added Pin To Net: NetName=AIN4_N3 Pin=C9C-2
+Added Pin To Net: NetName=AIN4_P4 Pin=C9D-1
+Added Pin To Net: NetName=AIN4_N4 Pin=C9D-2
+Added Pin To Net: NetName=AIN4_P5 Pin=C9E-1
+Added Pin To Net: NetName=AIN4_N5 Pin=C9E-2
+Added Pin To Net: NetName=AIN4_P6 Pin=C9F-1
+Added Pin To Net: NetName=AIN4_N6 Pin=C9F-2
+Added Pin To Net: NetName=AIN4_P7 Pin=C9G-1
+Added Pin To Net: NetName=AIN4_N7 Pin=C9G-2
+Added Pin To Net: NetName=AIN4_P8 Pin=C9H-1
+Added Pin To Net: NetName=AIN4_N8 Pin=C9H-2
+Added Pin To Net: NetName=AIN2B_N Pin=C7B-2
+Added Pin To Net: NetName=AIN2B_N Pin=R39B-2
+Added Net: Name=AIN2B_N
+Added Member To Class: ClassName=Buffer_Analog1 Member=Component C6A (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C6B (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C6C (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C6D (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C6E (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C6F (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C6G (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C6H (C6) 1uF
+Added Member To Class: ClassName=Buffer_Analog1 Member=Component C7A (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C7B (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C7C (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C7D (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C7E (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C7F (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C7G (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C7H (C7) 1uF
+Added Member To Class: ClassName=Buffer_Analog1 Member=Component C8A (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C8B (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C8C (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C8D (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C8E (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C8F (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C8G (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C8H (C8) 1uF
+Added Member To Class: ClassName=Buffer_Analog1 Member=Component C9A (C9) 1uF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C9B (C9) 1uF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C9C (C9) 1uF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C9D (C9) 1uF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C9E (C9) 1uF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C9F (C9) 1uF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C9G (C9) 1uF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C9H (C9) 1uF

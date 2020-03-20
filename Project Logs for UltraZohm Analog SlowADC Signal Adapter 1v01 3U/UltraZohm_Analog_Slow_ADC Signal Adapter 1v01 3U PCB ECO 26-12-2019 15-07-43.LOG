@@ -1,0 +1,310 @@
+Removed Pin From Net: NetName=+5V Pin=BS5-1
+Removed Pin From Net: NetName=+5V_A Pin=BS5-2
+Removed Pin From Net: NetName=GND Pin=BS6-1
+Removed Pin From Net: NetName=+5V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=+5V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=+5V Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Change Component Comment : Designator=R32A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R32L Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R33L Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R38L Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R39L Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R44L Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R45L Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R50L Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51A Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51B Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51C Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51D Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51E Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51F Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51G Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51H Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51I Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51J Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51K Old Comment=39.2k New Comment=24.3k
+Change Component Comment : Designator=R51L Old Comment=39.2k New Comment=24.3k
+Added Component: Designator=C18(RES_1206)
+Added Component: Designator=C19(RES_1206)
+Added Component: Designator=C20(CAP_0603)
+Added Component: Designator=C21(CAP_0603)
+Added Component: Designator=C22(Cap_1210)
+Added Component: Designator=C23(Cap_1210)
+Added Component: Designator=C24(Cap_1210)
+Added Component: Designator=C25(CAP_0603)
+Added Component: Designator=D1(LED_0805_GREEN)
+Added Component: Designator=L1(WE-CBF_0805_High Current)
+Added Component: Designator=R1(RES_0603)
+Added Component: Designator=R2(RES_0603)
+Added Component: Designator=R3(RES_0603)
+Added Component: Designator=R5(RES_0603)
+Added Component: Designator=U1(7TO-PMOD)
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+5V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=+5V Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=+5V Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=+5V Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetD1_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Change Net Name : Old Net Name=ADC1_TD_N1 New Net Name=NetR30A_1
+Change Net Name : Old Net Name=ADC1_TD_N2 New Net Name=NetR30B_1
+Change Net Name : Old Net Name=ADC1_TD_N3 New Net Name=NetR30C_1
+Change Net Name : Old Net Name=ADC1_TD_N4 New Net Name=NetR30D_1
+Change Net Name : Old Net Name=ADC1_TD_N5 New Net Name=NetR30E_1
+Change Net Name : Old Net Name=ADC1_TD_N6 New Net Name=NetR30F_1
+Change Net Name : Old Net Name=ADC1_TD_N7 New Net Name=NetR30G_1
+Change Net Name : Old Net Name=ADC1_TD_N8 New Net Name=NetR30H_1
+Change Net Name : Old Net Name=ADC1_TD_N9 New Net Name=NetR30I_1
+Change Net Name : Old Net Name=ADC1_TD_N10 New Net Name=NetR30J_1
+Change Net Name : Old Net Name=ADC1_TD_N11 New Net Name=NetR30K_1
+Change Net Name : Old Net Name=ADC1_TD_N12 New Net Name=NetR30L_1
+Change Net Name : Old Net Name=ADC1_TD_P1 New Net Name=NetR34A_2
+Change Net Name : Old Net Name=ADC1_TD_P2 New Net Name=NetR34B_2
+Change Net Name : Old Net Name=ADC1_TD_P3 New Net Name=NetR34C_2
+Change Net Name : Old Net Name=ADC1_TD_P4 New Net Name=NetR34D_2
+Change Net Name : Old Net Name=ADC1_TD_P5 New Net Name=NetR34E_2
+Change Net Name : Old Net Name=ADC1_TD_P6 New Net Name=NetR34F_2
+Change Net Name : Old Net Name=ADC1_TD_P7 New Net Name=NetR34G_2
+Change Net Name : Old Net Name=ADC1_TD_P8 New Net Name=NetR34H_2
+Change Net Name : Old Net Name=ADC1_TD_P9 New Net Name=NetR34I_2
+Change Net Name : Old Net Name=ADC1_TD_P10 New Net Name=NetR34J_2
+Change Net Name : Old Net Name=ADC1_TD_P11 New Net Name=NetR34K_2
+Change Net Name : Old Net Name=ADC1_TD_P12 New Net Name=NetR34L_2
+Change Net Name : Old Net Name=ADC2_TD_N1 New Net Name=NetR36A_1
+Change Net Name : Old Net Name=ADC2_TD_N2 New Net Name=NetR36B_1
+Change Net Name : Old Net Name=ADC2_TD_N3 New Net Name=NetR36C_1
+Change Net Name : Old Net Name=ADC2_TD_N4 New Net Name=NetR36D_1
+Change Net Name : Old Net Name=ADC2_TD_N5 New Net Name=NetR36E_1
+Change Net Name : Old Net Name=ADC2_TD_N6 New Net Name=NetR36F_1
+Change Net Name : Old Net Name=ADC2_TD_N7 New Net Name=NetR36G_1
+Change Net Name : Old Net Name=ADC2_TD_N8 New Net Name=NetR36H_1
+Change Net Name : Old Net Name=ADC2_TD_N9 New Net Name=NetR36I_1
+Change Net Name : Old Net Name=ADC2_TD_N10 New Net Name=NetR36J_1
+Change Net Name : Old Net Name=ADC2_TD_N11 New Net Name=NetR36K_1
+Change Net Name : Old Net Name=ADC2_TD_N12 New Net Name=NetR36L_1
+Change Net Name : Old Net Name=ADC2_TD_P1 New Net Name=NetR40A_2
+Change Net Name : Old Net Name=ADC2_TD_P2 New Net Name=NetR40B_2
+Change Net Name : Old Net Name=ADC2_TD_P3 New Net Name=NetR40C_2
+Change Net Name : Old Net Name=ADC2_TD_P4 New Net Name=NetR40D_2
+Change Net Name : Old Net Name=ADC2_TD_P5 New Net Name=NetR40E_2
+Change Net Name : Old Net Name=ADC2_TD_P6 New Net Name=NetR40F_2
+Change Net Name : Old Net Name=ADC2_TD_P7 New Net Name=NetR40G_2
+Change Net Name : Old Net Name=ADC2_TD_P8 New Net Name=NetR40H_2
+Change Net Name : Old Net Name=ADC2_TD_P9 New Net Name=NetR40I_2
+Change Net Name : Old Net Name=ADC2_TD_P10 New Net Name=NetR40J_2
+Change Net Name : Old Net Name=ADC2_TD_P11 New Net Name=NetR40K_2
+Change Net Name : Old Net Name=ADC2_TD_P12 New Net Name=NetR40L_2
+Change Net Name : Old Net Name=ADC3_TD_N1 New Net Name=NetR42A_1
+Change Net Name : Old Net Name=ADC3_TD_N2 New Net Name=NetR42B_1
+Change Net Name : Old Net Name=ADC3_TD_N3 New Net Name=NetR42C_1
+Change Net Name : Old Net Name=ADC3_TD_N4 New Net Name=NetR42D_1
+Change Net Name : Old Net Name=ADC3_TD_N5 New Net Name=NetR42E_1
+Change Net Name : Old Net Name=ADC3_TD_N6 New Net Name=NetR42F_1
+Change Net Name : Old Net Name=ADC3_TD_N7 New Net Name=NetR42G_1
+Change Net Name : Old Net Name=ADC3_TD_N8 New Net Name=NetR42H_1
+Change Net Name : Old Net Name=ADC3_TD_N9 New Net Name=NetR42I_1
+Change Net Name : Old Net Name=ADC3_TD_N10 New Net Name=NetR42J_1
+Change Net Name : Old Net Name=ADC3_TD_N11 New Net Name=NetR42K_1
+Change Net Name : Old Net Name=ADC3_TD_N12 New Net Name=NetR42L_1
+Change Net Name : Old Net Name=ADC3_TD_P1 New Net Name=NetR46A_2
+Change Net Name : Old Net Name=ADC3_TD_P2 New Net Name=NetR46B_2
+Change Net Name : Old Net Name=ADC3_TD_P3 New Net Name=NetR46C_2
+Change Net Name : Old Net Name=ADC3_TD_P4 New Net Name=NetR46D_2
+Change Net Name : Old Net Name=ADC3_TD_P5 New Net Name=NetR46E_2
+Change Net Name : Old Net Name=ADC3_TD_P6 New Net Name=NetR46F_2
+Change Net Name : Old Net Name=ADC3_TD_P7 New Net Name=NetR46G_2
+Change Net Name : Old Net Name=ADC3_TD_P8 New Net Name=NetR46H_2
+Change Net Name : Old Net Name=ADC3_TD_P9 New Net Name=NetR46I_2
+Change Net Name : Old Net Name=ADC3_TD_P10 New Net Name=NetR46J_2
+Change Net Name : Old Net Name=ADC3_TD_P11 New Net Name=NetR46K_2
+Change Net Name : Old Net Name=ADC3_TD_P12 New Net Name=NetR46L_2
+Change Net Name : Old Net Name=ADC4_TD_N1 New Net Name=NetR48A_1
+Change Net Name : Old Net Name=ADC4_TD_N2 New Net Name=NetR48B_1
+Change Net Name : Old Net Name=ADC4_TD_N3 New Net Name=NetR48C_1
+Change Net Name : Old Net Name=ADC4_TD_N4 New Net Name=NetR48D_1
+Change Net Name : Old Net Name=ADC4_TD_N5 New Net Name=NetR48E_1
+Change Net Name : Old Net Name=ADC4_TD_N6 New Net Name=NetR48F_1
+Change Net Name : Old Net Name=ADC4_TD_N7 New Net Name=NetR48G_1
+Change Net Name : Old Net Name=ADC4_TD_N8 New Net Name=NetR48H_1
+Change Net Name : Old Net Name=ADC4_TD_N9 New Net Name=NetR48I_1
+Change Net Name : Old Net Name=ADC4_TD_N10 New Net Name=NetR48J_1
+Change Net Name : Old Net Name=ADC4_TD_N11 New Net Name=NetR48K_1
+Change Net Name : Old Net Name=ADC4_TD_N12 New Net Name=NetR48L_1
+Change Net Name : Old Net Name=ADC4_TD_P1 New Net Name=NetR52A_2
+Change Net Name : Old Net Name=ADC4_TD_P2 New Net Name=NetR52B_2
+Change Net Name : Old Net Name=ADC4_TD_P3 New Net Name=NetR52C_2
+Change Net Name : Old Net Name=ADC4_TD_P4 New Net Name=NetR52D_2
+Change Net Name : Old Net Name=ADC4_TD_P5 New Net Name=NetR52E_2
+Change Net Name : Old Net Name=ADC4_TD_P6 New Net Name=NetR52F_2
+Change Net Name : Old Net Name=ADC4_TD_P7 New Net Name=NetR52G_2
+Change Net Name : Old Net Name=ADC4_TD_P8 New Net Name=NetR52H_2
+Change Net Name : Old Net Name=ADC4_TD_P9 New Net Name=NetR52I_2
+Change Net Name : Old Net Name=ADC4_TD_P10 New Net Name=NetR52J_2
+Change Net Name : Old Net Name=ADC4_TD_P11 New Net Name=NetR52K_2
+Change Net Name : Old Net Name=ADC4_TD_P12 New Net Name=NetR52L_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=C19-1
+Added Pin To Net: NetName=NetC18_1 Pin=C20-1
+Added Pin To Net: NetName=NetC18_1 Pin=L1-2
+Added Pin To Net: NetName=NetC18_1 Pin=R5-2
+Added Pin To Net: NetName=NetC18_1 Pin=U1-1
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=U1-6
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-5
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=VIN Pin=L1-1
+Added Net: Name=VIN
+Added Class: Name=Power Supply
+Added Differential Pair: Name=ADC_IN11
+Added Differential Pair: Name=ADC_IN12
+Added Differential Pair: Name=ADC_IN13
+Added Differential Pair: Name=ADC_IN14
+Added Differential Pair: Name=ADC_IN15
+Added Differential Pair: Name=ADC_IN16
+Added Differential Pair: Name=ADC_IN17
+Added Differential Pair: Name=ADC_IN18
+Added Differential Pair: Name=ADC_IN19
+Added Differential Pair: Name=ADC_IN21
+Added Differential Pair: Name=ADC_IN22
+Added Differential Pair: Name=ADC_IN23
+Added Differential Pair: Name=ADC_IN24
+Added Differential Pair: Name=ADC_IN25
+Added Differential Pair: Name=ADC_IN26
+Added Differential Pair: Name=ADC_IN27
+Added Differential Pair: Name=ADC_IN28
+Added Differential Pair: Name=ADC_IN29
+Added Differential Pair: Name=ADC_IN31
+Added Differential Pair: Name=ADC_IN32
+Added Differential Pair: Name=ADC_IN33
+Added Differential Pair: Name=ADC_IN34
+Added Differential Pair: Name=ADC_IN35
+Added Differential Pair: Name=ADC_IN36
+Added Differential Pair: Name=ADC_IN37
+Added Differential Pair: Name=ADC_IN38
+Added Differential Pair: Name=ADC_IN39
+Added Differential Pair: Name=ADC_IN41
+Added Differential Pair: Name=ADC_IN42
+Added Differential Pair: Name=ADC_IN43
+Added Differential Pair: Name=ADC_IN44
+Added Differential Pair: Name=ADC_IN45
+Added Differential Pair: Name=ADC_IN46
+Added Differential Pair: Name=ADC_IN47
+Added Differential Pair: Name=ADC_IN48
+Added Differential Pair: Name=ADC_IN49
+Added Differential Pair: Name=ADC_IN110
+Added Differential Pair: Name=ADC_IN111
+Added Differential Pair: Name=ADC_IN112
+Added Differential Pair: Name=ADC_IN210
+Added Differential Pair: Name=ADC_IN211
+Added Differential Pair: Name=ADC_IN212
+Added Differential Pair: Name=ADC_IN310
+Added Differential Pair: Name=ADC_IN311
+Added Differential Pair: Name=ADC_IN312
+Added Differential Pair: Name=ADC_IN410
+Added Differential Pair: Name=ADC_IN411
+Added Differential Pair: Name=ADC_IN412
+Added Room: Name=Power Supply

@@ -1,0 +1,2673 @@
+Added Component: Designator=BS3B(RES_1206)
+Added Component: Designator=BS3C(RES_1206)
+Added Component: Designator=BS3D(RES_1206)
+Added Component: Designator=BS3E(RES_1206)
+Added Component: Designator=BS3F(RES_1206)
+Added Component: Designator=BS3G(RES_1206)
+Added Component: Designator=BS3H(RES_1206)
+Added Component: Designator=BS3I(RES_1206)
+Added Component: Designator=BS3J(RES_1206)
+Added Component: Designator=BS3K(RES_1206)
+Added Component: Designator=BS3L(RES_1206)
+Added Component: Designator=C1B(CAP_0603)
+Added Component: Designator=C1C(CAP_0603)
+Added Component: Designator=C1D(CAP_0603)
+Added Component: Designator=C1E(CAP_0603)
+Added Component: Designator=C1F(CAP_0603)
+Added Component: Designator=C1G(CAP_0603)
+Added Component: Designator=C1H(CAP_0603)
+Added Component: Designator=C1I(CAP_0603)
+Added Component: Designator=C1J(CAP_0603)
+Added Component: Designator=C1K(CAP_0603)
+Added Component: Designator=C1L(CAP_0603)
+Added Component: Designator=C2B(CAP_0603)
+Added Component: Designator=C2C(CAP_0603)
+Added Component: Designator=C2D(CAP_0603)
+Added Component: Designator=C2E(CAP_0603)
+Added Component: Designator=C2F(CAP_0603)
+Added Component: Designator=C2G(CAP_0603)
+Added Component: Designator=C2H(CAP_0603)
+Added Component: Designator=C2I(CAP_0603)
+Added Component: Designator=C2J(CAP_0603)
+Added Component: Designator=C2K(CAP_0603)
+Added Component: Designator=C2L(CAP_0603)
+Added Component: Designator=C3B(CAP_0603)
+Added Component: Designator=C3C(CAP_0603)
+Added Component: Designator=C3D(CAP_0603)
+Added Component: Designator=C3E(CAP_0603)
+Added Component: Designator=C3F(CAP_0603)
+Added Component: Designator=C3G(CAP_0603)
+Added Component: Designator=C3H(CAP_0603)
+Added Component: Designator=C3I(CAP_0603)
+Added Component: Designator=C3J(CAP_0603)
+Added Component: Designator=C3K(CAP_0603)
+Added Component: Designator=C3L(CAP_0603)
+Added Component: Designator=C35B(CAP_0603)
+Added Component: Designator=C35C(CAP_0603)
+Added Component: Designator=C35D(CAP_0603)
+Added Component: Designator=C35E(CAP_0603)
+Added Component: Designator=C35F(CAP_0603)
+Added Component: Designator=C35G(CAP_0603)
+Added Component: Designator=C35H(CAP_0603)
+Added Component: Designator=C35I(CAP_0603)
+Added Component: Designator=C35J(CAP_0603)
+Added Component: Designator=C35K(CAP_0603)
+Added Component: Designator=C35L(CAP_0603)
+Added Component: Designator=C36B(CAP_0603)
+Added Component: Designator=C36C(CAP_0603)
+Added Component: Designator=C36D(CAP_0603)
+Added Component: Designator=C36E(CAP_0603)
+Added Component: Designator=C36F(CAP_0603)
+Added Component: Designator=C36G(CAP_0603)
+Added Component: Designator=C36H(CAP_0603)
+Added Component: Designator=C36I(CAP_0603)
+Added Component: Designator=C36J(CAP_0603)
+Added Component: Designator=C36K(CAP_0603)
+Added Component: Designator=C36L(CAP_0603)
+Added Component: Designator=C37B(CAP_0603)
+Added Component: Designator=C37C(CAP_0603)
+Added Component: Designator=C37D(CAP_0603)
+Added Component: Designator=C37E(CAP_0603)
+Added Component: Designator=C37F(CAP_0603)
+Added Component: Designator=C37G(CAP_0603)
+Added Component: Designator=C37H(CAP_0603)
+Added Component: Designator=C37I(CAP_0603)
+Added Component: Designator=C37J(CAP_0603)
+Added Component: Designator=C37K(CAP_0603)
+Added Component: Designator=C37L(CAP_0603)
+Added Component: Designator=C38B(CAP_0603)
+Added Component: Designator=C38C(CAP_0603)
+Added Component: Designator=C38D(CAP_0603)
+Added Component: Designator=C38E(CAP_0603)
+Added Component: Designator=C38F(CAP_0603)
+Added Component: Designator=C38G(CAP_0603)
+Added Component: Designator=C38H(CAP_0603)
+Added Component: Designator=C38I(CAP_0603)
+Added Component: Designator=C38J(CAP_0603)
+Added Component: Designator=C38K(CAP_0603)
+Added Component: Designator=C38L(CAP_0603)
+Added Component: Designator=C39B(CAP_0603)
+Added Component: Designator=C39C(CAP_0603)
+Added Component: Designator=C39D(CAP_0603)
+Added Component: Designator=C39E(CAP_0603)
+Added Component: Designator=C39F(CAP_0603)
+Added Component: Designator=C39G(CAP_0603)
+Added Component: Designator=C39H(CAP_0603)
+Added Component: Designator=C39I(CAP_0603)
+Added Component: Designator=C39J(CAP_0603)
+Added Component: Designator=C39K(CAP_0603)
+Added Component: Designator=C39L(CAP_0603)
+Added Component: Designator=C41B(CAP_0603)
+Added Component: Designator=C41C(CAP_0603)
+Added Component: Designator=C41D(CAP_0603)
+Added Component: Designator=C41E(CAP_0603)
+Added Component: Designator=C41F(CAP_0603)
+Added Component: Designator=C41G(CAP_0603)
+Added Component: Designator=C41H(CAP_0603)
+Added Component: Designator=C41I(CAP_0603)
+Added Component: Designator=C41J(CAP_0603)
+Added Component: Designator=C41K(CAP_0603)
+Added Component: Designator=C41L(CAP_0603)
+Added Component: Designator=C42B(CAP_0603)
+Added Component: Designator=C42C(CAP_0603)
+Added Component: Designator=C42D(CAP_0603)
+Added Component: Designator=C42E(CAP_0603)
+Added Component: Designator=C42F(CAP_0603)
+Added Component: Designator=C42G(CAP_0603)
+Added Component: Designator=C42H(CAP_0603)
+Added Component: Designator=C42I(CAP_0603)
+Added Component: Designator=C42J(CAP_0603)
+Added Component: Designator=C42K(CAP_0603)
+Added Component: Designator=C42L(CAP_0603)
+Added Component: Designator=C43B(CAP_0603)
+Added Component: Designator=C43C(CAP_0603)
+Added Component: Designator=C43D(CAP_0603)
+Added Component: Designator=C43E(CAP_0603)
+Added Component: Designator=C43F(CAP_0603)
+Added Component: Designator=C43G(CAP_0603)
+Added Component: Designator=C43H(CAP_0603)
+Added Component: Designator=C43I(CAP_0603)
+Added Component: Designator=C43J(CAP_0603)
+Added Component: Designator=C43K(CAP_0603)
+Added Component: Designator=C43L(CAP_0603)
+Added Component: Designator=C45B(CAP_0603)
+Added Component: Designator=C45C(CAP_0603)
+Added Component: Designator=C45D(CAP_0603)
+Added Component: Designator=C45E(CAP_0603)
+Added Component: Designator=C45F(CAP_0603)
+Added Component: Designator=C45G(CAP_0603)
+Added Component: Designator=C45H(CAP_0603)
+Added Component: Designator=C45I(CAP_0603)
+Added Component: Designator=C45J(CAP_0603)
+Added Component: Designator=C45K(CAP_0603)
+Added Component: Designator=C45L(CAP_0603)
+Added Component: Designator=C47B(CAP_0603)
+Added Component: Designator=C47C(CAP_0603)
+Added Component: Designator=C47D(CAP_0603)
+Added Component: Designator=C47E(CAP_0603)
+Added Component: Designator=C47F(CAP_0603)
+Added Component: Designator=C47G(CAP_0603)
+Added Component: Designator=C47H(CAP_0603)
+Added Component: Designator=C47I(CAP_0603)
+Added Component: Designator=C47J(CAP_0603)
+Added Component: Designator=C47K(CAP_0603)
+Added Component: Designator=C47L(CAP_0603)
+Added Component: Designator=C48B(CAP_0603)
+Added Component: Designator=C48C(CAP_0603)
+Added Component: Designator=C48D(CAP_0603)
+Added Component: Designator=C48E(CAP_0603)
+Added Component: Designator=C48F(CAP_0603)
+Added Component: Designator=C48G(CAP_0603)
+Added Component: Designator=C48H(CAP_0603)
+Added Component: Designator=C48I(CAP_0603)
+Added Component: Designator=C48J(CAP_0603)
+Added Component: Designator=C48K(CAP_0603)
+Added Component: Designator=C48L(CAP_0603)
+Added Component: Designator=C49B(CAP_0603)
+Added Component: Designator=C49C(CAP_0603)
+Added Component: Designator=C49D(CAP_0603)
+Added Component: Designator=C49E(CAP_0603)
+Added Component: Designator=C49F(CAP_0603)
+Added Component: Designator=C49G(CAP_0603)
+Added Component: Designator=C49H(CAP_0603)
+Added Component: Designator=C49I(CAP_0603)
+Added Component: Designator=C49J(CAP_0603)
+Added Component: Designator=C49K(CAP_0603)
+Added Component: Designator=C49L(CAP_0603)
+Added Component: Designator=C50B(CAP_0603)
+Added Component: Designator=C50C(CAP_0603)
+Added Component: Designator=C50D(CAP_0603)
+Added Component: Designator=C50E(CAP_0603)
+Added Component: Designator=C50F(CAP_0603)
+Added Component: Designator=C50G(CAP_0603)
+Added Component: Designator=C50H(CAP_0603)
+Added Component: Designator=C50I(CAP_0603)
+Added Component: Designator=C50J(CAP_0603)
+Added Component: Designator=C50K(CAP_0603)
+Added Component: Designator=C50L(CAP_0603)
+Added Component: Designator=C51B(CAP_0603)
+Added Component: Designator=C51C(CAP_0603)
+Added Component: Designator=C51D(CAP_0603)
+Added Component: Designator=C51E(CAP_0603)
+Added Component: Designator=C51F(CAP_0603)
+Added Component: Designator=C51G(CAP_0603)
+Added Component: Designator=C51H(CAP_0603)
+Added Component: Designator=C51I(CAP_0603)
+Added Component: Designator=C51J(CAP_0603)
+Added Component: Designator=C51K(CAP_0603)
+Added Component: Designator=C51L(CAP_0603)
+Added Component: Designator=C52B(CAP_0603)
+Added Component: Designator=C52C(CAP_0603)
+Added Component: Designator=C52D(CAP_0603)
+Added Component: Designator=C52E(CAP_0603)
+Added Component: Designator=C52F(CAP_0603)
+Added Component: Designator=C52G(CAP_0603)
+Added Component: Designator=C52H(CAP_0603)
+Added Component: Designator=C52I(CAP_0603)
+Added Component: Designator=C52J(CAP_0603)
+Added Component: Designator=C52K(CAP_0603)
+Added Component: Designator=C52L(CAP_0603)
+Added Component: Designator=C54B(CAP_0603)
+Added Component: Designator=C54C(CAP_0603)
+Added Component: Designator=C54D(CAP_0603)
+Added Component: Designator=C54E(CAP_0603)
+Added Component: Designator=C54F(CAP_0603)
+Added Component: Designator=C54G(CAP_0603)
+Added Component: Designator=C54H(CAP_0603)
+Added Component: Designator=C54I(CAP_0603)
+Added Component: Designator=C54J(CAP_0603)
+Added Component: Designator=C54K(CAP_0603)
+Added Component: Designator=C54L(CAP_0603)
+Added Component: Designator=C64B(CAP_0603)
+Added Component: Designator=C64C(CAP_0603)
+Added Component: Designator=C64D(CAP_0603)
+Added Component: Designator=C64E(CAP_0603)
+Added Component: Designator=C64F(CAP_0603)
+Added Component: Designator=C64G(CAP_0603)
+Added Component: Designator=C64H(CAP_0603)
+Added Component: Designator=C64I(CAP_0603)
+Added Component: Designator=C64J(CAP_0603)
+Added Component: Designator=C64K(CAP_0603)
+Added Component: Designator=C64L(CAP_0603)
+Added Component: Designator=C65B(CAP_0603)
+Added Component: Designator=C65C(CAP_0603)
+Added Component: Designator=C65D(CAP_0603)
+Added Component: Designator=C65E(CAP_0603)
+Added Component: Designator=C65F(CAP_0603)
+Added Component: Designator=C65G(CAP_0603)
+Added Component: Designator=C65H(CAP_0603)
+Added Component: Designator=C65I(CAP_0603)
+Added Component: Designator=C65J(CAP_0603)
+Added Component: Designator=C65K(CAP_0603)
+Added Component: Designator=C65L(CAP_0603)
+Added Component: Designator=R30B(RES_0603)
+Added Component: Designator=R30C(RES_0603)
+Added Component: Designator=R30D(RES_0603)
+Added Component: Designator=R30E(RES_0603)
+Added Component: Designator=R30F(RES_0603)
+Added Component: Designator=R30G(RES_0603)
+Added Component: Designator=R30H(RES_0603)
+Added Component: Designator=R30I(RES_0603)
+Added Component: Designator=R30J(RES_0603)
+Added Component: Designator=R30K(RES_0603)
+Added Component: Designator=R30L(RES_0603)
+Added Component: Designator=R31B(RES_0603)
+Added Component: Designator=R31C(RES_0603)
+Added Component: Designator=R31D(RES_0603)
+Added Component: Designator=R31E(RES_0603)
+Added Component: Designator=R31F(RES_0603)
+Added Component: Designator=R31G(RES_0603)
+Added Component: Designator=R31H(RES_0603)
+Added Component: Designator=R31I(RES_0603)
+Added Component: Designator=R31J(RES_0603)
+Added Component: Designator=R31K(RES_0603)
+Added Component: Designator=R31L(RES_0603)
+Added Component: Designator=R32B(RES_0603)
+Added Component: Designator=R32C(RES_0603)
+Added Component: Designator=R32D(RES_0603)
+Added Component: Designator=R32E(RES_0603)
+Added Component: Designator=R32F(RES_0603)
+Added Component: Designator=R32G(RES_0603)
+Added Component: Designator=R32H(RES_0603)
+Added Component: Designator=R32I(RES_0603)
+Added Component: Designator=R32J(RES_0603)
+Added Component: Designator=R32K(RES_0603)
+Added Component: Designator=R32L(RES_0603)
+Added Component: Designator=R33B(RES_0603)
+Added Component: Designator=R33C(RES_0603)
+Added Component: Designator=R33D(RES_0603)
+Added Component: Designator=R33E(RES_0603)
+Added Component: Designator=R33F(RES_0603)
+Added Component: Designator=R33G(RES_0603)
+Added Component: Designator=R33H(RES_0603)
+Added Component: Designator=R33I(RES_0603)
+Added Component: Designator=R33J(RES_0603)
+Added Component: Designator=R33K(RES_0603)
+Added Component: Designator=R33L(RES_0603)
+Added Component: Designator=R34B(RES_0603)
+Added Component: Designator=R34C(RES_0603)
+Added Component: Designator=R34D(RES_0603)
+Added Component: Designator=R34E(RES_0603)
+Added Component: Designator=R34F(RES_0603)
+Added Component: Designator=R34G(RES_0603)
+Added Component: Designator=R34H(RES_0603)
+Added Component: Designator=R34I(RES_0603)
+Added Component: Designator=R34J(RES_0603)
+Added Component: Designator=R34K(RES_0603)
+Added Component: Designator=R34L(RES_0603)
+Added Component: Designator=R35B(RES_0603)
+Added Component: Designator=R35C(RES_0603)
+Added Component: Designator=R35D(RES_0603)
+Added Component: Designator=R35E(RES_0603)
+Added Component: Designator=R35F(RES_0603)
+Added Component: Designator=R35G(RES_0603)
+Added Component: Designator=R35H(RES_0603)
+Added Component: Designator=R35I(RES_0603)
+Added Component: Designator=R35J(RES_0603)
+Added Component: Designator=R35K(RES_0603)
+Added Component: Designator=R35L(RES_0603)
+Added Component: Designator=R36B(RES_0603)
+Added Component: Designator=R36C(RES_0603)
+Added Component: Designator=R36D(RES_0603)
+Added Component: Designator=R36E(RES_0603)
+Added Component: Designator=R36F(RES_0603)
+Added Component: Designator=R36G(RES_0603)
+Added Component: Designator=R36H(RES_0603)
+Added Component: Designator=R36I(RES_0603)
+Added Component: Designator=R36J(RES_0603)
+Added Component: Designator=R36K(RES_0603)
+Added Component: Designator=R36L(RES_0603)
+Added Component: Designator=R37B(RES_0603)
+Added Component: Designator=R37C(RES_0603)
+Added Component: Designator=R37D(RES_0603)
+Added Component: Designator=R37E(RES_0603)
+Added Component: Designator=R37F(RES_0603)
+Added Component: Designator=R37G(RES_0603)
+Added Component: Designator=R37H(RES_0603)
+Added Component: Designator=R37I(RES_0603)
+Added Component: Designator=R37J(RES_0603)
+Added Component: Designator=R37K(RES_0603)
+Added Component: Designator=R37L(RES_0603)
+Added Component: Designator=R38B(RES_0603)
+Added Component: Designator=R38C(RES_0603)
+Added Component: Designator=R38D(RES_0603)
+Added Component: Designator=R38E(RES_0603)
+Added Component: Designator=R38F(RES_0603)
+Added Component: Designator=R38G(RES_0603)
+Added Component: Designator=R38H(RES_0603)
+Added Component: Designator=R38I(RES_0603)
+Added Component: Designator=R38J(RES_0603)
+Added Component: Designator=R38K(RES_0603)
+Added Component: Designator=R38L(RES_0603)
+Added Component: Designator=R39B(RES_0603)
+Added Component: Designator=R39C(RES_0603)
+Added Component: Designator=R39D(RES_0603)
+Added Component: Designator=R39E(RES_0603)
+Added Component: Designator=R39F(RES_0603)
+Added Component: Designator=R39G(RES_0603)
+Added Component: Designator=R39H(RES_0603)
+Added Component: Designator=R39I(RES_0603)
+Added Component: Designator=R39J(RES_0603)
+Added Component: Designator=R39K(RES_0603)
+Added Component: Designator=R39L(RES_0603)
+Added Component: Designator=R40B(RES_0603)
+Added Component: Designator=R40C(RES_0603)
+Added Component: Designator=R40D(RES_0603)
+Added Component: Designator=R40E(RES_0603)
+Added Component: Designator=R40F(RES_0603)
+Added Component: Designator=R40G(RES_0603)
+Added Component: Designator=R40H(RES_0603)
+Added Component: Designator=R40I(RES_0603)
+Added Component: Designator=R40J(RES_0603)
+Added Component: Designator=R40K(RES_0603)
+Added Component: Designator=R40L(RES_0603)
+Added Component: Designator=R41B(RES_0603)
+Added Component: Designator=R41C(RES_0603)
+Added Component: Designator=R41D(RES_0603)
+Added Component: Designator=R41E(RES_0603)
+Added Component: Designator=R41F(RES_0603)
+Added Component: Designator=R41G(RES_0603)
+Added Component: Designator=R41H(RES_0603)
+Added Component: Designator=R41I(RES_0603)
+Added Component: Designator=R41J(RES_0603)
+Added Component: Designator=R41K(RES_0603)
+Added Component: Designator=R41L(RES_0603)
+Added Component: Designator=R42B(RES_0603)
+Added Component: Designator=R42C(RES_0603)
+Added Component: Designator=R42D(RES_0603)
+Added Component: Designator=R42E(RES_0603)
+Added Component: Designator=R42F(RES_0603)
+Added Component: Designator=R42G(RES_0603)
+Added Component: Designator=R42H(RES_0603)
+Added Component: Designator=R42I(RES_0603)
+Added Component: Designator=R42J(RES_0603)
+Added Component: Designator=R42K(RES_0603)
+Added Component: Designator=R42L(RES_0603)
+Added Component: Designator=R43B(RES_0603)
+Added Component: Designator=R43C(RES_0603)
+Added Component: Designator=R43D(RES_0603)
+Added Component: Designator=R43E(RES_0603)
+Added Component: Designator=R43F(RES_0603)
+Added Component: Designator=R43G(RES_0603)
+Added Component: Designator=R43H(RES_0603)
+Added Component: Designator=R43I(RES_0603)
+Added Component: Designator=R43J(RES_0603)
+Added Component: Designator=R43K(RES_0603)
+Added Component: Designator=R43L(RES_0603)
+Added Component: Designator=R44B(RES_0603)
+Added Component: Designator=R44C(RES_0603)
+Added Component: Designator=R44D(RES_0603)
+Added Component: Designator=R44E(RES_0603)
+Added Component: Designator=R44F(RES_0603)
+Added Component: Designator=R44G(RES_0603)
+Added Component: Designator=R44H(RES_0603)
+Added Component: Designator=R44I(RES_0603)
+Added Component: Designator=R44J(RES_0603)
+Added Component: Designator=R44K(RES_0603)
+Added Component: Designator=R44L(RES_0603)
+Added Component: Designator=R45B(RES_0603)
+Added Component: Designator=R45C(RES_0603)
+Added Component: Designator=R45D(RES_0603)
+Added Component: Designator=R45E(RES_0603)
+Added Component: Designator=R45F(RES_0603)
+Added Component: Designator=R45G(RES_0603)
+Added Component: Designator=R45H(RES_0603)
+Added Component: Designator=R45I(RES_0603)
+Added Component: Designator=R45J(RES_0603)
+Added Component: Designator=R45K(RES_0603)
+Added Component: Designator=R45L(RES_0603)
+Added Component: Designator=R46B(RES_0603)
+Added Component: Designator=R46C(RES_0603)
+Added Component: Designator=R46D(RES_0603)
+Added Component: Designator=R46E(RES_0603)
+Added Component: Designator=R46F(RES_0603)
+Added Component: Designator=R46G(RES_0603)
+Added Component: Designator=R46H(RES_0603)
+Added Component: Designator=R46I(RES_0603)
+Added Component: Designator=R46J(RES_0603)
+Added Component: Designator=R46K(RES_0603)
+Added Component: Designator=R46L(RES_0603)
+Added Component: Designator=R47B(RES_0603)
+Added Component: Designator=R47C(RES_0603)
+Added Component: Designator=R47D(RES_0603)
+Added Component: Designator=R47E(RES_0603)
+Added Component: Designator=R47F(RES_0603)
+Added Component: Designator=R47G(RES_0603)
+Added Component: Designator=R47H(RES_0603)
+Added Component: Designator=R47I(RES_0603)
+Added Component: Designator=R47J(RES_0603)
+Added Component: Designator=R47K(RES_0603)
+Added Component: Designator=R47L(RES_0603)
+Added Component: Designator=R48B(RES_0603)
+Added Component: Designator=R48C(RES_0603)
+Added Component: Designator=R48D(RES_0603)
+Added Component: Designator=R48E(RES_0603)
+Added Component: Designator=R48F(RES_0603)
+Added Component: Designator=R48G(RES_0603)
+Added Component: Designator=R48H(RES_0603)
+Added Component: Designator=R48I(RES_0603)
+Added Component: Designator=R48J(RES_0603)
+Added Component: Designator=R48K(RES_0603)
+Added Component: Designator=R48L(RES_0603)
+Added Component: Designator=R49B(RES_0603)
+Added Component: Designator=R49C(RES_0603)
+Added Component: Designator=R49D(RES_0603)
+Added Component: Designator=R49E(RES_0603)
+Added Component: Designator=R49F(RES_0603)
+Added Component: Designator=R49G(RES_0603)
+Added Component: Designator=R49H(RES_0603)
+Added Component: Designator=R49I(RES_0603)
+Added Component: Designator=R49J(RES_0603)
+Added Component: Designator=R49K(RES_0603)
+Added Component: Designator=R49L(RES_0603)
+Added Component: Designator=R50B(RES_0603)
+Added Component: Designator=R50C(RES_0603)
+Added Component: Designator=R50D(RES_0603)
+Added Component: Designator=R50E(RES_0603)
+Added Component: Designator=R50F(RES_0603)
+Added Component: Designator=R50G(RES_0603)
+Added Component: Designator=R50H(RES_0603)
+Added Component: Designator=R50I(RES_0603)
+Added Component: Designator=R50J(RES_0603)
+Added Component: Designator=R50K(RES_0603)
+Added Component: Designator=R50L(RES_0603)
+Added Component: Designator=R51B(RES_0603)
+Added Component: Designator=R51C(RES_0603)
+Added Component: Designator=R51D(RES_0603)
+Added Component: Designator=R51E(RES_0603)
+Added Component: Designator=R51F(RES_0603)
+Added Component: Designator=R51G(RES_0603)
+Added Component: Designator=R51H(RES_0603)
+Added Component: Designator=R51I(RES_0603)
+Added Component: Designator=R51J(RES_0603)
+Added Component: Designator=R51K(RES_0603)
+Added Component: Designator=R51L(RES_0603)
+Added Component: Designator=R52B(RES_0603)
+Added Component: Designator=R52C(RES_0603)
+Added Component: Designator=R52D(RES_0603)
+Added Component: Designator=R52E(RES_0603)
+Added Component: Designator=R52F(RES_0603)
+Added Component: Designator=R52G(RES_0603)
+Added Component: Designator=R52H(RES_0603)
+Added Component: Designator=R52I(RES_0603)
+Added Component: Designator=R52J(RES_0603)
+Added Component: Designator=R52K(RES_0603)
+Added Component: Designator=R52L(RES_0603)
+Added Component: Designator=R53B(RES_0603)
+Added Component: Designator=R53C(RES_0603)
+Added Component: Designator=R53D(RES_0603)
+Added Component: Designator=R53E(RES_0603)
+Added Component: Designator=R53F(RES_0603)
+Added Component: Designator=R53G(RES_0603)
+Added Component: Designator=R53H(RES_0603)
+Added Component: Designator=R53I(RES_0603)
+Added Component: Designator=R53J(RES_0603)
+Added Component: Designator=R53K(RES_0603)
+Added Component: Designator=R53L(RES_0603)
+Added Component: Designator=R57B(RES_1206)
+Added Component: Designator=R57C(RES_1206)
+Added Component: Designator=R57D(RES_1206)
+Added Component: Designator=R57E(RES_1206)
+Added Component: Designator=R57F(RES_1206)
+Added Component: Designator=R57G(RES_1206)
+Added Component: Designator=R57H(RES_1206)
+Added Component: Designator=R57I(RES_1206)
+Added Component: Designator=R57J(RES_1206)
+Added Component: Designator=R57K(RES_1206)
+Added Component: Designator=R57L(RES_1206)
+Added Component: Designator=R58B(RES_1206)
+Added Component: Designator=R58C(RES_1206)
+Added Component: Designator=R58D(RES_1206)
+Added Component: Designator=R58E(RES_1206)
+Added Component: Designator=R58F(RES_1206)
+Added Component: Designator=R58G(RES_1206)
+Added Component: Designator=R58H(RES_1206)
+Added Component: Designator=R58I(RES_1206)
+Added Component: Designator=R58J(RES_1206)
+Added Component: Designator=R58K(RES_1206)
+Added Component: Designator=R58L(RES_1206)
+Added Component: Designator=R62B(RES_1206)
+Added Component: Designator=R62C(RES_1206)
+Added Component: Designator=R62D(RES_1206)
+Added Component: Designator=R62E(RES_1206)
+Added Component: Designator=R62F(RES_1206)
+Added Component: Designator=R62G(RES_1206)
+Added Component: Designator=R62H(RES_1206)
+Added Component: Designator=R62I(RES_1206)
+Added Component: Designator=R62J(RES_1206)
+Added Component: Designator=R62K(RES_1206)
+Added Component: Designator=R62L(RES_1206)
+Added Component: Designator=R63B(RES_1206)
+Added Component: Designator=R63C(RES_1206)
+Added Component: Designator=R63D(RES_1206)
+Added Component: Designator=R63E(RES_1206)
+Added Component: Designator=R63F(RES_1206)
+Added Component: Designator=R63G(RES_1206)
+Added Component: Designator=R63H(RES_1206)
+Added Component: Designator=R63I(RES_1206)
+Added Component: Designator=R63J(RES_1206)
+Added Component: Designator=R63K(RES_1206)
+Added Component: Designator=R63L(RES_1206)
+Added Component: Designator=REF1B(SOT-353)
+Added Component: Designator=REF1C(SOT-353)
+Added Component: Designator=REF1D(SOT-353)
+Added Component: Designator=REF1E(SOT-353)
+Added Component: Designator=REF1F(SOT-353)
+Added Component: Designator=REF1G(SOT-353)
+Added Component: Designator=REF1H(SOT-353)
+Added Component: Designator=REF1I(SOT-353)
+Added Component: Designator=REF1J(SOT-353)
+Added Component: Designator=REF1K(SOT-353)
+Added Component: Designator=REF1L(SOT-353)
+Added Component: Designator=U1B(TSSOP38)
+Added Component: Designator=U1C(TSSOP38)
+Added Component: Designator=U1D(TSSOP38)
+Added Component: Designator=U1E(TSSOP38)
+Added Component: Designator=U1F(TSSOP38)
+Added Component: Designator=U1G(TSSOP38)
+Added Component: Designator=U1H(TSSOP38)
+Added Component: Designator=U1I(TSSOP38)
+Added Component: Designator=U1J(TSSOP38)
+Added Component: Designator=U1K(TSSOP38)
+Added Component: Designator=U1L(TSSOP38)
+Added Pin To Net: NetName=+5V_A Pin=BS3B-1
+Added Pin To Net: NetName=+5V Pin=BS3B-2
+Added Pin To Net: NetName=+5V_A Pin=BS3C-1
+Added Pin To Net: NetName=+5V Pin=BS3C-2
+Added Pin To Net: NetName=+5V_A Pin=BS3D-1
+Added Pin To Net: NetName=+5V Pin=BS3D-2
+Added Pin To Net: NetName=+5V_A Pin=BS3E-1
+Added Pin To Net: NetName=+5V Pin=BS3E-2
+Added Pin To Net: NetName=+5V_A Pin=BS3F-1
+Added Pin To Net: NetName=+5V Pin=BS3F-2
+Added Pin To Net: NetName=+5V_A Pin=BS3G-1
+Added Pin To Net: NetName=+5V Pin=BS3G-2
+Added Pin To Net: NetName=+5V_A Pin=BS3H-1
+Added Pin To Net: NetName=+5V Pin=BS3H-2
+Added Pin To Net: NetName=+5V_A Pin=BS3I-1
+Added Pin To Net: NetName=+5V Pin=BS3I-2
+Added Pin To Net: NetName=+5V_A Pin=BS3J-1
+Added Pin To Net: NetName=+5V Pin=BS3J-2
+Added Pin To Net: NetName=+5V_A Pin=BS3K-1
+Added Pin To Net: NetName=+5V Pin=BS3K-2
+Added Pin To Net: NetName=+5V_A Pin=BS3L-1
+Added Pin To Net: NetName=+5V Pin=BS3L-2
+Added Pin To Net: NetName=GND Pin=C1B-1
+Added Pin To Net: NetName=VCB Pin=C1B-2
+Added Pin To Net: NetName=GND Pin=C1C-1
+Added Pin To Net: NetName=VCC Pin=C1C-2
+Added Pin To Net: NetName=GND Pin=C1D-1
+Added Pin To Net: NetName=VCD Pin=C1D-2
+Added Pin To Net: NetName=GND Pin=C1E-1
+Added Pin To Net: NetName=VCE Pin=C1E-2
+Added Pin To Net: NetName=GND Pin=C1F-1
+Added Pin To Net: NetName=VCF Pin=C1F-2
+Added Pin To Net: NetName=GND Pin=C1G-1
+Added Pin To Net: NetName=VCG Pin=C1G-2
+Added Pin To Net: NetName=GND Pin=C1H-1
+Added Pin To Net: NetName=VCH Pin=C1H-2
+Added Pin To Net: NetName=GND Pin=C1I-1
+Added Pin To Net: NetName=VCI Pin=C1I-2
+Added Pin To Net: NetName=GND Pin=C1J-1
+Added Pin To Net: NetName=VCJ Pin=C1J-2
+Added Pin To Net: NetName=GND Pin=C1K-1
+Added Pin To Net: NetName=VCK Pin=C1K-2
+Added Pin To Net: NetName=GND Pin=C1L-1
+Added Pin To Net: NetName=VCL Pin=C1L-2
+Added Pin To Net: NetName=GND Pin=C2B-1
+Added Pin To Net: NetName=VCB Pin=C2B-2
+Added Pin To Net: NetName=GND Pin=C2C-1
+Added Pin To Net: NetName=VCC Pin=C2C-2
+Added Pin To Net: NetName=GND Pin=C2D-1
+Added Pin To Net: NetName=VCD Pin=C2D-2
+Added Pin To Net: NetName=GND Pin=C2E-1
+Added Pin To Net: NetName=VCE Pin=C2E-2
+Added Pin To Net: NetName=GND Pin=C2F-1
+Added Pin To Net: NetName=VCF Pin=C2F-2
+Added Pin To Net: NetName=GND Pin=C2G-1
+Added Pin To Net: NetName=VCG Pin=C2G-2
+Added Pin To Net: NetName=GND Pin=C2H-1
+Added Pin To Net: NetName=VCH Pin=C2H-2
+Added Pin To Net: NetName=GND Pin=C2I-1
+Added Pin To Net: NetName=VCI Pin=C2I-2
+Added Pin To Net: NetName=GND Pin=C2J-1
+Added Pin To Net: NetName=VCJ Pin=C2J-2
+Added Pin To Net: NetName=GND Pin=C2K-1
+Added Pin To Net: NetName=VCK Pin=C2K-2
+Added Pin To Net: NetName=GND Pin=C2L-1
+Added Pin To Net: NetName=VCL Pin=C2L-2
+Added Pin To Net: NetName=GND Pin=C3B-1
+Added Pin To Net: NetName=+5V_A Pin=C3B-2
+Added Pin To Net: NetName=GND Pin=C3C-1
+Added Pin To Net: NetName=+5V_A Pin=C3C-2
+Added Pin To Net: NetName=GND Pin=C3D-1
+Added Pin To Net: NetName=+5V_A Pin=C3D-2
+Added Pin To Net: NetName=GND Pin=C3E-1
+Added Pin To Net: NetName=+5V_A Pin=C3E-2
+Added Pin To Net: NetName=GND Pin=C3F-1
+Added Pin To Net: NetName=+5V_A Pin=C3F-2
+Added Pin To Net: NetName=GND Pin=C3G-1
+Added Pin To Net: NetName=+5V_A Pin=C3G-2
+Added Pin To Net: NetName=GND Pin=C3H-1
+Added Pin To Net: NetName=+5V_A Pin=C3H-2
+Added Pin To Net: NetName=GND Pin=C3I-1
+Added Pin To Net: NetName=+5V_A Pin=C3I-2
+Added Pin To Net: NetName=GND Pin=C3J-1
+Added Pin To Net: NetName=+5V_A Pin=C3J-2
+Added Pin To Net: NetName=GND Pin=C3K-1
+Added Pin To Net: NetName=+5V_A Pin=C3K-2
+Added Pin To Net: NetName=GND Pin=C3L-1
+Added Pin To Net: NetName=+5V_A Pin=C3L-2
+Added Pin To Net: NetName=GND Pin=C35B-1
+Added Pin To Net: NetName=VCB Pin=C35B-2
+Added Pin To Net: NetName=GND Pin=C35C-1
+Added Pin To Net: NetName=VCC Pin=C35C-2
+Added Pin To Net: NetName=GND Pin=C35D-1
+Added Pin To Net: NetName=VCD Pin=C35D-2
+Added Pin To Net: NetName=GND Pin=C35E-1
+Added Pin To Net: NetName=VCE Pin=C35E-2
+Added Pin To Net: NetName=GND Pin=C35F-1
+Added Pin To Net: NetName=VCF Pin=C35F-2
+Added Pin To Net: NetName=GND Pin=C35G-1
+Added Pin To Net: NetName=VCG Pin=C35G-2
+Added Pin To Net: NetName=GND Pin=C35H-1
+Added Pin To Net: NetName=VCH Pin=C35H-2
+Added Pin To Net: NetName=GND Pin=C35I-1
+Added Pin To Net: NetName=VCI Pin=C35I-2
+Added Pin To Net: NetName=GND Pin=C35J-1
+Added Pin To Net: NetName=VCJ Pin=C35J-2
+Added Pin To Net: NetName=GND Pin=C35K-1
+Added Pin To Net: NetName=VCK Pin=C35K-2
+Added Pin To Net: NetName=GND Pin=C35L-1
+Added Pin To Net: NetName=VCL Pin=C35L-2
+Added Pin To Net: NetName=+5V_A Pin=C36B-1
+Added Pin To Net: NetName=GND Pin=C36B-2
+Added Pin To Net: NetName=+5V_A Pin=C36C-1
+Added Pin To Net: NetName=GND Pin=C36C-2
+Added Pin To Net: NetName=+5V_A Pin=C36D-1
+Added Pin To Net: NetName=GND Pin=C36D-2
+Added Pin To Net: NetName=+5V_A Pin=C36E-1
+Added Pin To Net: NetName=GND Pin=C36E-2
+Added Pin To Net: NetName=+5V_A Pin=C36F-1
+Added Pin To Net: NetName=GND Pin=C36F-2
+Added Pin To Net: NetName=+5V_A Pin=C36G-1
+Added Pin To Net: NetName=GND Pin=C36G-2
+Added Pin To Net: NetName=+5V_A Pin=C36H-1
+Added Pin To Net: NetName=GND Pin=C36H-2
+Added Pin To Net: NetName=+5V_A Pin=C36I-1
+Added Pin To Net: NetName=GND Pin=C36I-2
+Added Pin To Net: NetName=+5V_A Pin=C36J-1
+Added Pin To Net: NetName=GND Pin=C36J-2
+Added Pin To Net: NetName=+5V_A Pin=C36K-1
+Added Pin To Net: NetName=GND Pin=C36K-2
+Added Pin To Net: NetName=+5V_A Pin=C36L-1
+Added Pin To Net: NetName=GND Pin=C36L-2
+Added Pin To Net: NetName=+5V_A Pin=C37B-1
+Added Pin To Net: NetName=GND Pin=C37B-2
+Added Pin To Net: NetName=+5V_A Pin=C37C-1
+Added Pin To Net: NetName=GND Pin=C37C-2
+Added Pin To Net: NetName=+5V_A Pin=C37D-1
+Added Pin To Net: NetName=GND Pin=C37D-2
+Added Pin To Net: NetName=+5V_A Pin=C37E-1
+Added Pin To Net: NetName=GND Pin=C37E-2
+Added Pin To Net: NetName=+5V_A Pin=C37F-1
+Added Pin To Net: NetName=GND Pin=C37F-2
+Added Pin To Net: NetName=+5V_A Pin=C37G-1
+Added Pin To Net: NetName=GND Pin=C37G-2
+Added Pin To Net: NetName=+5V_A Pin=C37H-1
+Added Pin To Net: NetName=GND Pin=C37H-2
+Added Pin To Net: NetName=+5V_A Pin=C37I-1
+Added Pin To Net: NetName=GND Pin=C37I-2
+Added Pin To Net: NetName=+5V_A Pin=C37J-1
+Added Pin To Net: NetName=GND Pin=C37J-2
+Added Pin To Net: NetName=+5V_A Pin=C37K-1
+Added Pin To Net: NetName=GND Pin=C37K-2
+Added Pin To Net: NetName=+5V_A Pin=C37L-1
+Added Pin To Net: NetName=GND Pin=C37L-2
+Added Pin To Net: NetName=+5V_A Pin=C38B-1
+Added Pin To Net: NetName=GND Pin=C38B-2
+Added Pin To Net: NetName=+5V_A Pin=C38C-1
+Added Pin To Net: NetName=GND Pin=C38C-2
+Added Pin To Net: NetName=+5V_A Pin=C38D-1
+Added Pin To Net: NetName=GND Pin=C38D-2
+Added Pin To Net: NetName=+5V_A Pin=C38E-1
+Added Pin To Net: NetName=GND Pin=C38E-2
+Added Pin To Net: NetName=+5V_A Pin=C38F-1
+Added Pin To Net: NetName=GND Pin=C38F-2
+Added Pin To Net: NetName=+5V_A Pin=C38G-1
+Added Pin To Net: NetName=GND Pin=C38G-2
+Added Pin To Net: NetName=+5V_A Pin=C38H-1
+Added Pin To Net: NetName=GND Pin=C38H-2
+Added Pin To Net: NetName=+5V_A Pin=C38I-1
+Added Pin To Net: NetName=GND Pin=C38I-2
+Added Pin To Net: NetName=+5V_A Pin=C38J-1
+Added Pin To Net: NetName=GND Pin=C38J-2
+Added Pin To Net: NetName=+5V_A Pin=C38K-1
+Added Pin To Net: NetName=GND Pin=C38K-2
+Added Pin To Net: NetName=+5V_A Pin=C38L-1
+Added Pin To Net: NetName=GND Pin=C38L-2
+Added Pin To Net: NetName=+5V_A Pin=C39B-1
+Added Pin To Net: NetName=GND Pin=C39B-2
+Added Pin To Net: NetName=+5V_A Pin=C39C-1
+Added Pin To Net: NetName=GND Pin=C39C-2
+Added Pin To Net: NetName=+5V_A Pin=C39D-1
+Added Pin To Net: NetName=GND Pin=C39D-2
+Added Pin To Net: NetName=+5V_A Pin=C39E-1
+Added Pin To Net: NetName=GND Pin=C39E-2
+Added Pin To Net: NetName=+5V_A Pin=C39F-1
+Added Pin To Net: NetName=GND Pin=C39F-2
+Added Pin To Net: NetName=+5V_A Pin=C39G-1
+Added Pin To Net: NetName=GND Pin=C39G-2
+Added Pin To Net: NetName=+5V_A Pin=C39H-1
+Added Pin To Net: NetName=GND Pin=C39H-2
+Added Pin To Net: NetName=+5V_A Pin=C39I-1
+Added Pin To Net: NetName=GND Pin=C39I-2
+Added Pin To Net: NetName=+5V_A Pin=C39J-1
+Added Pin To Net: NetName=GND Pin=C39J-2
+Added Pin To Net: NetName=+5V_A Pin=C39K-1
+Added Pin To Net: NetName=GND Pin=C39K-2
+Added Pin To Net: NetName=+5V_A Pin=C39L-1
+Added Pin To Net: NetName=GND Pin=C39L-2
+Added Pin To Net: NetName=ADC_IN1_N2 Pin=C41B-1
+Added Pin To Net: NetName=GND Pin=C41B-2
+Added Pin To Net: NetName=ADC_IN1_N3 Pin=C41C-1
+Added Pin To Net: NetName=GND Pin=C41C-2
+Added Pin To Net: NetName=ADC_IN1_N4 Pin=C41D-1
+Added Pin To Net: NetName=GND Pin=C41D-2
+Added Pin To Net: NetName=ADC_IN1_N5 Pin=C41E-1
+Added Pin To Net: NetName=GND Pin=C41E-2
+Added Pin To Net: NetName=ADC_IN1_N6 Pin=C41F-1
+Added Pin To Net: NetName=GND Pin=C41F-2
+Added Pin To Net: NetName=ADC_IN1_N7 Pin=C41G-1
+Added Pin To Net: NetName=GND Pin=C41G-2
+Added Pin To Net: NetName=ADC_IN1_N8 Pin=C41H-1
+Added Pin To Net: NetName=GND Pin=C41H-2
+Added Pin To Net: NetName=ADC_IN1_N9 Pin=C41I-1
+Added Pin To Net: NetName=GND Pin=C41I-2
+Added Pin To Net: NetName=ADC_IN1_N10 Pin=C41J-1
+Added Pin To Net: NetName=GND Pin=C41J-2
+Added Pin To Net: NetName=ADC_IN1_N11 Pin=C41K-1
+Added Pin To Net: NetName=GND Pin=C41K-2
+Added Pin To Net: NetName=ADC_IN1_N12 Pin=C41L-1
+Added Pin To Net: NetName=GND Pin=C41L-2
+Added Pin To Net: NetName=GND Pin=C42B-1
+Added Pin To Net: NetName=ADC_IN2_P2 Pin=C42B-2
+Added Pin To Net: NetName=GND Pin=C42C-1
+Added Pin To Net: NetName=ADC_IN2_P3 Pin=C42C-2
+Added Pin To Net: NetName=GND Pin=C42D-1
+Added Pin To Net: NetName=ADC_IN2_P4 Pin=C42D-2
+Added Pin To Net: NetName=GND Pin=C42E-1
+Added Pin To Net: NetName=ADC_IN2_P5 Pin=C42E-2
+Added Pin To Net: NetName=GND Pin=C42F-1
+Added Pin To Net: NetName=ADC_IN2_P6 Pin=C42F-2
+Added Pin To Net: NetName=GND Pin=C42G-1
+Added Pin To Net: NetName=ADC_IN2_P7 Pin=C42G-2
+Added Pin To Net: NetName=GND Pin=C42H-1
+Added Pin To Net: NetName=ADC_IN2_P8 Pin=C42H-2
+Added Pin To Net: NetName=GND Pin=C42I-1
+Added Pin To Net: NetName=ADC_IN2_P9 Pin=C42I-2
+Added Pin To Net: NetName=GND Pin=C42J-1
+Added Pin To Net: NetName=ADC_IN2_P10 Pin=C42J-2
+Added Pin To Net: NetName=GND Pin=C42K-1
+Added Pin To Net: NetName=ADC_IN2_P11 Pin=C42K-2
+Added Pin To Net: NetName=GND Pin=C42L-1
+Added Pin To Net: NetName=ADC_IN2_P12 Pin=C42L-2
+Added Pin To Net: NetName=ADC_IN2_P2 Pin=C43B-1
+Added Pin To Net: NetName=ADC_IN2_N2 Pin=C43B-2
+Added Pin To Net: NetName=ADC_IN2_P3 Pin=C43C-1
+Added Pin To Net: NetName=ADC_IN2_N3 Pin=C43C-2
+Added Pin To Net: NetName=ADC_IN2_P4 Pin=C43D-1
+Added Pin To Net: NetName=ADC_IN2_N4 Pin=C43D-2
+Added Pin To Net: NetName=ADC_IN2_P5 Pin=C43E-1
+Added Pin To Net: NetName=ADC_IN2_N5 Pin=C43E-2
+Added Pin To Net: NetName=ADC_IN2_P6 Pin=C43F-1
+Added Pin To Net: NetName=ADC_IN2_N6 Pin=C43F-2
+Added Pin To Net: NetName=ADC_IN2_P7 Pin=C43G-1
+Added Pin To Net: NetName=ADC_IN2_N7 Pin=C43G-2
+Added Pin To Net: NetName=ADC_IN2_P8 Pin=C43H-1
+Added Pin To Net: NetName=ADC_IN2_N8 Pin=C43H-2
+Added Pin To Net: NetName=ADC_IN2_P9 Pin=C43I-1
+Added Pin To Net: NetName=ADC_IN2_N9 Pin=C43I-2
+Added Pin To Net: NetName=ADC_IN2_P10 Pin=C43J-1
+Added Pin To Net: NetName=ADC_IN2_N10 Pin=C43J-2
+Added Pin To Net: NetName=ADC_IN2_P11 Pin=C43K-1
+Added Pin To Net: NetName=ADC_IN2_N11 Pin=C43K-2
+Added Pin To Net: NetName=ADC_IN2_P12 Pin=C43L-1
+Added Pin To Net: NetName=ADC_IN2_N12 Pin=C43L-2
+Added Pin To Net: NetName=ADC_IN2_N2 Pin=C45B-1
+Added Pin To Net: NetName=GND Pin=C45B-2
+Added Pin To Net: NetName=ADC_IN2_N3 Pin=C45C-1
+Added Pin To Net: NetName=GND Pin=C45C-2
+Added Pin To Net: NetName=ADC_IN2_N4 Pin=C45D-1
+Added Pin To Net: NetName=GND Pin=C45D-2
+Added Pin To Net: NetName=ADC_IN2_N5 Pin=C45E-1
+Added Pin To Net: NetName=GND Pin=C45E-2
+Added Pin To Net: NetName=ADC_IN2_N6 Pin=C45F-1
+Added Pin To Net: NetName=GND Pin=C45F-2
+Added Pin To Net: NetName=ADC_IN2_N7 Pin=C45G-1
+Added Pin To Net: NetName=GND Pin=C45G-2
+Added Pin To Net: NetName=ADC_IN2_N8 Pin=C45H-1
+Added Pin To Net: NetName=GND Pin=C45H-2
+Added Pin To Net: NetName=ADC_IN2_N9 Pin=C45I-1
+Added Pin To Net: NetName=GND Pin=C45I-2
+Added Pin To Net: NetName=ADC_IN2_N10 Pin=C45J-1
+Added Pin To Net: NetName=GND Pin=C45J-2
+Added Pin To Net: NetName=ADC_IN2_N11 Pin=C45K-1
+Added Pin To Net: NetName=GND Pin=C45K-2
+Added Pin To Net: NetName=ADC_IN2_N12 Pin=C45L-1
+Added Pin To Net: NetName=GND Pin=C45L-2
+Added Pin To Net: NetName=GND Pin=C47B-1
+Added Pin To Net: NetName=ADC_IN3_P2 Pin=C47B-2
+Added Pin To Net: NetName=GND Pin=C47C-1
+Added Pin To Net: NetName=ADC_IN3_P3 Pin=C47C-2
+Added Pin To Net: NetName=GND Pin=C47D-1
+Added Pin To Net: NetName=ADC_IN3_P4 Pin=C47D-2
+Added Pin To Net: NetName=GND Pin=C47E-1
+Added Pin To Net: NetName=ADC_IN3_P5 Pin=C47E-2
+Added Pin To Net: NetName=GND Pin=C47F-1
+Added Pin To Net: NetName=ADC_IN3_P6 Pin=C47F-2
+Added Pin To Net: NetName=GND Pin=C47G-1
+Added Pin To Net: NetName=ADC_IN3_P7 Pin=C47G-2
+Added Pin To Net: NetName=GND Pin=C47H-1
+Added Pin To Net: NetName=ADC_IN3_P8 Pin=C47H-2
+Added Pin To Net: NetName=GND Pin=C47I-1
+Added Pin To Net: NetName=ADC_IN3_P9 Pin=C47I-2
+Added Pin To Net: NetName=GND Pin=C47J-1
+Added Pin To Net: NetName=ADC_IN3_P10 Pin=C47J-2
+Added Pin To Net: NetName=GND Pin=C47K-1
+Added Pin To Net: NetName=ADC_IN3_P11 Pin=C47K-2
+Added Pin To Net: NetName=GND Pin=C47L-1
+Added Pin To Net: NetName=ADC_IN3_P12 Pin=C47L-2
+Added Pin To Net: NetName=ADC_IN3_P2 Pin=C48B-1
+Added Pin To Net: NetName=ADC_IN3_N2 Pin=C48B-2
+Added Pin To Net: NetName=ADC_IN3_P3 Pin=C48C-1
+Added Pin To Net: NetName=ADC_IN3_N3 Pin=C48C-2
+Added Pin To Net: NetName=ADC_IN3_P4 Pin=C48D-1
+Added Pin To Net: NetName=ADC_IN3_N4 Pin=C48D-2
+Added Pin To Net: NetName=ADC_IN3_P5 Pin=C48E-1
+Added Pin To Net: NetName=ADC_IN3_N5 Pin=C48E-2
+Added Pin To Net: NetName=ADC_IN3_P6 Pin=C48F-1
+Added Pin To Net: NetName=ADC_IN3_N6 Pin=C48F-2
+Added Pin To Net: NetName=ADC_IN3_P7 Pin=C48G-1
+Added Pin To Net: NetName=ADC_IN3_N7 Pin=C48G-2
+Added Pin To Net: NetName=ADC_IN3_P8 Pin=C48H-1
+Added Pin To Net: NetName=ADC_IN3_N8 Pin=C48H-2
+Added Pin To Net: NetName=ADC_IN3_P9 Pin=C48I-1
+Added Pin To Net: NetName=ADC_IN3_N9 Pin=C48I-2
+Added Pin To Net: NetName=ADC_IN3_P10 Pin=C48J-1
+Added Pin To Net: NetName=ADC_IN3_N10 Pin=C48J-2
+Added Pin To Net: NetName=ADC_IN3_P11 Pin=C48K-1
+Added Pin To Net: NetName=ADC_IN3_N11 Pin=C48K-2
+Added Pin To Net: NetName=ADC_IN3_P12 Pin=C48L-1
+Added Pin To Net: NetName=ADC_IN3_N12 Pin=C48L-2
+Added Pin To Net: NetName=GND Pin=C49B-1
+Added Pin To Net: NetName=VCB Pin=C49B-2
+Added Pin To Net: NetName=GND Pin=C49C-1
+Added Pin To Net: NetName=VCC Pin=C49C-2
+Added Pin To Net: NetName=GND Pin=C49D-1
+Added Pin To Net: NetName=VCD Pin=C49D-2
+Added Pin To Net: NetName=GND Pin=C49E-1
+Added Pin To Net: NetName=VCE Pin=C49E-2
+Added Pin To Net: NetName=GND Pin=C49F-1
+Added Pin To Net: NetName=VCF Pin=C49F-2
+Added Pin To Net: NetName=GND Pin=C49G-1
+Added Pin To Net: NetName=VCG Pin=C49G-2
+Added Pin To Net: NetName=GND Pin=C49H-1
+Added Pin To Net: NetName=VCH Pin=C49H-2
+Added Pin To Net: NetName=GND Pin=C49I-1
+Added Pin To Net: NetName=VCI Pin=C49I-2
+Added Pin To Net: NetName=GND Pin=C49J-1
+Added Pin To Net: NetName=VCJ Pin=C49J-2
+Added Pin To Net: NetName=GND Pin=C49K-1
+Added Pin To Net: NetName=VCK Pin=C49K-2
+Added Pin To Net: NetName=GND Pin=C49L-1
+Added Pin To Net: NetName=VCL Pin=C49L-2
+Added Pin To Net: NetName=ADC_IN3_N2 Pin=C50B-1
+Added Pin To Net: NetName=GND Pin=C50B-2
+Added Pin To Net: NetName=ADC_IN3_N3 Pin=C50C-1
+Added Pin To Net: NetName=GND Pin=C50C-2
+Added Pin To Net: NetName=ADC_IN3_N4 Pin=C50D-1
+Added Pin To Net: NetName=GND Pin=C50D-2
+Added Pin To Net: NetName=ADC_IN3_N5 Pin=C50E-1
+Added Pin To Net: NetName=GND Pin=C50E-2
+Added Pin To Net: NetName=ADC_IN3_N6 Pin=C50F-1
+Added Pin To Net: NetName=GND Pin=C50F-2
+Added Pin To Net: NetName=ADC_IN3_N7 Pin=C50G-1
+Added Pin To Net: NetName=GND Pin=C50G-2
+Added Pin To Net: NetName=ADC_IN3_N8 Pin=C50H-1
+Added Pin To Net: NetName=GND Pin=C50H-2
+Added Pin To Net: NetName=ADC_IN3_N9 Pin=C50I-1
+Added Pin To Net: NetName=GND Pin=C50I-2
+Added Pin To Net: NetName=ADC_IN3_N10 Pin=C50J-1
+Added Pin To Net: NetName=GND Pin=C50J-2
+Added Pin To Net: NetName=ADC_IN3_N11 Pin=C50K-1
+Added Pin To Net: NetName=GND Pin=C50K-2
+Added Pin To Net: NetName=ADC_IN3_N12 Pin=C50L-1
+Added Pin To Net: NetName=GND Pin=C50L-2
+Added Pin To Net: NetName=GND Pin=C51B-1
+Added Pin To Net: NetName=ADC_IN4_P2 Pin=C51B-2
+Added Pin To Net: NetName=GND Pin=C51C-1
+Added Pin To Net: NetName=ADC_IN4_P3 Pin=C51C-2
+Added Pin To Net: NetName=GND Pin=C51D-1
+Added Pin To Net: NetName=ADC_IN4_P4 Pin=C51D-2
+Added Pin To Net: NetName=GND Pin=C51E-1
+Added Pin To Net: NetName=ADC_IN4_P5 Pin=C51E-2
+Added Pin To Net: NetName=GND Pin=C51F-1
+Added Pin To Net: NetName=ADC_IN4_P6 Pin=C51F-2
+Added Pin To Net: NetName=GND Pin=C51G-1
+Added Pin To Net: NetName=ADC_IN4_P7 Pin=C51G-2
+Added Pin To Net: NetName=GND Pin=C51H-1
+Added Pin To Net: NetName=ADC_IN4_P8 Pin=C51H-2
+Added Pin To Net: NetName=GND Pin=C51I-1
+Added Pin To Net: NetName=ADC_IN4_P9 Pin=C51I-2
+Added Pin To Net: NetName=GND Pin=C51J-1
+Added Pin To Net: NetName=ADC_IN4_P10 Pin=C51J-2
+Added Pin To Net: NetName=GND Pin=C51K-1
+Added Pin To Net: NetName=ADC_IN4_P11 Pin=C51K-2
+Added Pin To Net: NetName=GND Pin=C51L-1
+Added Pin To Net: NetName=ADC_IN4_P12 Pin=C51L-2
+Added Pin To Net: NetName=ADC_IN4_P2 Pin=C52B-1
+Added Pin To Net: NetName=ADC_IN4_N2 Pin=C52B-2
+Added Pin To Net: NetName=ADC_IN4_P3 Pin=C52C-1
+Added Pin To Net: NetName=ADC_IN4_N3 Pin=C52C-2
+Added Pin To Net: NetName=ADC_IN4_P4 Pin=C52D-1
+Added Pin To Net: NetName=ADC_IN4_N4 Pin=C52D-2
+Added Pin To Net: NetName=ADC_IN4_P5 Pin=C52E-1
+Added Pin To Net: NetName=ADC_IN4_N5 Pin=C52E-2
+Added Pin To Net: NetName=ADC_IN4_P6 Pin=C52F-1
+Added Pin To Net: NetName=ADC_IN4_N6 Pin=C52F-2
+Added Pin To Net: NetName=ADC_IN4_P7 Pin=C52G-1
+Added Pin To Net: NetName=ADC_IN4_N7 Pin=C52G-2
+Added Pin To Net: NetName=ADC_IN4_P8 Pin=C52H-1
+Added Pin To Net: NetName=ADC_IN4_N8 Pin=C52H-2
+Added Pin To Net: NetName=ADC_IN4_P9 Pin=C52I-1
+Added Pin To Net: NetName=ADC_IN4_N9 Pin=C52I-2
+Added Pin To Net: NetName=ADC_IN4_P10 Pin=C52J-1
+Added Pin To Net: NetName=ADC_IN4_N10 Pin=C52J-2
+Added Pin To Net: NetName=ADC_IN4_P11 Pin=C52K-1
+Added Pin To Net: NetName=ADC_IN4_N11 Pin=C52K-2
+Added Pin To Net: NetName=ADC_IN4_P12 Pin=C52L-1
+Added Pin To Net: NetName=ADC_IN4_N12 Pin=C52L-2
+Added Pin To Net: NetName=ADC_IN4_N2 Pin=C54B-1
+Added Pin To Net: NetName=GND Pin=C54B-2
+Added Pin To Net: NetName=ADC_IN4_N3 Pin=C54C-1
+Added Pin To Net: NetName=GND Pin=C54C-2
+Added Pin To Net: NetName=ADC_IN4_N4 Pin=C54D-1
+Added Pin To Net: NetName=GND Pin=C54D-2
+Added Pin To Net: NetName=ADC_IN4_N5 Pin=C54E-1
+Added Pin To Net: NetName=GND Pin=C54E-2
+Added Pin To Net: NetName=ADC_IN4_N6 Pin=C54F-1
+Added Pin To Net: NetName=GND Pin=C54F-2
+Added Pin To Net: NetName=ADC_IN4_N7 Pin=C54G-1
+Added Pin To Net: NetName=GND Pin=C54G-2
+Added Pin To Net: NetName=ADC_IN4_N8 Pin=C54H-1
+Added Pin To Net: NetName=GND Pin=C54H-2
+Added Pin To Net: NetName=ADC_IN4_N9 Pin=C54I-1
+Added Pin To Net: NetName=GND Pin=C54I-2
+Added Pin To Net: NetName=ADC_IN4_N10 Pin=C54J-1
+Added Pin To Net: NetName=GND Pin=C54J-2
+Added Pin To Net: NetName=ADC_IN4_N11 Pin=C54K-1
+Added Pin To Net: NetName=GND Pin=C54K-2
+Added Pin To Net: NetName=ADC_IN4_N12 Pin=C54L-1
+Added Pin To Net: NetName=GND Pin=C54L-2
+Added Pin To Net: NetName=GND Pin=C64B-1
+Added Pin To Net: NetName=ADC_IN1_P2 Pin=C64B-2
+Added Pin To Net: NetName=GND Pin=C64C-1
+Added Pin To Net: NetName=ADC_IN1_P3 Pin=C64C-2
+Added Pin To Net: NetName=GND Pin=C64D-1
+Added Pin To Net: NetName=ADC_IN1_P4 Pin=C64D-2
+Added Pin To Net: NetName=GND Pin=C64E-1
+Added Pin To Net: NetName=ADC_IN1_P5 Pin=C64E-2
+Added Pin To Net: NetName=GND Pin=C64F-1
+Added Pin To Net: NetName=ADC_IN1_P6 Pin=C64F-2
+Added Pin To Net: NetName=GND Pin=C64G-1
+Added Pin To Net: NetName=ADC_IN1_P7 Pin=C64G-2
+Added Pin To Net: NetName=GND Pin=C64H-1
+Added Pin To Net: NetName=ADC_IN1_P8 Pin=C64H-2
+Added Pin To Net: NetName=GND Pin=C64I-1
+Added Pin To Net: NetName=ADC_IN1_P9 Pin=C64I-2
+Added Pin To Net: NetName=GND Pin=C64J-1
+Added Pin To Net: NetName=ADC_IN1_P10 Pin=C64J-2
+Added Pin To Net: NetName=GND Pin=C64K-1
+Added Pin To Net: NetName=ADC_IN1_P11 Pin=C64K-2
+Added Pin To Net: NetName=GND Pin=C64L-1
+Added Pin To Net: NetName=ADC_IN1_P12 Pin=C64L-2
+Added Pin To Net: NetName=ADC_IN1_P2 Pin=C65B-1
+Added Pin To Net: NetName=ADC_IN1_N2 Pin=C65B-2
+Added Pin To Net: NetName=ADC_IN1_P3 Pin=C65C-1
+Added Pin To Net: NetName=ADC_IN1_N3 Pin=C65C-2
+Added Pin To Net: NetName=ADC_IN1_P4 Pin=C65D-1
+Added Pin To Net: NetName=ADC_IN1_N4 Pin=C65D-2
+Added Pin To Net: NetName=ADC_IN1_P5 Pin=C65E-1
+Added Pin To Net: NetName=ADC_IN1_N5 Pin=C65E-2
+Added Pin To Net: NetName=ADC_IN1_P6 Pin=C65F-1
+Added Pin To Net: NetName=ADC_IN1_N6 Pin=C65F-2
+Added Pin To Net: NetName=ADC_IN1_P7 Pin=C65G-1
+Added Pin To Net: NetName=ADC_IN1_N7 Pin=C65G-2
+Added Pin To Net: NetName=ADC_IN1_P8 Pin=C65H-1
+Added Pin To Net: NetName=ADC_IN1_N8 Pin=C65H-2
+Added Pin To Net: NetName=ADC_IN1_P9 Pin=C65I-1
+Added Pin To Net: NetName=ADC_IN1_N9 Pin=C65I-2
+Added Pin To Net: NetName=ADC_IN1_P10 Pin=C65J-1
+Added Pin To Net: NetName=ADC_IN1_N10 Pin=C65J-2
+Added Pin To Net: NetName=ADC_IN1_P11 Pin=C65K-1
+Added Pin To Net: NetName=ADC_IN1_N11 Pin=C65K-2
+Added Pin To Net: NetName=ADC_IN1_P12 Pin=C65L-1
+Added Pin To Net: NetName=ADC_IN1_N12 Pin=C65L-2
+Added Pin To Net: NetName=ADC1_TD_N2 Pin=R30B-1
+Added Pin To Net: NetName=NetR30B_2 Pin=R30B-2
+Added Pin To Net: NetName=ADC1_TD_N3 Pin=R30C-1
+Added Pin To Net: NetName=NetR30C_2 Pin=R30C-2
+Added Pin To Net: NetName=ADC1_TD_N4 Pin=R30D-1
+Added Pin To Net: NetName=NetR30D_2 Pin=R30D-2
+Added Pin To Net: NetName=ADC1_TD_N5 Pin=R30E-1
+Added Pin To Net: NetName=NetR30E_2 Pin=R30E-2
+Added Pin To Net: NetName=ADC1_TD_N6 Pin=R30F-1
+Added Pin To Net: NetName=NetR30F_2 Pin=R30F-2
+Added Pin To Net: NetName=ADC1_TD_N7 Pin=R30G-1
+Added Pin To Net: NetName=NetR30G_2 Pin=R30G-2
+Added Pin To Net: NetName=ADC1_TD_N8 Pin=R30H-1
+Added Pin To Net: NetName=NetR30H_2 Pin=R30H-2
+Added Pin To Net: NetName=ADC1_TD_N9 Pin=R30I-1
+Added Pin To Net: NetName=NetR30I_2 Pin=R30I-2
+Added Pin To Net: NetName=ADC1_TD_N10 Pin=R30J-1
+Added Pin To Net: NetName=NetR30J_2 Pin=R30J-2
+Added Pin To Net: NetName=ADC1_TD_N11 Pin=R30K-1
+Added Pin To Net: NetName=NetR30K_2 Pin=R30K-2
+Added Pin To Net: NetName=ADC1_TD_N12 Pin=R30L-1
+Added Pin To Net: NetName=NetR30L_2 Pin=R30L-2
+Added Pin To Net: NetName=ADC_IN1_P2 Pin=R31B-1
+Added Pin To Net: NetName=ADC1_TD_N2 Pin=R31B-2
+Added Pin To Net: NetName=ADC_IN1_P3 Pin=R31C-1
+Added Pin To Net: NetName=ADC1_TD_N3 Pin=R31C-2
+Added Pin To Net: NetName=ADC_IN1_P4 Pin=R31D-1
+Added Pin To Net: NetName=ADC1_TD_N4 Pin=R31D-2
+Added Pin To Net: NetName=ADC_IN1_P5 Pin=R31E-1
+Added Pin To Net: NetName=ADC1_TD_N5 Pin=R31E-2
+Added Pin To Net: NetName=ADC_IN1_P6 Pin=R31F-1
+Added Pin To Net: NetName=ADC1_TD_N6 Pin=R31F-2
+Added Pin To Net: NetName=ADC_IN1_P7 Pin=R31G-1
+Added Pin To Net: NetName=ADC1_TD_N7 Pin=R31G-2
+Added Pin To Net: NetName=ADC_IN1_P8 Pin=R31H-1
+Added Pin To Net: NetName=ADC1_TD_N8 Pin=R31H-2
+Added Pin To Net: NetName=ADC_IN1_P9 Pin=R31I-1
+Added Pin To Net: NetName=ADC1_TD_N9 Pin=R31I-2
+Added Pin To Net: NetName=ADC_IN1_P10 Pin=R31J-1
+Added Pin To Net: NetName=ADC1_TD_N10 Pin=R31J-2
+Added Pin To Net: NetName=ADC_IN1_P11 Pin=R31K-1
+Added Pin To Net: NetName=ADC1_TD_N11 Pin=R31K-2
+Added Pin To Net: NetName=ADC_IN1_P12 Pin=R31L-1
+Added Pin To Net: NetName=ADC1_TD_N12 Pin=R31L-2
+Added Pin To Net: NetName=NetR30B_2 Pin=R32B-1
+Added Pin To Net: NetName=AIN1_P2 Pin=R32B-2
+Added Pin To Net: NetName=NetR30C_2 Pin=R32C-1
+Added Pin To Net: NetName=AIN1_P3 Pin=R32C-2
+Added Pin To Net: NetName=NetR30D_2 Pin=R32D-1
+Added Pin To Net: NetName=AIN1_P4 Pin=R32D-2
+Added Pin To Net: NetName=NetR30E_2 Pin=R32E-1
+Added Pin To Net: NetName=AIN1_P5 Pin=R32E-2
+Added Pin To Net: NetName=NetR30F_2 Pin=R32F-1
+Added Pin To Net: NetName=AIN1_P6 Pin=R32F-2
+Added Pin To Net: NetName=NetR30G_2 Pin=R32G-1
+Added Pin To Net: NetName=AIN1_P7 Pin=R32G-2
+Added Pin To Net: NetName=NetR30H_2 Pin=R32H-1
+Added Pin To Net: NetName=AIN1_P8 Pin=R32H-2
+Added Pin To Net: NetName=NetR30I_2 Pin=R32I-1
+Added Pin To Net: NetName=AIN1_P9 Pin=R32I-2
+Added Pin To Net: NetName=NetR30J_2 Pin=R32J-1
+Added Pin To Net: NetName=AIN1_P10 Pin=R32J-2
+Added Pin To Net: NetName=NetR30K_2 Pin=R32K-1
+Added Pin To Net: NetName=AIN1_P11 Pin=R32K-2
+Added Pin To Net: NetName=NetR30L_2 Pin=R32L-1
+Added Pin To Net: NetName=AIN1_P12 Pin=R32L-2
+Added Pin To Net: NetName=NetR33B_1 Pin=R33B-1
+Added Pin To Net: NetName=AIN1_N2 Pin=R33B-2
+Added Pin To Net: NetName=NetR33C_1 Pin=R33C-1
+Added Pin To Net: NetName=AIN1_N3 Pin=R33C-2
+Added Pin To Net: NetName=NetR33D_1 Pin=R33D-1
+Added Pin To Net: NetName=AIN1_N4 Pin=R33D-2
+Added Pin To Net: NetName=NetR33E_1 Pin=R33E-1
+Added Pin To Net: NetName=AIN1_N5 Pin=R33E-2
+Added Pin To Net: NetName=NetR33F_1 Pin=R33F-1
+Added Pin To Net: NetName=AIN1_N6 Pin=R33F-2
+Added Pin To Net: NetName=NetR33G_1 Pin=R33G-1
+Added Pin To Net: NetName=AIN1_N7 Pin=R33G-2
+Added Pin To Net: NetName=NetR33H_1 Pin=R33H-1
+Added Pin To Net: NetName=AIN1_N8 Pin=R33H-2
+Added Pin To Net: NetName=NetR33I_1 Pin=R33I-1
+Added Pin To Net: NetName=AIN1_N9 Pin=R33I-2
+Added Pin To Net: NetName=NetR33J_1 Pin=R33J-1
+Added Pin To Net: NetName=AIN1_N10 Pin=R33J-2
+Added Pin To Net: NetName=NetR33K_1 Pin=R33K-1
+Added Pin To Net: NetName=AIN1_N11 Pin=R33K-2
+Added Pin To Net: NetName=NetR33L_1 Pin=R33L-1
+Added Pin To Net: NetName=AIN1_N12 Pin=R33L-2
+Added Pin To Net: NetName=ADC_IN1_N2 Pin=R34B-1
+Added Pin To Net: NetName=ADC1_TD_P2 Pin=R34B-2
+Added Pin To Net: NetName=ADC_IN1_N3 Pin=R34C-1
+Added Pin To Net: NetName=ADC1_TD_P3 Pin=R34C-2
+Added Pin To Net: NetName=ADC_IN1_N4 Pin=R34D-1
+Added Pin To Net: NetName=ADC1_TD_P4 Pin=R34D-2
+Added Pin To Net: NetName=ADC_IN1_N5 Pin=R34E-1
+Added Pin To Net: NetName=ADC1_TD_P5 Pin=R34E-2
+Added Pin To Net: NetName=ADC_IN1_N6 Pin=R34F-1
+Added Pin To Net: NetName=ADC1_TD_P6 Pin=R34F-2
+Added Pin To Net: NetName=ADC_IN1_N7 Pin=R34G-1
+Added Pin To Net: NetName=ADC1_TD_P7 Pin=R34G-2
+Added Pin To Net: NetName=ADC_IN1_N8 Pin=R34H-1
+Added Pin To Net: NetName=ADC1_TD_P8 Pin=R34H-2
+Added Pin To Net: NetName=ADC_IN1_N9 Pin=R34I-1
+Added Pin To Net: NetName=ADC1_TD_P9 Pin=R34I-2
+Added Pin To Net: NetName=ADC_IN1_N10 Pin=R34J-1
+Added Pin To Net: NetName=ADC1_TD_P10 Pin=R34J-2
+Added Pin To Net: NetName=ADC_IN1_N11 Pin=R34K-1
+Added Pin To Net: NetName=ADC1_TD_P11 Pin=R34K-2
+Added Pin To Net: NetName=ADC_IN1_N12 Pin=R34L-1
+Added Pin To Net: NetName=ADC1_TD_P12 Pin=R34L-2
+Added Pin To Net: NetName=NetR33B_1 Pin=R35B-1
+Added Pin To Net: NetName=ADC1_TD_P2 Pin=R35B-2
+Added Pin To Net: NetName=NetR33C_1 Pin=R35C-1
+Added Pin To Net: NetName=ADC1_TD_P3 Pin=R35C-2
+Added Pin To Net: NetName=NetR33D_1 Pin=R35D-1
+Added Pin To Net: NetName=ADC1_TD_P4 Pin=R35D-2
+Added Pin To Net: NetName=NetR33E_1 Pin=R35E-1
+Added Pin To Net: NetName=ADC1_TD_P5 Pin=R35E-2
+Added Pin To Net: NetName=NetR33F_1 Pin=R35F-1
+Added Pin To Net: NetName=ADC1_TD_P6 Pin=R35F-2
+Added Pin To Net: NetName=NetR33G_1 Pin=R35G-1
+Added Pin To Net: NetName=ADC1_TD_P7 Pin=R35G-2
+Added Pin To Net: NetName=NetR33H_1 Pin=R35H-1
+Added Pin To Net: NetName=ADC1_TD_P8 Pin=R35H-2
+Added Pin To Net: NetName=NetR33I_1 Pin=R35I-1
+Added Pin To Net: NetName=ADC1_TD_P9 Pin=R35I-2
+Added Pin To Net: NetName=NetR33J_1 Pin=R35J-1
+Added Pin To Net: NetName=ADC1_TD_P10 Pin=R35J-2
+Added Pin To Net: NetName=NetR33K_1 Pin=R35K-1
+Added Pin To Net: NetName=ADC1_TD_P11 Pin=R35K-2
+Added Pin To Net: NetName=NetR33L_1 Pin=R35L-1
+Added Pin To Net: NetName=ADC1_TD_P12 Pin=R35L-2
+Added Pin To Net: NetName=ADC2_TD_N2 Pin=R36B-1
+Added Pin To Net: NetName=NetR36B_2 Pin=R36B-2
+Added Pin To Net: NetName=ADC2_TD_N3 Pin=R36C-1
+Added Pin To Net: NetName=NetR36C_2 Pin=R36C-2
+Added Pin To Net: NetName=ADC2_TD_N4 Pin=R36D-1
+Added Pin To Net: NetName=NetR36D_2 Pin=R36D-2
+Added Pin To Net: NetName=ADC2_TD_N5 Pin=R36E-1
+Added Pin To Net: NetName=NetR36E_2 Pin=R36E-2
+Added Pin To Net: NetName=ADC2_TD_N6 Pin=R36F-1
+Added Pin To Net: NetName=NetR36F_2 Pin=R36F-2
+Added Pin To Net: NetName=ADC2_TD_N7 Pin=R36G-1
+Added Pin To Net: NetName=NetR36G_2 Pin=R36G-2
+Added Pin To Net: NetName=ADC2_TD_N8 Pin=R36H-1
+Added Pin To Net: NetName=NetR36H_2 Pin=R36H-2
+Added Pin To Net: NetName=ADC2_TD_N9 Pin=R36I-1
+Added Pin To Net: NetName=NetR36I_2 Pin=R36I-2
+Added Pin To Net: NetName=ADC2_TD_N10 Pin=R36J-1
+Added Pin To Net: NetName=NetR36J_2 Pin=R36J-2
+Added Pin To Net: NetName=ADC2_TD_N11 Pin=R36K-1
+Added Pin To Net: NetName=NetR36K_2 Pin=R36K-2
+Added Pin To Net: NetName=ADC2_TD_N12 Pin=R36L-1
+Added Pin To Net: NetName=NetR36L_2 Pin=R36L-2
+Added Pin To Net: NetName=ADC_IN2_P2 Pin=R37B-1
+Added Pin To Net: NetName=ADC2_TD_N2 Pin=R37B-2
+Added Pin To Net: NetName=ADC_IN2_P3 Pin=R37C-1
+Added Pin To Net: NetName=ADC2_TD_N3 Pin=R37C-2
+Added Pin To Net: NetName=ADC_IN2_P4 Pin=R37D-1
+Added Pin To Net: NetName=ADC2_TD_N4 Pin=R37D-2
+Added Pin To Net: NetName=ADC_IN2_P5 Pin=R37E-1
+Added Pin To Net: NetName=ADC2_TD_N5 Pin=R37E-2
+Added Pin To Net: NetName=ADC_IN2_P6 Pin=R37F-1
+Added Pin To Net: NetName=ADC2_TD_N6 Pin=R37F-2
+Added Pin To Net: NetName=ADC_IN2_P7 Pin=R37G-1
+Added Pin To Net: NetName=ADC2_TD_N7 Pin=R37G-2
+Added Pin To Net: NetName=ADC_IN2_P8 Pin=R37H-1
+Added Pin To Net: NetName=ADC2_TD_N8 Pin=R37H-2
+Added Pin To Net: NetName=ADC_IN2_P9 Pin=R37I-1
+Added Pin To Net: NetName=ADC2_TD_N9 Pin=R37I-2
+Added Pin To Net: NetName=ADC_IN2_P10 Pin=R37J-1
+Added Pin To Net: NetName=ADC2_TD_N10 Pin=R37J-2
+Added Pin To Net: NetName=ADC_IN2_P11 Pin=R37K-1
+Added Pin To Net: NetName=ADC2_TD_N11 Pin=R37K-2
+Added Pin To Net: NetName=ADC_IN2_P12 Pin=R37L-1
+Added Pin To Net: NetName=ADC2_TD_N12 Pin=R37L-2
+Added Pin To Net: NetName=NetR36B_2 Pin=R38B-1
+Added Pin To Net: NetName=AIN2_P2 Pin=R38B-2
+Added Pin To Net: NetName=NetR36C_2 Pin=R38C-1
+Added Pin To Net: NetName=AIN2_P3 Pin=R38C-2
+Added Pin To Net: NetName=NetR36D_2 Pin=R38D-1
+Added Pin To Net: NetName=AIN2_P4 Pin=R38D-2
+Added Pin To Net: NetName=NetR36E_2 Pin=R38E-1
+Added Pin To Net: NetName=AIN2_P5 Pin=R38E-2
+Added Pin To Net: NetName=NetR36F_2 Pin=R38F-1
+Added Pin To Net: NetName=AIN2_P6 Pin=R38F-2
+Added Pin To Net: NetName=NetR36G_2 Pin=R38G-1
+Added Pin To Net: NetName=AIN2_P7 Pin=R38G-2
+Added Pin To Net: NetName=NetR36H_2 Pin=R38H-1
+Added Pin To Net: NetName=AIN2_P8 Pin=R38H-2
+Added Pin To Net: NetName=NetR36I_2 Pin=R38I-1
+Added Pin To Net: NetName=AIN2_P9 Pin=R38I-2
+Added Pin To Net: NetName=NetR36J_2 Pin=R38J-1
+Added Pin To Net: NetName=AIN2_P10 Pin=R38J-2
+Added Pin To Net: NetName=NetR36K_2 Pin=R38K-1
+Added Pin To Net: NetName=AIN2_P11 Pin=R38K-2
+Added Pin To Net: NetName=NetR36L_2 Pin=R38L-1
+Added Pin To Net: NetName=AIN2_P12 Pin=R38L-2
+Added Pin To Net: NetName=NetR39B_1 Pin=R39B-1
+Added Pin To Net: NetName=AIN2B_N Pin=R39B-2
+Added Pin To Net: NetName=NetR39C_1 Pin=R39C-1
+Added Pin To Net: NetName=AIN2C_N Pin=R39C-2
+Added Pin To Net: NetName=NetR39D_1 Pin=R39D-1
+Added Pin To Net: NetName=AIN2D_N Pin=R39D-2
+Added Pin To Net: NetName=NetR39E_1 Pin=R39E-1
+Added Pin To Net: NetName=AIN2E_N Pin=R39E-2
+Added Pin To Net: NetName=NetR39F_1 Pin=R39F-1
+Added Pin To Net: NetName=AIN2F_N Pin=R39F-2
+Added Pin To Net: NetName=NetR39G_1 Pin=R39G-1
+Added Pin To Net: NetName=AIN2G_N Pin=R39G-2
+Added Pin To Net: NetName=NetR39H_1 Pin=R39H-1
+Added Pin To Net: NetName=AIN2H_N Pin=R39H-2
+Added Pin To Net: NetName=NetR39I_1 Pin=R39I-1
+Added Pin To Net: NetName=AIN2I_N Pin=R39I-2
+Added Pin To Net: NetName=NetR39J_1 Pin=R39J-1
+Added Pin To Net: NetName=AIN2J_N Pin=R39J-2
+Added Pin To Net: NetName=NetR39K_1 Pin=R39K-1
+Added Pin To Net: NetName=AIN2K_N Pin=R39K-2
+Added Pin To Net: NetName=NetR39L_1 Pin=R39L-1
+Added Pin To Net: NetName=AIN2L_N Pin=R39L-2
+Added Pin To Net: NetName=ADC_IN2_N2 Pin=R40B-1
+Added Pin To Net: NetName=ADC2_TD_P2 Pin=R40B-2
+Added Pin To Net: NetName=ADC_IN2_N3 Pin=R40C-1
+Added Pin To Net: NetName=ADC2_TD_P3 Pin=R40C-2
+Added Pin To Net: NetName=ADC_IN2_N4 Pin=R40D-1
+Added Pin To Net: NetName=ADC2_TD_P4 Pin=R40D-2
+Added Pin To Net: NetName=ADC_IN2_N5 Pin=R40E-1
+Added Pin To Net: NetName=ADC2_TD_P5 Pin=R40E-2
+Added Pin To Net: NetName=ADC_IN2_N6 Pin=R40F-1
+Added Pin To Net: NetName=ADC2_TD_P6 Pin=R40F-2
+Added Pin To Net: NetName=ADC_IN2_N7 Pin=R40G-1
+Added Pin To Net: NetName=ADC2_TD_P7 Pin=R40G-2
+Added Pin To Net: NetName=ADC_IN2_N8 Pin=R40H-1
+Added Pin To Net: NetName=ADC2_TD_P8 Pin=R40H-2
+Added Pin To Net: NetName=ADC_IN2_N9 Pin=R40I-1
+Added Pin To Net: NetName=ADC2_TD_P9 Pin=R40I-2
+Added Pin To Net: NetName=ADC_IN2_N10 Pin=R40J-1
+Added Pin To Net: NetName=ADC2_TD_P10 Pin=R40J-2
+Added Pin To Net: NetName=ADC_IN2_N11 Pin=R40K-1
+Added Pin To Net: NetName=ADC2_TD_P11 Pin=R40K-2
+Added Pin To Net: NetName=ADC_IN2_N12 Pin=R40L-1
+Added Pin To Net: NetName=ADC2_TD_P12 Pin=R40L-2
+Added Pin To Net: NetName=NetR39B_1 Pin=R41B-1
+Added Pin To Net: NetName=ADC2_TD_P2 Pin=R41B-2
+Added Pin To Net: NetName=NetR39C_1 Pin=R41C-1
+Added Pin To Net: NetName=ADC2_TD_P3 Pin=R41C-2
+Added Pin To Net: NetName=NetR39D_1 Pin=R41D-1
+Added Pin To Net: NetName=ADC2_TD_P4 Pin=R41D-2
+Added Pin To Net: NetName=NetR39E_1 Pin=R41E-1
+Added Pin To Net: NetName=ADC2_TD_P5 Pin=R41E-2
+Added Pin To Net: NetName=NetR39F_1 Pin=R41F-1
+Added Pin To Net: NetName=ADC2_TD_P6 Pin=R41F-2
+Added Pin To Net: NetName=NetR39G_1 Pin=R41G-1
+Added Pin To Net: NetName=ADC2_TD_P7 Pin=R41G-2
+Added Pin To Net: NetName=NetR39H_1 Pin=R41H-1
+Added Pin To Net: NetName=ADC2_TD_P8 Pin=R41H-2
+Added Pin To Net: NetName=NetR39I_1 Pin=R41I-1
+Added Pin To Net: NetName=ADC2_TD_P9 Pin=R41I-2
+Added Pin To Net: NetName=NetR39J_1 Pin=R41J-1
+Added Pin To Net: NetName=ADC2_TD_P10 Pin=R41J-2
+Added Pin To Net: NetName=NetR39K_1 Pin=R41K-1
+Added Pin To Net: NetName=ADC2_TD_P11 Pin=R41K-2
+Added Pin To Net: NetName=NetR39L_1 Pin=R41L-1
+Added Pin To Net: NetName=ADC2_TD_P12 Pin=R41L-2
+Added Pin To Net: NetName=ADC3_TD_N2 Pin=R42B-1
+Added Pin To Net: NetName=NetR42B_2 Pin=R42B-2
+Added Pin To Net: NetName=ADC3_TD_N3 Pin=R42C-1
+Added Pin To Net: NetName=NetR42C_2 Pin=R42C-2
+Added Pin To Net: NetName=ADC3_TD_N4 Pin=R42D-1
+Added Pin To Net: NetName=NetR42D_2 Pin=R42D-2
+Added Pin To Net: NetName=ADC3_TD_N5 Pin=R42E-1
+Added Pin To Net: NetName=NetR42E_2 Pin=R42E-2
+Added Pin To Net: NetName=ADC3_TD_N6 Pin=R42F-1
+Added Pin To Net: NetName=NetR42F_2 Pin=R42F-2
+Added Pin To Net: NetName=ADC3_TD_N7 Pin=R42G-1
+Added Pin To Net: NetName=NetR42G_2 Pin=R42G-2
+Added Pin To Net: NetName=ADC3_TD_N8 Pin=R42H-1
+Added Pin To Net: NetName=NetR42H_2 Pin=R42H-2
+Added Pin To Net: NetName=ADC3_TD_N9 Pin=R42I-1
+Added Pin To Net: NetName=NetR42I_2 Pin=R42I-2
+Added Pin To Net: NetName=ADC3_TD_N10 Pin=R42J-1
+Added Pin To Net: NetName=NetR42J_2 Pin=R42J-2
+Added Pin To Net: NetName=ADC3_TD_N11 Pin=R42K-1
+Added Pin To Net: NetName=NetR42K_2 Pin=R42K-2
+Added Pin To Net: NetName=ADC3_TD_N12 Pin=R42L-1
+Added Pin To Net: NetName=NetR42L_2 Pin=R42L-2
+Added Pin To Net: NetName=ADC_IN3_P2 Pin=R43B-1
+Added Pin To Net: NetName=ADC3_TD_N2 Pin=R43B-2
+Added Pin To Net: NetName=ADC_IN3_P3 Pin=R43C-1
+Added Pin To Net: NetName=ADC3_TD_N3 Pin=R43C-2
+Added Pin To Net: NetName=ADC_IN3_P4 Pin=R43D-1
+Added Pin To Net: NetName=ADC3_TD_N4 Pin=R43D-2
+Added Pin To Net: NetName=ADC_IN3_P5 Pin=R43E-1
+Added Pin To Net: NetName=ADC3_TD_N5 Pin=R43E-2
+Added Pin To Net: NetName=ADC_IN3_P6 Pin=R43F-1
+Added Pin To Net: NetName=ADC3_TD_N6 Pin=R43F-2
+Added Pin To Net: NetName=ADC_IN3_P7 Pin=R43G-1
+Added Pin To Net: NetName=ADC3_TD_N7 Pin=R43G-2
+Added Pin To Net: NetName=ADC_IN3_P8 Pin=R43H-1
+Added Pin To Net: NetName=ADC3_TD_N8 Pin=R43H-2
+Added Pin To Net: NetName=ADC_IN3_P9 Pin=R43I-1
+Added Pin To Net: NetName=ADC3_TD_N9 Pin=R43I-2
+Added Pin To Net: NetName=ADC_IN3_P10 Pin=R43J-1
+Added Pin To Net: NetName=ADC3_TD_N10 Pin=R43J-2
+Added Pin To Net: NetName=ADC_IN3_P11 Pin=R43K-1
+Added Pin To Net: NetName=ADC3_TD_N11 Pin=R43K-2
+Added Pin To Net: NetName=ADC_IN3_P12 Pin=R43L-1
+Added Pin To Net: NetName=ADC3_TD_N12 Pin=R43L-2
+Added Pin To Net: NetName=NetR42B_2 Pin=R44B-1
+Added Pin To Net: NetName=AIN3_P2 Pin=R44B-2
+Added Pin To Net: NetName=NetR42C_2 Pin=R44C-1
+Added Pin To Net: NetName=AIN3_P3 Pin=R44C-2
+Added Pin To Net: NetName=NetR42D_2 Pin=R44D-1
+Added Pin To Net: NetName=AIN3_P4 Pin=R44D-2
+Added Pin To Net: NetName=NetR42E_2 Pin=R44E-1
+Added Pin To Net: NetName=AIN3_P5 Pin=R44E-2
+Added Pin To Net: NetName=NetR42F_2 Pin=R44F-1
+Added Pin To Net: NetName=AIN3_P6 Pin=R44F-2
+Added Pin To Net: NetName=NetR42G_2 Pin=R44G-1
+Added Pin To Net: NetName=AIN3_P7 Pin=R44G-2
+Added Pin To Net: NetName=NetR42H_2 Pin=R44H-1
+Added Pin To Net: NetName=AIN3_P8 Pin=R44H-2
+Added Pin To Net: NetName=NetR42I_2 Pin=R44I-1
+Added Pin To Net: NetName=AIN3_P9 Pin=R44I-2
+Added Pin To Net: NetName=NetR42J_2 Pin=R44J-1
+Added Pin To Net: NetName=AIN3_P10 Pin=R44J-2
+Added Pin To Net: NetName=NetR42K_2 Pin=R44K-1
+Added Pin To Net: NetName=AIN3_P11 Pin=R44K-2
+Added Pin To Net: NetName=NetR42L_2 Pin=R44L-1
+Added Pin To Net: NetName=AIN3_P12 Pin=R44L-2
+Added Pin To Net: NetName=NetR45B_1 Pin=R45B-1
+Added Pin To Net: NetName=AIN3_N2 Pin=R45B-2
+Added Pin To Net: NetName=NetR45C_1 Pin=R45C-1
+Added Pin To Net: NetName=AIN3_N3 Pin=R45C-2
+Added Pin To Net: NetName=NetR45D_1 Pin=R45D-1
+Added Pin To Net: NetName=AIN3_N4 Pin=R45D-2
+Added Pin To Net: NetName=NetR45E_1 Pin=R45E-1
+Added Pin To Net: NetName=AIN3_N5 Pin=R45E-2
+Added Pin To Net: NetName=NetR45F_1 Pin=R45F-1
+Added Pin To Net: NetName=AIN3_N6 Pin=R45F-2
+Added Pin To Net: NetName=NetR45G_1 Pin=R45G-1
+Added Pin To Net: NetName=AIN3_N7 Pin=R45G-2
+Added Pin To Net: NetName=NetR45H_1 Pin=R45H-1
+Added Pin To Net: NetName=AIN3_N8 Pin=R45H-2
+Added Pin To Net: NetName=NetR45I_1 Pin=R45I-1
+Added Pin To Net: NetName=AIN3_N9 Pin=R45I-2
+Added Pin To Net: NetName=NetR45J_1 Pin=R45J-1
+Added Pin To Net: NetName=AIN3_N10 Pin=R45J-2
+Added Pin To Net: NetName=NetR45K_1 Pin=R45K-1
+Added Pin To Net: NetName=AIN3_N11 Pin=R45K-2
+Added Pin To Net: NetName=NetR45L_1 Pin=R45L-1
+Added Pin To Net: NetName=AIN3_N12 Pin=R45L-2
+Added Pin To Net: NetName=ADC_IN3_N2 Pin=R46B-1
+Added Pin To Net: NetName=ADC3_TD_P2 Pin=R46B-2
+Added Pin To Net: NetName=ADC_IN3_N3 Pin=R46C-1
+Added Pin To Net: NetName=ADC3_TD_P3 Pin=R46C-2
+Added Pin To Net: NetName=ADC_IN3_N4 Pin=R46D-1
+Added Pin To Net: NetName=ADC3_TD_P4 Pin=R46D-2
+Added Pin To Net: NetName=ADC_IN3_N5 Pin=R46E-1
+Added Pin To Net: NetName=ADC3_TD_P5 Pin=R46E-2
+Added Pin To Net: NetName=ADC_IN3_N6 Pin=R46F-1
+Added Pin To Net: NetName=ADC3_TD_P6 Pin=R46F-2
+Added Pin To Net: NetName=ADC_IN3_N7 Pin=R46G-1
+Added Pin To Net: NetName=ADC3_TD_P7 Pin=R46G-2
+Added Pin To Net: NetName=ADC_IN3_N8 Pin=R46H-1
+Added Pin To Net: NetName=ADC3_TD_P8 Pin=R46H-2
+Added Pin To Net: NetName=ADC_IN3_N9 Pin=R46I-1
+Added Pin To Net: NetName=ADC3_TD_P9 Pin=R46I-2
+Added Pin To Net: NetName=ADC_IN3_N10 Pin=R46J-1
+Added Pin To Net: NetName=ADC3_TD_P10 Pin=R46J-2
+Added Pin To Net: NetName=ADC_IN3_N11 Pin=R46K-1
+Added Pin To Net: NetName=ADC3_TD_P11 Pin=R46K-2
+Added Pin To Net: NetName=ADC_IN3_N12 Pin=R46L-1
+Added Pin To Net: NetName=ADC3_TD_P12 Pin=R46L-2
+Added Pin To Net: NetName=NetR45B_1 Pin=R47B-1
+Added Pin To Net: NetName=ADC3_TD_P2 Pin=R47B-2
+Added Pin To Net: NetName=NetR45C_1 Pin=R47C-1
+Added Pin To Net: NetName=ADC3_TD_P3 Pin=R47C-2
+Added Pin To Net: NetName=NetR45D_1 Pin=R47D-1
+Added Pin To Net: NetName=ADC3_TD_P4 Pin=R47D-2
+Added Pin To Net: NetName=NetR45E_1 Pin=R47E-1
+Added Pin To Net: NetName=ADC3_TD_P5 Pin=R47E-2
+Added Pin To Net: NetName=NetR45F_1 Pin=R47F-1
+Added Pin To Net: NetName=ADC3_TD_P6 Pin=R47F-2
+Added Pin To Net: NetName=NetR45G_1 Pin=R47G-1
+Added Pin To Net: NetName=ADC3_TD_P7 Pin=R47G-2
+Added Pin To Net: NetName=NetR45H_1 Pin=R47H-1
+Added Pin To Net: NetName=ADC3_TD_P8 Pin=R47H-2
+Added Pin To Net: NetName=NetR45I_1 Pin=R47I-1
+Added Pin To Net: NetName=ADC3_TD_P9 Pin=R47I-2
+Added Pin To Net: NetName=NetR45J_1 Pin=R47J-1
+Added Pin To Net: NetName=ADC3_TD_P10 Pin=R47J-2
+Added Pin To Net: NetName=NetR45K_1 Pin=R47K-1
+Added Pin To Net: NetName=ADC3_TD_P11 Pin=R47K-2
+Added Pin To Net: NetName=NetR45L_1 Pin=R47L-1
+Added Pin To Net: NetName=ADC3_TD_P12 Pin=R47L-2
+Added Pin To Net: NetName=ADC4_TD_N2 Pin=R48B-1
+Added Pin To Net: NetName=NetR48B_2 Pin=R48B-2
+Added Pin To Net: NetName=ADC4_TD_N3 Pin=R48C-1
+Added Pin To Net: NetName=NetR48C_2 Pin=R48C-2
+Added Pin To Net: NetName=ADC4_TD_N4 Pin=R48D-1
+Added Pin To Net: NetName=NetR48D_2 Pin=R48D-2
+Added Pin To Net: NetName=ADC4_TD_N5 Pin=R48E-1
+Added Pin To Net: NetName=NetR48E_2 Pin=R48E-2
+Added Pin To Net: NetName=ADC4_TD_N6 Pin=R48F-1
+Added Pin To Net: NetName=NetR48F_2 Pin=R48F-2
+Added Pin To Net: NetName=ADC4_TD_N7 Pin=R48G-1
+Added Pin To Net: NetName=NetR48G_2 Pin=R48G-2
+Added Pin To Net: NetName=ADC4_TD_N8 Pin=R48H-1
+Added Pin To Net: NetName=NetR48H_2 Pin=R48H-2
+Added Pin To Net: NetName=ADC4_TD_N9 Pin=R48I-1
+Added Pin To Net: NetName=NetR48I_2 Pin=R48I-2
+Added Pin To Net: NetName=ADC4_TD_N10 Pin=R48J-1
+Added Pin To Net: NetName=NetR48J_2 Pin=R48J-2
+Added Pin To Net: NetName=ADC4_TD_N11 Pin=R48K-1
+Added Pin To Net: NetName=NetR48K_2 Pin=R48K-2
+Added Pin To Net: NetName=ADC4_TD_N12 Pin=R48L-1
+Added Pin To Net: NetName=NetR48L_2 Pin=R48L-2
+Added Pin To Net: NetName=ADC_IN4_P2 Pin=R49B-1
+Added Pin To Net: NetName=ADC4_TD_N2 Pin=R49B-2
+Added Pin To Net: NetName=ADC_IN4_P3 Pin=R49C-1
+Added Pin To Net: NetName=ADC4_TD_N3 Pin=R49C-2
+Added Pin To Net: NetName=ADC_IN4_P4 Pin=R49D-1
+Added Pin To Net: NetName=ADC4_TD_N4 Pin=R49D-2
+Added Pin To Net: NetName=ADC_IN4_P5 Pin=R49E-1
+Added Pin To Net: NetName=ADC4_TD_N5 Pin=R49E-2
+Added Pin To Net: NetName=ADC_IN4_P6 Pin=R49F-1
+Added Pin To Net: NetName=ADC4_TD_N6 Pin=R49F-2
+Added Pin To Net: NetName=ADC_IN4_P7 Pin=R49G-1
+Added Pin To Net: NetName=ADC4_TD_N7 Pin=R49G-2
+Added Pin To Net: NetName=ADC_IN4_P8 Pin=R49H-1
+Added Pin To Net: NetName=ADC4_TD_N8 Pin=R49H-2
+Added Pin To Net: NetName=ADC_IN4_P9 Pin=R49I-1
+Added Pin To Net: NetName=ADC4_TD_N9 Pin=R49I-2
+Added Pin To Net: NetName=ADC_IN4_P10 Pin=R49J-1
+Added Pin To Net: NetName=ADC4_TD_N10 Pin=R49J-2
+Added Pin To Net: NetName=ADC_IN4_P11 Pin=R49K-1
+Added Pin To Net: NetName=ADC4_TD_N11 Pin=R49K-2
+Added Pin To Net: NetName=ADC_IN4_P12 Pin=R49L-1
+Added Pin To Net: NetName=ADC4_TD_N12 Pin=R49L-2
+Added Pin To Net: NetName=NetR48B_2 Pin=R50B-1
+Added Pin To Net: NetName=AIN4_P2 Pin=R50B-2
+Added Pin To Net: NetName=NetR48C_2 Pin=R50C-1
+Added Pin To Net: NetName=AIN4_P3 Pin=R50C-2
+Added Pin To Net: NetName=NetR48D_2 Pin=R50D-1
+Added Pin To Net: NetName=AIN4_P4 Pin=R50D-2
+Added Pin To Net: NetName=NetR48E_2 Pin=R50E-1
+Added Pin To Net: NetName=AIN4_P5 Pin=R50E-2
+Added Pin To Net: NetName=NetR48F_2 Pin=R50F-1
+Added Pin To Net: NetName=AIN4_P6 Pin=R50F-2
+Added Pin To Net: NetName=NetR48G_2 Pin=R50G-1
+Added Pin To Net: NetName=AIN4_P7 Pin=R50G-2
+Added Pin To Net: NetName=NetR48H_2 Pin=R50H-1
+Added Pin To Net: NetName=AIN4_P8 Pin=R50H-2
+Added Pin To Net: NetName=NetR48I_2 Pin=R50I-1
+Added Pin To Net: NetName=AIN4_P9 Pin=R50I-2
+Added Pin To Net: NetName=NetR48J_2 Pin=R50J-1
+Added Pin To Net: NetName=AIN4_P10 Pin=R50J-2
+Added Pin To Net: NetName=NetR48K_2 Pin=R50K-1
+Added Pin To Net: NetName=AIN4_P11 Pin=R50K-2
+Added Pin To Net: NetName=NetR48L_2 Pin=R50L-1
+Added Pin To Net: NetName=AIN4_P12 Pin=R50L-2
+Added Pin To Net: NetName=NetR51B_1 Pin=R51B-1
+Added Pin To Net: NetName=AIN4_N2 Pin=R51B-2
+Added Pin To Net: NetName=NetR51C_1 Pin=R51C-1
+Added Pin To Net: NetName=AIN4_N3 Pin=R51C-2
+Added Pin To Net: NetName=NetR51D_1 Pin=R51D-1
+Added Pin To Net: NetName=AIN4_N4 Pin=R51D-2
+Added Pin To Net: NetName=NetR51E_1 Pin=R51E-1
+Added Pin To Net: NetName=AIN4_N5 Pin=R51E-2
+Added Pin To Net: NetName=NetR51F_1 Pin=R51F-1
+Added Pin To Net: NetName=AIN4_N6 Pin=R51F-2
+Added Pin To Net: NetName=NetR51G_1 Pin=R51G-1
+Added Pin To Net: NetName=AIN4_N7 Pin=R51G-2
+Added Pin To Net: NetName=NetR51H_1 Pin=R51H-1
+Added Pin To Net: NetName=AIN4_N8 Pin=R51H-2
+Added Pin To Net: NetName=NetR51I_1 Pin=R51I-1
+Added Pin To Net: NetName=AIN4_N9 Pin=R51I-2
+Added Pin To Net: NetName=NetR51J_1 Pin=R51J-1
+Added Pin To Net: NetName=AIN4_N10 Pin=R51J-2
+Added Pin To Net: NetName=NetR51K_1 Pin=R51K-1
+Added Pin To Net: NetName=AIN4_N11 Pin=R51K-2
+Added Pin To Net: NetName=NetR51L_1 Pin=R51L-1
+Added Pin To Net: NetName=AIN4_N12 Pin=R51L-2
+Added Pin To Net: NetName=ADC_IN4_N2 Pin=R52B-1
+Added Pin To Net: NetName=ADC4_TD_P2 Pin=R52B-2
+Added Pin To Net: NetName=ADC_IN4_N3 Pin=R52C-1
+Added Pin To Net: NetName=ADC4_TD_P3 Pin=R52C-2
+Added Pin To Net: NetName=ADC_IN4_N4 Pin=R52D-1
+Added Pin To Net: NetName=ADC4_TD_P4 Pin=R52D-2
+Added Pin To Net: NetName=ADC_IN4_N5 Pin=R52E-1
+Added Pin To Net: NetName=ADC4_TD_P5 Pin=R52E-2
+Added Pin To Net: NetName=ADC_IN4_N6 Pin=R52F-1
+Added Pin To Net: NetName=ADC4_TD_P6 Pin=R52F-2
+Added Pin To Net: NetName=ADC_IN4_N7 Pin=R52G-1
+Added Pin To Net: NetName=ADC4_TD_P7 Pin=R52G-2
+Added Pin To Net: NetName=ADC_IN4_N8 Pin=R52H-1
+Added Pin To Net: NetName=ADC4_TD_P8 Pin=R52H-2
+Added Pin To Net: NetName=ADC_IN4_N9 Pin=R52I-1
+Added Pin To Net: NetName=ADC4_TD_P9 Pin=R52I-2
+Added Pin To Net: NetName=ADC_IN4_N10 Pin=R52J-1
+Added Pin To Net: NetName=ADC4_TD_P10 Pin=R52J-2
+Added Pin To Net: NetName=ADC_IN4_N11 Pin=R52K-1
+Added Pin To Net: NetName=ADC4_TD_P11 Pin=R52K-2
+Added Pin To Net: NetName=ADC_IN4_N12 Pin=R52L-1
+Added Pin To Net: NetName=ADC4_TD_P12 Pin=R52L-2
+Added Pin To Net: NetName=NetR51B_1 Pin=R53B-1
+Added Pin To Net: NetName=ADC4_TD_P2 Pin=R53B-2
+Added Pin To Net: NetName=NetR51C_1 Pin=R53C-1
+Added Pin To Net: NetName=ADC4_TD_P3 Pin=R53C-2
+Added Pin To Net: NetName=NetR51D_1 Pin=R53D-1
+Added Pin To Net: NetName=ADC4_TD_P4 Pin=R53D-2
+Added Pin To Net: NetName=NetR51E_1 Pin=R53E-1
+Added Pin To Net: NetName=ADC4_TD_P5 Pin=R53E-2
+Added Pin To Net: NetName=NetR51F_1 Pin=R53F-1
+Added Pin To Net: NetName=ADC4_TD_P6 Pin=R53F-2
+Added Pin To Net: NetName=NetR51G_1 Pin=R53G-1
+Added Pin To Net: NetName=ADC4_TD_P7 Pin=R53G-2
+Added Pin To Net: NetName=NetR51H_1 Pin=R53H-1
+Added Pin To Net: NetName=ADC4_TD_P8 Pin=R53H-2
+Added Pin To Net: NetName=NetR51I_1 Pin=R53I-1
+Added Pin To Net: NetName=ADC4_TD_P9 Pin=R53I-2
+Added Pin To Net: NetName=NetR51J_1 Pin=R53J-1
+Added Pin To Net: NetName=ADC4_TD_P10 Pin=R53J-2
+Added Pin To Net: NetName=NetR51K_1 Pin=R53K-1
+Added Pin To Net: NetName=ADC4_TD_P11 Pin=R53K-2
+Added Pin To Net: NetName=NetR51L_1 Pin=R53L-1
+Added Pin To Net: NetName=ADC4_TD_P12 Pin=R53L-2
+Added Pin To Net: NetName=AIN1_P2 Pin=R57B-1
+Added Pin To Net: NetName=AIN1_N2 Pin=R57B-2
+Added Pin To Net: NetName=AIN1_P3 Pin=R57C-1
+Added Pin To Net: NetName=AIN1_N3 Pin=R57C-2
+Added Pin To Net: NetName=AIN1_P4 Pin=R57D-1
+Added Pin To Net: NetName=AIN1_N4 Pin=R57D-2
+Added Pin To Net: NetName=AIN1_P5 Pin=R57E-1
+Added Pin To Net: NetName=AIN1_N5 Pin=R57E-2
+Added Pin To Net: NetName=AIN1_P6 Pin=R57F-1
+Added Pin To Net: NetName=AIN1_N6 Pin=R57F-2
+Added Pin To Net: NetName=AIN1_P7 Pin=R57G-1
+Added Pin To Net: NetName=AIN1_N7 Pin=R57G-2
+Added Pin To Net: NetName=AIN1_P8 Pin=R57H-1
+Added Pin To Net: NetName=AIN1_N8 Pin=R57H-2
+Added Pin To Net: NetName=AIN1_P9 Pin=R57I-1
+Added Pin To Net: NetName=AIN1_N9 Pin=R57I-2
+Added Pin To Net: NetName=AIN1_P10 Pin=R57J-1
+Added Pin To Net: NetName=AIN1_N10 Pin=R57J-2
+Added Pin To Net: NetName=AIN1_P11 Pin=R57K-1
+Added Pin To Net: NetName=AIN1_N11 Pin=R57K-2
+Added Pin To Net: NetName=AIN1_P12 Pin=R57L-1
+Added Pin To Net: NetName=AIN1_N12 Pin=R57L-2
+Added Pin To Net: NetName=AIN2_P2 Pin=R58B-1
+Added Pin To Net: NetName=AIN2B_N Pin=R58B-2
+Added Pin To Net: NetName=AIN2_P3 Pin=R58C-1
+Added Pin To Net: NetName=AIN2C_N Pin=R58C-2
+Added Pin To Net: NetName=AIN2_P4 Pin=R58D-1
+Added Pin To Net: NetName=AIN2D_N Pin=R58D-2
+Added Pin To Net: NetName=AIN2_P5 Pin=R58E-1
+Added Pin To Net: NetName=AIN2E_N Pin=R58E-2
+Added Pin To Net: NetName=AIN2_P6 Pin=R58F-1
+Added Pin To Net: NetName=AIN2F_N Pin=R58F-2
+Added Pin To Net: NetName=AIN2_P7 Pin=R58G-1
+Added Pin To Net: NetName=AIN2G_N Pin=R58G-2
+Added Pin To Net: NetName=AIN2_P8 Pin=R58H-1
+Added Pin To Net: NetName=AIN2H_N Pin=R58H-2
+Added Pin To Net: NetName=AIN2_P9 Pin=R58I-1
+Added Pin To Net: NetName=AIN2I_N Pin=R58I-2
+Added Pin To Net: NetName=AIN2_P10 Pin=R58J-1
+Added Pin To Net: NetName=AIN2J_N Pin=R58J-2
+Added Pin To Net: NetName=AIN2_P11 Pin=R58K-1
+Added Pin To Net: NetName=AIN2K_N Pin=R58K-2
+Added Pin To Net: NetName=AIN2_P12 Pin=R58L-1
+Added Pin To Net: NetName=AIN2L_N Pin=R58L-2
+Added Pin To Net: NetName=AIN3_P2 Pin=R62B-1
+Added Pin To Net: NetName=AIN3_N2 Pin=R62B-2
+Added Pin To Net: NetName=AIN3_P3 Pin=R62C-1
+Added Pin To Net: NetName=AIN3_N3 Pin=R62C-2
+Added Pin To Net: NetName=AIN3_P4 Pin=R62D-1
+Added Pin To Net: NetName=AIN3_N4 Pin=R62D-2
+Added Pin To Net: NetName=AIN3_P5 Pin=R62E-1
+Added Pin To Net: NetName=AIN3_N5 Pin=R62E-2
+Added Pin To Net: NetName=AIN3_P6 Pin=R62F-1
+Added Pin To Net: NetName=AIN3_N6 Pin=R62F-2
+Added Pin To Net: NetName=AIN3_P7 Pin=R62G-1
+Added Pin To Net: NetName=AIN3_N7 Pin=R62G-2
+Added Pin To Net: NetName=AIN3_P8 Pin=R62H-1
+Added Pin To Net: NetName=AIN3_N8 Pin=R62H-2
+Added Pin To Net: NetName=AIN3_P9 Pin=R62I-1
+Added Pin To Net: NetName=AIN3_N9 Pin=R62I-2
+Added Pin To Net: NetName=AIN3_P10 Pin=R62J-1
+Added Pin To Net: NetName=AIN3_N10 Pin=R62J-2
+Added Pin To Net: NetName=AIN3_P11 Pin=R62K-1
+Added Pin To Net: NetName=AIN3_N11 Pin=R62K-2
+Added Pin To Net: NetName=AIN3_P12 Pin=R62L-1
+Added Pin To Net: NetName=AIN3_N12 Pin=R62L-2
+Added Pin To Net: NetName=AIN4_P2 Pin=R63B-1
+Added Pin To Net: NetName=AIN4_N2 Pin=R63B-2
+Added Pin To Net: NetName=AIN4_P3 Pin=R63C-1
+Added Pin To Net: NetName=AIN4_N3 Pin=R63C-2
+Added Pin To Net: NetName=AIN4_P4 Pin=R63D-1
+Added Pin To Net: NetName=AIN4_N4 Pin=R63D-2
+Added Pin To Net: NetName=AIN4_P5 Pin=R63E-1
+Added Pin To Net: NetName=AIN4_N5 Pin=R63E-2
+Added Pin To Net: NetName=AIN4_P6 Pin=R63F-1
+Added Pin To Net: NetName=AIN4_N6 Pin=R63F-2
+Added Pin To Net: NetName=AIN4_P7 Pin=R63G-1
+Added Pin To Net: NetName=AIN4_N7 Pin=R63G-2
+Added Pin To Net: NetName=AIN4_P8 Pin=R63H-1
+Added Pin To Net: NetName=AIN4_N8 Pin=R63H-2
+Added Pin To Net: NetName=AIN4_P9 Pin=R63I-1
+Added Pin To Net: NetName=AIN4_N9 Pin=R63I-2
+Added Pin To Net: NetName=AIN4_P10 Pin=R63J-1
+Added Pin To Net: NetName=AIN4_N10 Pin=R63J-2
+Added Pin To Net: NetName=AIN4_P11 Pin=R63K-1
+Added Pin To Net: NetName=AIN4_N11 Pin=R63K-2
+Added Pin To Net: NetName=AIN4_P12 Pin=R63L-1
+Added Pin To Net: NetName=AIN4_N12 Pin=R63L-2
+Added Pin To Net: NetName=VCB Pin=REF1B-1
+Added Pin To Net: NetName=GND Pin=REF1B-2
+Added Pin To Net: NetName=+5V_A Pin=REF1B-3
+Added Pin To Net: NetName=+5V_A Pin=REF1B-4
+Added Pin To Net: NetName=VCC Pin=REF1C-1
+Added Pin To Net: NetName=GND Pin=REF1C-2
+Added Pin To Net: NetName=+5V_A Pin=REF1C-3
+Added Pin To Net: NetName=+5V_A Pin=REF1C-4
+Added Pin To Net: NetName=VCD Pin=REF1D-1
+Added Pin To Net: NetName=GND Pin=REF1D-2
+Added Pin To Net: NetName=+5V_A Pin=REF1D-3
+Added Pin To Net: NetName=+5V_A Pin=REF1D-4
+Added Pin To Net: NetName=VCE Pin=REF1E-1
+Added Pin To Net: NetName=GND Pin=REF1E-2
+Added Pin To Net: NetName=+5V_A Pin=REF1E-3
+Added Pin To Net: NetName=+5V_A Pin=REF1E-4
+Added Pin To Net: NetName=VCF Pin=REF1F-1
+Added Pin To Net: NetName=GND Pin=REF1F-2
+Added Pin To Net: NetName=+5V_A Pin=REF1F-3
+Added Pin To Net: NetName=+5V_A Pin=REF1F-4
+Added Pin To Net: NetName=VCG Pin=REF1G-1
+Added Pin To Net: NetName=GND Pin=REF1G-2
+Added Pin To Net: NetName=+5V_A Pin=REF1G-3
+Added Pin To Net: NetName=+5V_A Pin=REF1G-4
+Added Pin To Net: NetName=VCH Pin=REF1H-1
+Added Pin To Net: NetName=GND Pin=REF1H-2
+Added Pin To Net: NetName=+5V_A Pin=REF1H-3
+Added Pin To Net: NetName=+5V_A Pin=REF1H-4
+Added Pin To Net: NetName=VCI Pin=REF1I-1
+Added Pin To Net: NetName=GND Pin=REF1I-2
+Added Pin To Net: NetName=+5V_A Pin=REF1I-3
+Added Pin To Net: NetName=+5V_A Pin=REF1I-4
+Added Pin To Net: NetName=VCJ Pin=REF1J-1
+Added Pin To Net: NetName=GND Pin=REF1J-2
+Added Pin To Net: NetName=+5V_A Pin=REF1J-3
+Added Pin To Net: NetName=+5V_A Pin=REF1J-4
+Added Pin To Net: NetName=VCK Pin=REF1K-1
+Added Pin To Net: NetName=GND Pin=REF1K-2
+Added Pin To Net: NetName=+5V_A Pin=REF1K-3
+Added Pin To Net: NetName=+5V_A Pin=REF1K-4
+Added Pin To Net: NetName=VCL Pin=REF1L-1
+Added Pin To Net: NetName=GND Pin=REF1L-2
+Added Pin To Net: NetName=+5V_A Pin=REF1L-3
+Added Pin To Net: NetName=+5V_A Pin=REF1L-4
+Added Pin To Net: NetName=NetR30B_2 Pin=U1B-2
+Added Pin To Net: NetName=NetR33B_1 Pin=U1B-3
+Added Pin To Net: NetName=VCB Pin=U1B-4
+Added Pin To Net: NetName=GND Pin=U1B-5
+Added Pin To Net: NetName=NetR36B_2 Pin=U1B-7
+Added Pin To Net: NetName=NetR39B_1 Pin=U1B-8
+Added Pin To Net: NetName=VCB Pin=U1B-9
+Added Pin To Net: NetName=GND Pin=U1B-10
+Added Pin To Net: NetName=NetR42B_2 Pin=U1B-12
+Added Pin To Net: NetName=NetR45B_1 Pin=U1B-13
+Added Pin To Net: NetName=VCB Pin=U1B-14
+Added Pin To Net: NetName=GND Pin=U1B-15
+Added Pin To Net: NetName=NetR48B_2 Pin=U1B-17
+Added Pin To Net: NetName=NetR51B_1 Pin=U1B-18
+Added Pin To Net: NetName=VCB Pin=U1B-19
+Added Pin To Net: NetName=+5V_A Pin=U1B-20
+Added Pin To Net: NetName=ADC4_TD_P2 Pin=U1B-21
+Added Pin To Net: NetName=ADC4_TD_N2 Pin=U1B-22
+Added Pin To Net: NetName=GND Pin=U1B-23
+Added Pin To Net: NetName=GND Pin=U1B-24
+Added Pin To Net: NetName=+5V_A Pin=U1B-25
+Added Pin To Net: NetName=ADC3_TD_P2 Pin=U1B-26
+Added Pin To Net: NetName=ADC3_TD_N2 Pin=U1B-27
+Added Pin To Net: NetName=GND Pin=U1B-28
+Added Pin To Net: NetName=GND Pin=U1B-29
+Added Pin To Net: NetName=+5V_A Pin=U1B-30
+Added Pin To Net: NetName=ADC2_TD_P2 Pin=U1B-31
+Added Pin To Net: NetName=ADC2_TD_N2 Pin=U1B-32
+Added Pin To Net: NetName=GND Pin=U1B-33
+Added Pin To Net: NetName=GND Pin=U1B-34
+Added Pin To Net: NetName=+5V_A Pin=U1B-35
+Added Pin To Net: NetName=ADC1_TD_P2 Pin=U1B-36
+Added Pin To Net: NetName=ADC1_TD_N2 Pin=U1B-37
+Added Pin To Net: NetName=GND Pin=U1B-38
+Added Pin To Net: NetName=NetR30C_2 Pin=U1C-2
+Added Pin To Net: NetName=NetR33C_1 Pin=U1C-3
+Added Pin To Net: NetName=VCC Pin=U1C-4
+Added Pin To Net: NetName=GND Pin=U1C-5
+Added Pin To Net: NetName=NetR36C_2 Pin=U1C-7
+Added Pin To Net: NetName=NetR39C_1 Pin=U1C-8
+Added Pin To Net: NetName=VCC Pin=U1C-9
+Added Pin To Net: NetName=GND Pin=U1C-10
+Added Pin To Net: NetName=NetR42C_2 Pin=U1C-12
+Added Pin To Net: NetName=NetR45C_1 Pin=U1C-13
+Added Pin To Net: NetName=VCC Pin=U1C-14
+Added Pin To Net: NetName=GND Pin=U1C-15
+Added Pin To Net: NetName=NetR48C_2 Pin=U1C-17
+Added Pin To Net: NetName=NetR51C_1 Pin=U1C-18
+Added Pin To Net: NetName=VCC Pin=U1C-19
+Added Pin To Net: NetName=+5V_A Pin=U1C-20
+Added Pin To Net: NetName=ADC4_TD_P3 Pin=U1C-21
+Added Pin To Net: NetName=ADC4_TD_N3 Pin=U1C-22
+Added Pin To Net: NetName=GND Pin=U1C-23
+Added Pin To Net: NetName=GND Pin=U1C-24
+Added Pin To Net: NetName=+5V_A Pin=U1C-25
+Added Pin To Net: NetName=ADC3_TD_P3 Pin=U1C-26
+Added Pin To Net: NetName=ADC3_TD_N3 Pin=U1C-27
+Added Pin To Net: NetName=GND Pin=U1C-28
+Added Pin To Net: NetName=GND Pin=U1C-29
+Added Pin To Net: NetName=+5V_A Pin=U1C-30
+Added Pin To Net: NetName=ADC2_TD_P3 Pin=U1C-31
+Added Pin To Net: NetName=ADC2_TD_N3 Pin=U1C-32
+Added Pin To Net: NetName=GND Pin=U1C-33
+Added Pin To Net: NetName=GND Pin=U1C-34
+Added Pin To Net: NetName=+5V_A Pin=U1C-35
+Added Pin To Net: NetName=ADC1_TD_P3 Pin=U1C-36
+Added Pin To Net: NetName=ADC1_TD_N3 Pin=U1C-37
+Added Pin To Net: NetName=GND Pin=U1C-38
+Added Pin To Net: NetName=NetR30D_2 Pin=U1D-2
+Added Pin To Net: NetName=NetR33D_1 Pin=U1D-3
+Added Pin To Net: NetName=VCD Pin=U1D-4
+Added Pin To Net: NetName=GND Pin=U1D-5
+Added Pin To Net: NetName=NetR36D_2 Pin=U1D-7
+Added Pin To Net: NetName=NetR39D_1 Pin=U1D-8
+Added Pin To Net: NetName=VCD Pin=U1D-9
+Added Pin To Net: NetName=GND Pin=U1D-10
+Added Pin To Net: NetName=NetR42D_2 Pin=U1D-12
+Added Pin To Net: NetName=NetR45D_1 Pin=U1D-13
+Added Pin To Net: NetName=VCD Pin=U1D-14
+Added Pin To Net: NetName=GND Pin=U1D-15
+Added Pin To Net: NetName=NetR48D_2 Pin=U1D-17
+Added Pin To Net: NetName=NetR51D_1 Pin=U1D-18
+Added Pin To Net: NetName=VCD Pin=U1D-19
+Added Pin To Net: NetName=+5V_A Pin=U1D-20
+Added Pin To Net: NetName=ADC4_TD_P4 Pin=U1D-21
+Added Pin To Net: NetName=ADC4_TD_N4 Pin=U1D-22
+Added Pin To Net: NetName=GND Pin=U1D-23
+Added Pin To Net: NetName=GND Pin=U1D-24
+Added Pin To Net: NetName=+5V_A Pin=U1D-25
+Added Pin To Net: NetName=ADC3_TD_P4 Pin=U1D-26
+Added Pin To Net: NetName=ADC3_TD_N4 Pin=U1D-27
+Added Pin To Net: NetName=GND Pin=U1D-28
+Added Pin To Net: NetName=GND Pin=U1D-29
+Added Pin To Net: NetName=+5V_A Pin=U1D-30
+Added Pin To Net: NetName=ADC2_TD_P4 Pin=U1D-31
+Added Pin To Net: NetName=ADC2_TD_N4 Pin=U1D-32
+Added Pin To Net: NetName=GND Pin=U1D-33
+Added Pin To Net: NetName=GND Pin=U1D-34
+Added Pin To Net: NetName=+5V_A Pin=U1D-35
+Added Pin To Net: NetName=ADC1_TD_P4 Pin=U1D-36
+Added Pin To Net: NetName=ADC1_TD_N4 Pin=U1D-37
+Added Pin To Net: NetName=GND Pin=U1D-38
+Added Pin To Net: NetName=NetR30E_2 Pin=U1E-2
+Added Pin To Net: NetName=NetR33E_1 Pin=U1E-3
+Added Pin To Net: NetName=VCE Pin=U1E-4
+Added Pin To Net: NetName=GND Pin=U1E-5
+Added Pin To Net: NetName=NetR36E_2 Pin=U1E-7
+Added Pin To Net: NetName=NetR39E_1 Pin=U1E-8
+Added Pin To Net: NetName=VCE Pin=U1E-9
+Added Pin To Net: NetName=GND Pin=U1E-10
+Added Pin To Net: NetName=NetR42E_2 Pin=U1E-12
+Added Pin To Net: NetName=NetR45E_1 Pin=U1E-13
+Added Pin To Net: NetName=VCE Pin=U1E-14
+Added Pin To Net: NetName=GND Pin=U1E-15
+Added Pin To Net: NetName=NetR48E_2 Pin=U1E-17
+Added Pin To Net: NetName=NetR51E_1 Pin=U1E-18
+Added Pin To Net: NetName=VCE Pin=U1E-19
+Added Pin To Net: NetName=+5V_A Pin=U1E-20
+Added Pin To Net: NetName=ADC4_TD_P5 Pin=U1E-21
+Added Pin To Net: NetName=ADC4_TD_N5 Pin=U1E-22
+Added Pin To Net: NetName=GND Pin=U1E-23
+Added Pin To Net: NetName=GND Pin=U1E-24
+Added Pin To Net: NetName=+5V_A Pin=U1E-25
+Added Pin To Net: NetName=ADC3_TD_P5 Pin=U1E-26
+Added Pin To Net: NetName=ADC3_TD_N5 Pin=U1E-27
+Added Pin To Net: NetName=GND Pin=U1E-28
+Added Pin To Net: NetName=GND Pin=U1E-29
+Added Pin To Net: NetName=+5V_A Pin=U1E-30
+Added Pin To Net: NetName=ADC2_TD_P5 Pin=U1E-31
+Added Pin To Net: NetName=ADC2_TD_N5 Pin=U1E-32
+Added Pin To Net: NetName=GND Pin=U1E-33
+Added Pin To Net: NetName=GND Pin=U1E-34
+Added Pin To Net: NetName=+5V_A Pin=U1E-35
+Added Pin To Net: NetName=ADC1_TD_P5 Pin=U1E-36
+Added Pin To Net: NetName=ADC1_TD_N5 Pin=U1E-37
+Added Pin To Net: NetName=GND Pin=U1E-38
+Added Pin To Net: NetName=NetR30F_2 Pin=U1F-2
+Added Pin To Net: NetName=NetR33F_1 Pin=U1F-3
+Added Pin To Net: NetName=VCF Pin=U1F-4
+Added Pin To Net: NetName=GND Pin=U1F-5
+Added Pin To Net: NetName=NetR36F_2 Pin=U1F-7
+Added Pin To Net: NetName=NetR39F_1 Pin=U1F-8
+Added Pin To Net: NetName=VCF Pin=U1F-9
+Added Pin To Net: NetName=GND Pin=U1F-10
+Added Pin To Net: NetName=NetR42F_2 Pin=U1F-12
+Added Pin To Net: NetName=NetR45F_1 Pin=U1F-13
+Added Pin To Net: NetName=VCF Pin=U1F-14
+Added Pin To Net: NetName=GND Pin=U1F-15
+Added Pin To Net: NetName=NetR48F_2 Pin=U1F-17
+Added Pin To Net: NetName=NetR51F_1 Pin=U1F-18
+Added Pin To Net: NetName=VCF Pin=U1F-19
+Added Pin To Net: NetName=+5V_A Pin=U1F-20
+Added Pin To Net: NetName=ADC4_TD_P6 Pin=U1F-21
+Added Pin To Net: NetName=ADC4_TD_N6 Pin=U1F-22
+Added Pin To Net: NetName=GND Pin=U1F-23
+Added Pin To Net: NetName=GND Pin=U1F-24
+Added Pin To Net: NetName=+5V_A Pin=U1F-25
+Added Pin To Net: NetName=ADC3_TD_P6 Pin=U1F-26
+Added Pin To Net: NetName=ADC3_TD_N6 Pin=U1F-27
+Added Pin To Net: NetName=GND Pin=U1F-28
+Added Pin To Net: NetName=GND Pin=U1F-29
+Added Pin To Net: NetName=+5V_A Pin=U1F-30
+Added Pin To Net: NetName=ADC2_TD_P6 Pin=U1F-31
+Added Pin To Net: NetName=ADC2_TD_N6 Pin=U1F-32
+Added Pin To Net: NetName=GND Pin=U1F-33
+Added Pin To Net: NetName=GND Pin=U1F-34
+Added Pin To Net: NetName=+5V_A Pin=U1F-35
+Added Pin To Net: NetName=ADC1_TD_P6 Pin=U1F-36
+Added Pin To Net: NetName=ADC1_TD_N6 Pin=U1F-37
+Added Pin To Net: NetName=GND Pin=U1F-38
+Added Pin To Net: NetName=NetR30G_2 Pin=U1G-2
+Added Pin To Net: NetName=NetR33G_1 Pin=U1G-3
+Added Pin To Net: NetName=VCG Pin=U1G-4
+Added Pin To Net: NetName=GND Pin=U1G-5
+Added Pin To Net: NetName=NetR36G_2 Pin=U1G-7
+Added Pin To Net: NetName=NetR39G_1 Pin=U1G-8
+Added Pin To Net: NetName=VCG Pin=U1G-9
+Added Pin To Net: NetName=GND Pin=U1G-10
+Added Pin To Net: NetName=NetR42G_2 Pin=U1G-12
+Added Pin To Net: NetName=NetR45G_1 Pin=U1G-13
+Added Pin To Net: NetName=VCG Pin=U1G-14
+Added Pin To Net: NetName=GND Pin=U1G-15
+Added Pin To Net: NetName=NetR48G_2 Pin=U1G-17
+Added Pin To Net: NetName=NetR51G_1 Pin=U1G-18
+Added Pin To Net: NetName=VCG Pin=U1G-19
+Added Pin To Net: NetName=+5V_A Pin=U1G-20
+Added Pin To Net: NetName=ADC4_TD_P7 Pin=U1G-21
+Added Pin To Net: NetName=ADC4_TD_N7 Pin=U1G-22
+Added Pin To Net: NetName=GND Pin=U1G-23
+Added Pin To Net: NetName=GND Pin=U1G-24
+Added Pin To Net: NetName=+5V_A Pin=U1G-25
+Added Pin To Net: NetName=ADC3_TD_P7 Pin=U1G-26
+Added Pin To Net: NetName=ADC3_TD_N7 Pin=U1G-27
+Added Pin To Net: NetName=GND Pin=U1G-28
+Added Pin To Net: NetName=GND Pin=U1G-29
+Added Pin To Net: NetName=+5V_A Pin=U1G-30
+Added Pin To Net: NetName=ADC2_TD_P7 Pin=U1G-31
+Added Pin To Net: NetName=ADC2_TD_N7 Pin=U1G-32
+Added Pin To Net: NetName=GND Pin=U1G-33
+Added Pin To Net: NetName=GND Pin=U1G-34
+Added Pin To Net: NetName=+5V_A Pin=U1G-35
+Added Pin To Net: NetName=ADC1_TD_P7 Pin=U1G-36
+Added Pin To Net: NetName=ADC1_TD_N7 Pin=U1G-37
+Added Pin To Net: NetName=GND Pin=U1G-38
+Added Pin To Net: NetName=NetR30H_2 Pin=U1H-2
+Added Pin To Net: NetName=NetR33H_1 Pin=U1H-3
+Added Pin To Net: NetName=VCH Pin=U1H-4
+Added Pin To Net: NetName=GND Pin=U1H-5
+Added Pin To Net: NetName=NetR36H_2 Pin=U1H-7
+Added Pin To Net: NetName=NetR39H_1 Pin=U1H-8
+Added Pin To Net: NetName=VCH Pin=U1H-9
+Added Pin To Net: NetName=GND Pin=U1H-10
+Added Pin To Net: NetName=NetR42H_2 Pin=U1H-12
+Added Pin To Net: NetName=NetR45H_1 Pin=U1H-13
+Added Pin To Net: NetName=VCH Pin=U1H-14
+Added Pin To Net: NetName=GND Pin=U1H-15
+Added Pin To Net: NetName=NetR48H_2 Pin=U1H-17
+Added Pin To Net: NetName=NetR51H_1 Pin=U1H-18
+Added Pin To Net: NetName=VCH Pin=U1H-19
+Added Pin To Net: NetName=+5V_A Pin=U1H-20
+Added Pin To Net: NetName=ADC4_TD_P8 Pin=U1H-21
+Added Pin To Net: NetName=ADC4_TD_N8 Pin=U1H-22
+Added Pin To Net: NetName=GND Pin=U1H-23
+Added Pin To Net: NetName=GND Pin=U1H-24
+Added Pin To Net: NetName=+5V_A Pin=U1H-25
+Added Pin To Net: NetName=ADC3_TD_P8 Pin=U1H-26
+Added Pin To Net: NetName=ADC3_TD_N8 Pin=U1H-27
+Added Pin To Net: NetName=GND Pin=U1H-28
+Added Pin To Net: NetName=GND Pin=U1H-29
+Added Pin To Net: NetName=+5V_A Pin=U1H-30
+Added Pin To Net: NetName=ADC2_TD_P8 Pin=U1H-31
+Added Pin To Net: NetName=ADC2_TD_N8 Pin=U1H-32
+Added Pin To Net: NetName=GND Pin=U1H-33
+Added Pin To Net: NetName=GND Pin=U1H-34
+Added Pin To Net: NetName=+5V_A Pin=U1H-35
+Added Pin To Net: NetName=ADC1_TD_P8 Pin=U1H-36
+Added Pin To Net: NetName=ADC1_TD_N8 Pin=U1H-37
+Added Pin To Net: NetName=GND Pin=U1H-38
+Added Pin To Net: NetName=NetR30I_2 Pin=U1I-2
+Added Pin To Net: NetName=NetR33I_1 Pin=U1I-3
+Added Pin To Net: NetName=VCI Pin=U1I-4
+Added Pin To Net: NetName=GND Pin=U1I-5
+Added Pin To Net: NetName=NetR36I_2 Pin=U1I-7
+Added Pin To Net: NetName=NetR39I_1 Pin=U1I-8
+Added Pin To Net: NetName=VCI Pin=U1I-9
+Added Pin To Net: NetName=GND Pin=U1I-10
+Added Pin To Net: NetName=NetR42I_2 Pin=U1I-12
+Added Pin To Net: NetName=NetR45I_1 Pin=U1I-13
+Added Pin To Net: NetName=VCI Pin=U1I-14
+Added Pin To Net: NetName=GND Pin=U1I-15
+Added Pin To Net: NetName=NetR48I_2 Pin=U1I-17
+Added Pin To Net: NetName=NetR51I_1 Pin=U1I-18
+Added Pin To Net: NetName=VCI Pin=U1I-19
+Added Pin To Net: NetName=+5V_A Pin=U1I-20
+Added Pin To Net: NetName=ADC4_TD_P9 Pin=U1I-21
+Added Pin To Net: NetName=ADC4_TD_N9 Pin=U1I-22
+Added Pin To Net: NetName=GND Pin=U1I-23
+Added Pin To Net: NetName=GND Pin=U1I-24
+Added Pin To Net: NetName=+5V_A Pin=U1I-25
+Added Pin To Net: NetName=ADC3_TD_P9 Pin=U1I-26
+Added Pin To Net: NetName=ADC3_TD_N9 Pin=U1I-27
+Added Pin To Net: NetName=GND Pin=U1I-28
+Added Pin To Net: NetName=GND Pin=U1I-29
+Added Pin To Net: NetName=+5V_A Pin=U1I-30
+Added Pin To Net: NetName=ADC2_TD_P9 Pin=U1I-31
+Added Pin To Net: NetName=ADC2_TD_N9 Pin=U1I-32
+Added Pin To Net: NetName=GND Pin=U1I-33
+Added Pin To Net: NetName=GND Pin=U1I-34
+Added Pin To Net: NetName=+5V_A Pin=U1I-35
+Added Pin To Net: NetName=ADC1_TD_P9 Pin=U1I-36
+Added Pin To Net: NetName=ADC1_TD_N9 Pin=U1I-37
+Added Pin To Net: NetName=GND Pin=U1I-38
+Added Pin To Net: NetName=NetR30J_2 Pin=U1J-2
+Added Pin To Net: NetName=NetR33J_1 Pin=U1J-3
+Added Pin To Net: NetName=VCJ Pin=U1J-4
+Added Pin To Net: NetName=GND Pin=U1J-5
+Added Pin To Net: NetName=NetR36J_2 Pin=U1J-7
+Added Pin To Net: NetName=NetR39J_1 Pin=U1J-8
+Added Pin To Net: NetName=VCJ Pin=U1J-9
+Added Pin To Net: NetName=GND Pin=U1J-10
+Added Pin To Net: NetName=NetR42J_2 Pin=U1J-12
+Added Pin To Net: NetName=NetR45J_1 Pin=U1J-13
+Added Pin To Net: NetName=VCJ Pin=U1J-14
+Added Pin To Net: NetName=GND Pin=U1J-15
+Added Pin To Net: NetName=NetR48J_2 Pin=U1J-17
+Added Pin To Net: NetName=NetR51J_1 Pin=U1J-18
+Added Pin To Net: NetName=VCJ Pin=U1J-19
+Added Pin To Net: NetName=+5V_A Pin=U1J-20
+Added Pin To Net: NetName=ADC4_TD_P10 Pin=U1J-21
+Added Pin To Net: NetName=ADC4_TD_N10 Pin=U1J-22
+Added Pin To Net: NetName=GND Pin=U1J-23
+Added Pin To Net: NetName=GND Pin=U1J-24
+Added Pin To Net: NetName=+5V_A Pin=U1J-25
+Added Pin To Net: NetName=ADC3_TD_P10 Pin=U1J-26
+Added Pin To Net: NetName=ADC3_TD_N10 Pin=U1J-27
+Added Pin To Net: NetName=GND Pin=U1J-28
+Added Pin To Net: NetName=GND Pin=U1J-29
+Added Pin To Net: NetName=+5V_A Pin=U1J-30
+Added Pin To Net: NetName=ADC2_TD_P10 Pin=U1J-31
+Added Pin To Net: NetName=ADC2_TD_N10 Pin=U1J-32
+Added Pin To Net: NetName=GND Pin=U1J-33
+Added Pin To Net: NetName=GND Pin=U1J-34
+Added Pin To Net: NetName=+5V_A Pin=U1J-35
+Added Pin To Net: NetName=ADC1_TD_P10 Pin=U1J-36
+Added Pin To Net: NetName=ADC1_TD_N10 Pin=U1J-37
+Added Pin To Net: NetName=GND Pin=U1J-38
+Added Pin To Net: NetName=NetR30K_2 Pin=U1K-2
+Added Pin To Net: NetName=NetR33K_1 Pin=U1K-3
+Added Pin To Net: NetName=VCK Pin=U1K-4
+Added Pin To Net: NetName=GND Pin=U1K-5
+Added Pin To Net: NetName=NetR36K_2 Pin=U1K-7
+Added Pin To Net: NetName=NetR39K_1 Pin=U1K-8
+Added Pin To Net: NetName=VCK Pin=U1K-9
+Added Pin To Net: NetName=GND Pin=U1K-10
+Added Pin To Net: NetName=NetR42K_2 Pin=U1K-12
+Added Pin To Net: NetName=NetR45K_1 Pin=U1K-13
+Added Pin To Net: NetName=VCK Pin=U1K-14
+Added Pin To Net: NetName=GND Pin=U1K-15
+Added Pin To Net: NetName=NetR48K_2 Pin=U1K-17
+Added Pin To Net: NetName=NetR51K_1 Pin=U1K-18
+Added Pin To Net: NetName=VCK Pin=U1K-19
+Added Pin To Net: NetName=+5V_A Pin=U1K-20
+Added Pin To Net: NetName=ADC4_TD_P11 Pin=U1K-21
+Added Pin To Net: NetName=ADC4_TD_N11 Pin=U1K-22
+Added Pin To Net: NetName=GND Pin=U1K-23
+Added Pin To Net: NetName=GND Pin=U1K-24
+Added Pin To Net: NetName=+5V_A Pin=U1K-25
+Added Pin To Net: NetName=ADC3_TD_P11 Pin=U1K-26
+Added Pin To Net: NetName=ADC3_TD_N11 Pin=U1K-27
+Added Pin To Net: NetName=GND Pin=U1K-28
+Added Pin To Net: NetName=GND Pin=U1K-29
+Added Pin To Net: NetName=+5V_A Pin=U1K-30
+Added Pin To Net: NetName=ADC2_TD_P11 Pin=U1K-31
+Added Pin To Net: NetName=ADC2_TD_N11 Pin=U1K-32
+Added Pin To Net: NetName=GND Pin=U1K-33
+Added Pin To Net: NetName=GND Pin=U1K-34
+Added Pin To Net: NetName=+5V_A Pin=U1K-35
+Added Pin To Net: NetName=ADC1_TD_P11 Pin=U1K-36
+Added Pin To Net: NetName=ADC1_TD_N11 Pin=U1K-37
+Added Pin To Net: NetName=GND Pin=U1K-38
+Added Pin To Net: NetName=NetR30L_2 Pin=U1L-2
+Added Pin To Net: NetName=NetR33L_1 Pin=U1L-3
+Added Pin To Net: NetName=VCL Pin=U1L-4
+Added Pin To Net: NetName=GND Pin=U1L-5
+Added Pin To Net: NetName=NetR36L_2 Pin=U1L-7
+Added Pin To Net: NetName=NetR39L_1 Pin=U1L-8
+Added Pin To Net: NetName=VCL Pin=U1L-9
+Added Pin To Net: NetName=GND Pin=U1L-10
+Added Pin To Net: NetName=NetR42L_2 Pin=U1L-12
+Added Pin To Net: NetName=NetR45L_1 Pin=U1L-13
+Added Pin To Net: NetName=VCL Pin=U1L-14
+Added Pin To Net: NetName=GND Pin=U1L-15
+Added Pin To Net: NetName=NetR48L_2 Pin=U1L-17
+Added Pin To Net: NetName=NetR51L_1 Pin=U1L-18
+Added Pin To Net: NetName=VCL Pin=U1L-19
+Added Pin To Net: NetName=+5V_A Pin=U1L-20
+Added Pin To Net: NetName=ADC4_TD_P12 Pin=U1L-21
+Added Pin To Net: NetName=ADC4_TD_N12 Pin=U1L-22
+Added Pin To Net: NetName=GND Pin=U1L-23
+Added Pin To Net: NetName=GND Pin=U1L-24
+Added Pin To Net: NetName=+5V_A Pin=U1L-25
+Added Pin To Net: NetName=ADC3_TD_P12 Pin=U1L-26
+Added Pin To Net: NetName=ADC3_TD_N12 Pin=U1L-27
+Added Pin To Net: NetName=GND Pin=U1L-28
+Added Pin To Net: NetName=GND Pin=U1L-29
+Added Pin To Net: NetName=+5V_A Pin=U1L-30
+Added Pin To Net: NetName=ADC2_TD_P12 Pin=U1L-31
+Added Pin To Net: NetName=ADC2_TD_N12 Pin=U1L-32
+Added Pin To Net: NetName=GND Pin=U1L-33
+Added Pin To Net: NetName=GND Pin=U1L-34
+Added Pin To Net: NetName=+5V_A Pin=U1L-35
+Added Pin To Net: NetName=ADC1_TD_P12 Pin=U1L-36
+Added Pin To Net: NetName=ADC1_TD_N12 Pin=U1L-37
+Added Pin To Net: NetName=GND Pin=U1L-38
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component BS3B (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component BS3C (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component BS3D (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component BS3E (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component BS3F (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component BS3G (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component BS3H (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component BS3I (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component BS3J (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component BS3K (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component BS3L (BS3) Ferrite bead
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C1B (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C1C (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C1D (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C1E (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C1F (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C1G (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C1H (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C1I (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C1J (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C1K (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C1L (C1) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C2B (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C2C (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C2D (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C2E (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C2F (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C2G (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C2H (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C2I (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C2J (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C2K (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C2L (C2) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C3B (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C3C (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C3D (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C3E (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C3F (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C3G (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C3H (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C3I (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C3J (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C3K (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C3L (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C35B (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C35C (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C35D (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C35E (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C35F (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C35G (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C35H (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C35I (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C35J (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C35K (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C35L (C35) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C36B (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C36C (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C36D (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C36E (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C36F (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C36G (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C36H (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C36I (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C36J (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C36K (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C36L (C36) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C37B (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C37C (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C37D (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C37E (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C37F (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C37G (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C37H (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C37I (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C37J (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C37K (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C37L (C37) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C38B (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C38C (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C38D (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C38E (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C38F (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C38G (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C38H (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C38I (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C38J (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C38K (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C38L (C38) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C39B (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C39C (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C39D (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C39E (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C39F (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C39G (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C39H (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C39I (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C39J (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C39K (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C39L (C39) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C41B (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C41C (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C41D (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C41E (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C41F (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C41G (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C41H (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C41I (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C41J (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C41K (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C41L (C41) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C42B (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C42C (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C42D (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C42E (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C42F (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C42G (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C42H (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C42I (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C42J (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C42K (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C42L (C42) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C43B (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C43C (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C43D (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C43E (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C43F (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C43G (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C43H (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C43I (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C43J (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C43K (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C43L (C43) 100pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C45B (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C45C (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C45D (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C45E (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C45F (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C45G (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C45H (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C45I (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C45J (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C45K (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C45L (C45) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C47B (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C47C (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C47D (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C47E (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C47F (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C47G (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C47H (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C47I (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C47J (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C47K (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C47L (C47) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C48B (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C48C (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C48D (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C48E (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C48F (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C48G (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C48H (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C48I (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C48J (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C48K (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C48L (C48) 100pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C49B (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C49C (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C49D (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C49E (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C49F (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C49G (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C49H (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C49I (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C49J (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C49K (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C49L (C49) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C50B (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C50C (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C50D (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C50E (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C50F (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C50G (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C50H (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C50I (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C50J (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C50K (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C50L (C50) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C51B (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C51C (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C51D (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C51E (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C51F (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C51G (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C51H (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C51I (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C51J (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C51K (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C51L (C51) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C52B (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C52C (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C52D (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C52E (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C52F (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C52G (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C52H (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C52I (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C52J (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C52K (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C52L (C52) 100pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C54B (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C54C (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C54D (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C54E (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C54F (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C54G (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C54H (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C54I (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C54J (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C54K (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C54L (C54) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C64B (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C64C (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C64D (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C64E (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C64F (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C64G (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C64H (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C64I (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C64J (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C64K (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C64L (C64) 200pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C65B (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component C65C (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component C65D (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component C65E (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component C65F (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component C65G (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component C65H (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component C65I (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component C65J (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component C65K (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component C65L (C65) 100pF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R30B (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R30C (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R30D (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R30E (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R30F (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R30G (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R30H (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R30I (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R30J (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R30K (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R30L (R30) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R31B (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R31C (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R31D (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R31E (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R31F (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R31G (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R31H (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R31I (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R31J (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R31K (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R31L (R31) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R32B (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R32C (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R32D (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R32E (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R32F (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R32G (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R32H (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R32I (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R32J (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R32K (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R32L (R32) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R33B (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R33C (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R33D (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R33E (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R33F (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R33G (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R33H (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R33I (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R33J (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R33K (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R33L (R33) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R34B (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R34C (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R34D (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R34E (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R34F (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R34G (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R34H (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R34I (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R34J (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R34K (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R34L (R34) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R35B (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R35C (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R35D (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R35E (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R35F (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R35G (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R35H (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R35I (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R35J (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R35K (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R35L (R35) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R36B (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R36C (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R36D (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R36E (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R36F (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R36G (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R36H (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R36I (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R36J (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R36K (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R36L (R36) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R37B (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R37C (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R37D (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R37E (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R37F (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R37G (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R37H (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R37I (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R37J (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R37K (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R37L (R37) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R38B (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R38C (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R38D (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R38E (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R38F (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R38G (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R38H (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R38I (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R38J (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R38K (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R38L (R38) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R39B (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R39C (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R39D (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R39E (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R39F (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R39G (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R39H (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R39I (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R39J (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R39K (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R39L (R39) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R40B (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R40C (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R40D (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R40E (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R40F (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R40G (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R40H (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R40I (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R40J (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R40K (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R40L (R40) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R41B (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R41C (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R41D (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R41E (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R41F (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R41G (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R41H (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R41I (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R41J (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R41K (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R41L (R41) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R42B (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R42C (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R42D (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R42E (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R42F (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R42G (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R42H (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R42I (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R42J (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R42K (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R42L (R42) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R43B (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R43C (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R43D (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R43E (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R43F (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R43G (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R43H (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R43I (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R43J (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R43K (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R43L (R43) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R44B (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R44C (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R44D (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R44E (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R44F (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R44G (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R44H (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R44I (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R44J (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R44K (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R44L (R44) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R45B (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R45C (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R45D (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R45E (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R45F (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R45G (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R45H (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R45I (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R45J (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R45K (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R45L (R45) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R46B (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R46C (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R46D (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R46E (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R46F (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R46G (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R46H (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R46I (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R46J (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R46K (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R46L (R46) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R47B (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R47C (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R47D (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R47E (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R47F (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R47G (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R47H (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R47I (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R47J (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R47K (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R47L (R47) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R48B (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R48C (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R48D (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R48E (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R48F (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R48G (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R48H (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R48I (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R48J (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R48K (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R48L (R48) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R49B (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R49C (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R49D (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R49E (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R49F (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R49G (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R49H (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R49I (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R49J (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R49K (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R49L (R49) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R50B (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R50C (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R50D (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R50E (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R50F (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R50G (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R50H (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R50I (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R50J (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R50K (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R50L (R50) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R51B (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R51C (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R51D (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R51E (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R51F (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R51G (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R51H (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R51I (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R51J (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R51K (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R51L (R51) 39.2k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R52B (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R52C (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R52D (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R52E (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R52F (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R52G (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R52H (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R52I (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R52J (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R52K (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R52L (R52) 48.7
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R53B (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R53C (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R53D (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R53E (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R53F (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R53G (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R53H (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R53I (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R53J (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R53K (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R53L (R53) 10k
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R57B (R57) 160
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R57C (R57) 160
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R57D (R57) 160
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R57E (R57) 160
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R57F (R57) 160
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R57G (R57) 160
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R57H (R57) 160
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R57I (R57) 160
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R57J (R57) 160
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R57K (R57) 160
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R57L (R57) 160
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R58B (R58) 160
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R58C (R58) 160
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R58D (R58) 160
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R58E (R58) 160
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R58F (R58) 160
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R58G (R58) 160
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R58H (R58) 160
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R58I (R58) 160
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R58J (R58) 160
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R58K (R58) 160
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R58L (R58) 160
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R62B (R62) 160
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R62C (R62) 160
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R62D (R62) 160
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R62E (R62) 160
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R62F (R62) 160
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R62G (R62) 160
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R62H (R62) 160
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R62I (R62) 160
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R62J (R62) 160
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R62K (R62) 160
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R62L (R62) 160
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component R63B (R63) 160
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component R63C (R63) 160
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component R63D (R63) 160
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component R63E (R63) 160
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component R63F (R63) 160
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component R63G (R63) 160
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component R63H (R63) 160
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component R63I (R63) 160
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component R63J (R63) 160
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component R63K (R63) 160
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component R63L (R63) 160
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component REF1B (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component REF1C (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component REF1D (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component REF1E (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component REF1F (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component REF1G (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component REF1H (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component REF1I (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component REF1J (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component REF1K (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component REF1L (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component U1B (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog3 Member=Component U1C (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog4 Member=Component U1D (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog5 Member=Component U1E (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog6 Member=Component U1F (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog7 Member=Component U1G (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog8 Member=Component U1H (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog9 Member=Component U1I (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog10 Member=Component U1J (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog11 Member=Component U1K (U1) THS4524
+Added Member To Class: ClassName=Buffer_Analog12 Member=Component U1L (U1) THS4524
+Added Room: Name=Buffer_Analog2
+Added Room: Name=Buffer_Analog3
+Added Room: Name=Buffer_Analog4
+Added Room: Name=Buffer_Analog5
+Added Room: Name=Buffer_Analog6
+Added Room: Name=Buffer_Analog7
+Added Room: Name=Buffer_Analog8
+Added Room: Name=Buffer_Analog9
+Added Room: Name=Buffer_Analog10
+Added Room: Name=Buffer_Analog11
+Added Room: Name=Buffer_Analog12

@@ -1,0 +1,8 @@
+Added Component: Designator=C3A(CAP_0603)
+Added Component: Designator=C3B(CAP_0603)
+Added Pin To Net: NetName=GND Pin=C3A-1
+Added Pin To Net: NetName=+5V_A Pin=C3A-2
+Added Pin To Net: NetName=GND Pin=C3B-1
+Added Pin To Net: NetName=+5V_A Pin=C3B-2
+Added Member To Class: ClassName=Buffer_Analog1 Member=Component C3A (C3) 100nF
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component C3B (C3) 100nF

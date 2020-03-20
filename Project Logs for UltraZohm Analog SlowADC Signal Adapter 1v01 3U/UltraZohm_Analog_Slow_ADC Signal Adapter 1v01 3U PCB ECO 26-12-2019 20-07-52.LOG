@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=BS1-2
+Added Component: Designator=BS2(RES_1206)
+Added Pin To Net: NetName=NetBS1_2 Pin=BS1-2
+Added Pin To Net: NetName=GND Pin=BS1-1
+Added Pin To Net: NetName=AGND Pin=BS1-2
+Added Member To Class: ClassName=Power Supply Member=Component BS2 Ferrite bead

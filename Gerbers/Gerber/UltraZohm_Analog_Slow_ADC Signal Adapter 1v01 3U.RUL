@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Esteban\Desktop\pega pa la casa\UltraZohm_Analog Slow_ADC Signal Adapter 1v1 3U\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Poligono|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

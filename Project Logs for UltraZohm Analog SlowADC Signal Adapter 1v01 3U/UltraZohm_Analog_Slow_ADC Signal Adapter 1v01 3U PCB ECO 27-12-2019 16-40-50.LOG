@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ADC_IN1_P6 Pin=J2-51
+Removed Pin From Net: NetName=ADC_IN1_N6 Pin=J2-52
+Removed Pin From Net: NetName=ADC_IN2_P6 Pin=J2-53
+Removed Pin From Net: NetName=ADC_IN2_N6 Pin=J2-54
+Removed Pin From Net: NetName=ADC_IN3_P6 Pin=J2-55
+Removed Pin From Net: NetName=ADC_IN3_N6 Pin=J2-56
+Removed Pin From Net: NetName=ADC_IN4_P6 Pin=J2-57
+Removed Pin From Net: NetName=ADC_IN4_N6 Pin=J2-58
+Added Pin To Net: NetName=ADC_IN4_N6 Pin=J2-1
+Added Pin To Net: NetName=ADC_IN4_P6 Pin=J2-2
+Added Pin To Net: NetName=ADC_IN3_N6 Pin=J2-3
+Added Pin To Net: NetName=ADC_IN3_P6 Pin=J2-4
+Added Pin To Net: NetName=ADC_IN2_N6 Pin=J2-5
+Added Pin To Net: NetName=ADC_IN2_P6 Pin=J2-6
+Added Pin To Net: NetName=ADC_IN1_N6 Pin=J2-7
+Added Pin To Net: NetName=ADC_IN1_P6 Pin=J2-8

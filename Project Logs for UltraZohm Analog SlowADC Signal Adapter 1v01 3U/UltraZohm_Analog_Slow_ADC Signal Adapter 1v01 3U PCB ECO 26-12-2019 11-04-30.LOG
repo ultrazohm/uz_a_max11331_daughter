@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VCA Pin=C1B-2
+Removed Pin From Net: NetName=VCA Pin=C2B-2
+Removed Pin From Net: NetName=VCA Pin=C35B-2
+Removed Pin From Net: NetName=VCA Pin=C49B-2
+Removed Pin From Net: NetName=VCA Pin=U1B-4
+Removed Pin From Net: NetName=VCA Pin=U1B-9
+Removed Pin From Net: NetName=VCA Pin=U1B-14
+Removed Pin From Net: NetName=VCA Pin=U1B-19
+Added Component: Designator=REF1A(SOT-353)
+Added Component: Designator=REF1B(SOT-353)
+Added Pin To Net: NetName=VCA Pin=REF1A-1
+Added Pin To Net: NetName=GND Pin=REF1A-2
+Added Pin To Net: NetName=+5V_A Pin=REF1A-3
+Added Pin To Net: NetName=+5V_A Pin=REF1A-4
+Added Pin To Net: NetName=GND Pin=REF1B-2
+Added Pin To Net: NetName=+5V_A Pin=REF1B-3
+Added Pin To Net: NetName=+5V_A Pin=REF1B-4
+Added Pin To Net: NetName=VCB Pin=C1B-2
+Added Pin To Net: NetName=VCB Pin=C2B-2
+Added Pin To Net: NetName=VCB Pin=C35B-2
+Added Pin To Net: NetName=VCB Pin=C49B-2
+Added Pin To Net: NetName=VCB Pin=REF1B-1
+Added Pin To Net: NetName=VCB Pin=U1B-4
+Added Pin To Net: NetName=VCB Pin=U1B-9
+Added Pin To Net: NetName=VCB Pin=U1B-14
+Added Pin To Net: NetName=VCB Pin=U1B-19
+Added Net: Name=VCB
+Added Member To Class: ClassName=Buffer_Analog1 Member=Component REF1A (REF1) VREF 3.3V/1.65V
+Added Member To Class: ClassName=Buffer_Analog2 Member=Component REF1B (REF1) VREF 3.3V/1.65V
