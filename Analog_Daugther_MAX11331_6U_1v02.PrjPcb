@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=8
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=14
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -78,7 +78,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=16
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -95,7 +95,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=19
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -129,7 +129,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=20
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -140,40 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WSKYJPVD
 
 [Document7]
-DocumentPath=UltraZohm Analog SlowADC Signal Adapter 1v01 3U.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=Gerbers\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=Analog_Daugther_MAX11331_6U_1v02.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,9 +154,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IAXAYHHF
 
-[Document10]
+[Document8]
 DocumentPath=Altium Library\Componentes_SOC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,9 +171,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCYCUIWL
 
-[Document11]
+[Document9]
 DocumentPath=Altium Library\Footprints_SOC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,151 +188,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PWDGDKBY
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Design Rule Check - UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.html
+[Document10]
+DocumentPath=ADC Chip.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.1
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.2
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.3
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.4
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.5
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Gerbers\NC Drill\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.G1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.G2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.G3
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.G4
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GML
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Gerbers\NC Drill\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.REP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Gerbers\NC Drill\UltraZohm_Analog_Slow_ADC Signal Adapter 1v01 3U.TXT
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FSJBHDJH
 
 [Parameter1]
 Name=ProjectRevision
@@ -1289,11 +1128,11 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=0
 Type13=0
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
