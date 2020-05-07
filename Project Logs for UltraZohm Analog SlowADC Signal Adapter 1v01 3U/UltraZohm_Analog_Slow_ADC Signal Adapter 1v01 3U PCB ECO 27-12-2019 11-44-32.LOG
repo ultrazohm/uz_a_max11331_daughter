@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=AIN4_P1 Pin=J1-1
-Added Pin To Net: NetName=AIN4_N1 Pin=J1-2
-Added Pin To Net: NetName=AIN3_P1 Pin=J1-3
-Added Pin To Net: NetName=AIN3_N1 Pin=J1-4
-Added Pin To Net: NetName=AIN2_P1 Pin=J1-5
-Added Pin To Net: NetName=AIN1_P1 Pin=J1-7
-Added Pin To Net: NetName=AIN1_N1 Pin=J1-8
-Added Pin To Net: NetName=AIN2_N1 Pin=J1-6
-Added Net: Name=AIN2_N1
