@@ -47,8 +47,8 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -64,7 +64,7 @@ AnnotateScope=All
 AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
+ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WSKYJPVD
 
 [Document7]
-DocumentPath=Analog_Daugther_MAX11331_6U_1v02.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IAXAYHHF
-
-[Document8]
 DocumentPath=Altium Library\Componentes_SOC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCYCUIWL
 
-[Document9]
+[Document8]
 DocumentPath=Altium Library\Footprints_SOC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWDGDKBY
 
-[Document10]
+[Document9]
 DocumentPath=ADC Chip.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,9 +190,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSJBHDJH
 
+[Document10]
+DocumentPath=Analog_Daughter_6U_MAX11331.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AKCBHJUT
+
 [Parameter1]
+Name=Date
+Value=05/2020
+
+[Parameter2]
+Name=Author
+Value=Thomas Kreppel
+
+[Parameter3]
+Name=ProjectName
+Value=Analog_Daughter_6U_MAX11331
+
+[Parameter4]
 Name=ProjectRevision
-Value=1v01
+Value=1v02
 
 [Configuration1]
 Name=Default Configuration
