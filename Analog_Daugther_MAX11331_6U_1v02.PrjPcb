@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
@@ -205,15 +205,30 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AKCBHJUT
+DocumentUniqueId=DFIWPPJQ
+
+[ProjectVariant1]
+UniqueID=F0C043A0-0728-4DAA-9B76-165DA0BF3F1E
+Description=No_CLK_RTN
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=C37|UniqueId=\UIYFAQGC\IDSIMXWC|Kind=1|AlternatePart= 
+Variation2=Designator=R24|UniqueId=\UIYFAQGC\MEKEJZLE|Kind=1|AlternatePart= 
+Variation3=Designator=U8|UniqueId=\UIYFAQGC\LYRWNIGK|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Design Rule Check - Analog_Daughter_6U_MAX11331.html
+DItemRevisionGUID=
 
 [Parameter1]
-Name=Date
-Value=05/2020
-
-[Parameter2]
 Name=Author
 Value=Thomas Kreppel
+
+[Parameter2]
+Name=Date
+Value=05/2020
 
 [Parameter3]
 Name=ProjectName
@@ -1291,7 +1306,7 @@ CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=0
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
-NetClassManualEnabled=0
+NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
