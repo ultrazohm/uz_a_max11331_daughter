@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Analog_Daughter_6U_MAX11331.PcbDoc   05.06.2020  14:59:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Analog_Daughter_6U_MAX11331.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             241       PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             237       PTH        0.00mm (0.00inch)
+T3      0.65mm (26mil)                                            Round             16        PTH        0.00mm (0.00inch)
+T4      0.7mm (28mil)                                             Round             4         PTH        0.00mm (0.00inch)
+T5      0.8mm (31mil)                                             Round             4         PTH        0.00mm (0.00inch)
+T6      0.9mm (35mil)           +/-0.076mm (3mil)                 Round             64        PTH        0.00mm (0.00inch)
+T7      1.016mm (40mil)                                           Round             4         PTH        0.00mm (0.00inch)
+T8      1.6mm (63mil)           +/-0.076mm (3mil)                 Round             6         PTH        0.00mm (0.00inch)
+T9      1.6mm (63mil)                                             Round             13        PTH        0.00mm (0.00inch)
+T10     3mm (118mil)                                              Round             2         NPTH       0.00mm (0.00inch)
+T11     3.2mm (126mil)          +/-0.076mm (3mil)                 Round             2         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              593
+
+Total Processing Time (hh:mm:ss) : 00:00:00
