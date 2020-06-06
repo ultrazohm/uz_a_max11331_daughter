@@ -372,20 +372,20 @@ DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Desig
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=1v02
+Name=Author
+Value=Thomas Kreppel
 
 [Parameter2]
-Name=ProjectName
-Value=Analog_MAX11331_Daughter
-
-[Parameter3]
 Name=Date
 Value=05/2020
 
+[Parameter3]
+Name=ProjectName
+Value=Analog_MAX11331_Daughter
+
 [Parameter4]
-Name=Author
-Value=Thomas Kreppel
+Name=ProjectRevision
+Value=1v02
 
 [Configuration1]
 Name=Default Configuration
