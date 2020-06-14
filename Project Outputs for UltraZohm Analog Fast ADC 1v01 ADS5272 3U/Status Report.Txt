@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 17:26:59 On 09.06.2020
+Start Output Generation At 13:34:03 On 14.06.2020
 
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [No_CLK_RTN] of PCB Document [Analog_Daughter_6U_MAX11331.PcbDoc]
-   Generated File[PickPlace_Analog_Daugther_MAX11331_6U_1v02_1v02.txt]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [No_CLK_RTN] of Project [Analog_Daugther_MAX11331_6U_1v02.PrjPcb]
+   Generated File[BOM_Analog_Daugther_MAX11331_6U_1v02_1v02.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 17:27:02 On 09.06.2020
+Finished Output Generation At 13:34:08 On 14.06.2020

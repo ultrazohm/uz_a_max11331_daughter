@@ -234,222 +234,90 @@ Variation18=Designator=TP12|UniqueId=\UIYFAQGC\OESHQNZO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.1
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.2
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.3
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.4
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.5
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Gerbers\NC Drill\Analog_Daughter_6U_MAX11331.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\NC Drill\Analog_Daughter_6U_MAX11331.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.G1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.G2
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.G3
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G3
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.G4
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G4
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GML
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument43]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument44]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Gerbers\NC Drill\Analog_Daughter_6U_MAX11331.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\NC Drill\Analog_Daughter_6U_MAX11331.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.REP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.REP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
-DocumentPath=Gerbers\Gerber\Analog_Daughter_6U_MAX11331.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument50]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument51]
-DocumentPath=Gerbers\NC Drill\Analog_Daughter_6U_MAX11331.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument52]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\NC Drill\Analog_Daughter_6U_MAX11331.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\BOM\BOM_Analog_Daugther_MAX11331_6U_1v02_1v02.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Design Rule Check - Analog_Daughter_6U_MAX11331.html
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Pick Place\PickPlace_Analog_Daugther_MAX11331_6U_1v02_1v02.txt
 DItemRevisionGUID=
 
@@ -1554,8 +1422,8 @@ ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=0
 UpdatePartIDLock=0
-PreserveParameterLocations=0
-PreserveParameterVisibility=0
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
 DoGraphics=1
 DoParameters=1
 DoModels=1
