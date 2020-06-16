@@ -2,40 +2,24 @@
 FileName = Analog_Daughter_6U_MAX11331.GBR
 AutoAperture = True
 *************************************************************
-Generating : Signal 2
-      File : Analog_Daughter_6U_MAX11331.G3
+Generating : Mechanical 1
+      File : Analog_Daughter_6U_MAX11331.GM1
 
-    Adding Layer      : Signal 2
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D17
-    D20
-    D27
-    D77
-    D82
-    D83
-    D86
-    D87
+    D15
 *************************************************************
 
 *************************************************************
-Generating : GND
-      File : Analog_Daughter_6U_MAX11331.G1
+Generating : Bottom Overlay
+      File : Analog_Daughter_6U_MAX11331.GBO
 
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D75
-    D79
-    D85
-    D86
-    D87
 *************************************************************
 
 *************************************************************
@@ -188,10 +172,10 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D17
-    D20
+    D19
+    D23
     D27
-    D66
+    D70
     D75
     D77
     D79
@@ -216,29 +200,65 @@ Generating : VCC
 
 
 Used DCodes :
-    D86
     D87
+    D88
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Analog_Daughter_6U_MAX11331.GBO
+Generating : Signal 2
+      File : Analog_Daughter_6U_MAX11331.G3
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Signal 2
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D19
+    D23
+    D27
+    D77
+    D82
+    D83
+    D87
+    D88
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : Analog_Daughter_6U_MAX11331.GM1
+Generating : Signal 1
+      File : Analog_Daughter_6U_MAX11331.G2
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Signal 1
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D14
+    D19
+    D23
+    D27
+    D77
+    D82
+    D83
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : Analog_Daughter_6U_MAX11331.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D75
+    D79
+    D84
+    D87
+    D88
 *************************************************************
 
 *************************************************************
@@ -251,9 +271,9 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D14
-    D17
-    D20
+    D15
+    D19
+    D23
     D27
     D28
     D29
@@ -274,7 +294,7 @@ Used DCodes :
     D44
     D45
     D46
-    D66
+    D70
     D75
     D76
     D77
@@ -289,25 +309,5 @@ Used DCodes :
     D86
     D87
     D88
-*************************************************************
-
-*************************************************************
-Generating : Signal 1
-      File : Analog_Daughter_6U_MAX11331.G2
-
-    Adding Layer      : Signal 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D20
-    D27
-    D77
-    D82
-    D83
-    D86
-    D87
 *************************************************************
 

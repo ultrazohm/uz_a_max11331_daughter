@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=OutputJob.OutJob
 Description=
-TargetOutputMedium=PDF_Schematic
+TargetOutputMedium=BOM
 VariantName=No_CLK_RTN
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Samsung C48x Series (USB001)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -110,7 +110,7 @@ OutputName4=Schematic Prints
 OutputCategory4=Documentation
 OutputDocumentPath4=[Project Physical Documents]
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=1
@@ -173,9 +173,9 @@ PcbPrintPreferences5=SubsititueFont_Default=True|SubsititueFont_Serif=True|Subsi
 OutputType6=BOM_PartType
 OutputName6=Bill of Materials
 OutputCategory6=Report
-OutputDocumentPath6=
+OutputDocumentPath6=Analog_Daugther_MAX11331_6U_1v02.BomDoc
 OutputVariantName6=Standard
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -190,18 +190,22 @@ OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration6_Name1=ColumnNameFormat
 Configuration6_Item1=CaptionAsName
-Configuration6_Name2=Filter
-Configuration6_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration6_Name3=General
-Configuration6_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1602|FormHeight=1029|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration6_Name4=GroupOrder
-Configuration6_Item4=Comment=True|MPN=True|Footprint=True
-Configuration6_Name5=OutputConfigurationParameter1
-Configuration6_Item5=??
-Configuration6_Name6=SortOrder
-Configuration6_Item6=Designator=Up|MPN=Up
-Configuration6_Name7=VisibleOrder
-Configuration6_Item7=Quantity=62|Comment=113|Designator=106|MF=114|MPN=128|Value=82|Description=76|Footprint=76|Package=76|Voltage=57|Dielectric=70|Supplier 1=73|Supplier Part Number 1=94|Supplier 2=62|Supplier Part Number 2=54|Supplier 3=46|Supplier Part Number 3=65
+Configuration6_Name2=General
+Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=1029|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration6_Name3=GroupOrder
+Configuration6_Item3=Comment=True|MPN=True|Footprint=True
+Configuration6_Name4=OutputConfigurationParameter1
+Configuration6_Item4=??
+Configuration6_Name5=SortOrder
+Configuration6_Item5=Designator=Up
+Configuration6_Name6=VisibleOrder
+Configuration6_Item6=Comment=113|Designator=106|MF=114|MPN=128|Value=82|Description=76|Footprint=76|Supplier 1=73|Supplier Part Number 1=94|Supplier Unit Price 1=100|Quantity=100|Supplier Subtotal 1=100
+Configuration6_Name7=VisibleOrder_Base
+Configuration6_Item7=Comment=113|Designator=106|MF=114|MPN=128|Value=82|Description=76|Footprint=76|Supplier 1=73|Supplier Part Number 1=94|Supplier Unit Price 1=100|Quantity=100|Supplier Subtotal 1=100
+Configuration6_Name8=VisibleOrder_Consolidated
+Configuration6_Item8=Line #=34|Comment=52|Description=82|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Quantity@No_CLK_RTN=114|Price@No_CLK_RTN=121
+Configuration6_Name9=VisibleOrder_Flat
+Configuration6_Item9=Comment=113|Designator=106|MF=114|MPN=128|Value=82|Description=76|Footprint=76|Supplier 1=73|Supplier Part Number 1=94|Supplier Unit Price 1=100|Quantity=62|Supplier Subtotal 1=100
 OutputType7=ExportSTEP
 OutputName7=Export STEP
 OutputCategory7=Export
