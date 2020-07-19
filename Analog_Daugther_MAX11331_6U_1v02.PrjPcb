@@ -229,7 +229,7 @@ UniqueID=F0C043A0-0728-4DAA-9B76-165DA0BF3F1E
 Description=No_CLK_RTN
 AllowFabrication=0
 ParameterCount=0
-VariationCount=18
+VariationCount=50
 Variation1=Designator=C37|UniqueId=\UIYFAQGC\IDSIMXWC|Kind=1|AlternatePart= 
 Variation2=Designator=R24|UniqueId=\UIYFAQGC\MEKEJZLE|Kind=1|AlternatePart= 
 Variation3=Designator=U8|UniqueId=\UIYFAQGC\LYRWNIGK|Kind=1|AlternatePart= 
@@ -248,6 +248,38 @@ Variation15=Designator=TP10|UniqueId=\UIYFAQGC\FKMZPPGI|Kind=1|AlternatePart=
 Variation16=Designator=TP13|UniqueId=\UIYFAQGC\TWZFULUH|Kind=1|AlternatePart= 
 Variation17=Designator=TP8|UniqueId=\UIYFAQGC\HBEQYGRZ|Kind=1|AlternatePart= 
 Variation18=Designator=TP12|UniqueId=\UIYFAQGC\OESHQNZO|Kind=1|AlternatePart= 
+Variation19=Designator=R39A|UniqueId=\EYBTXOXL\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation20=Designator=R39C|UniqueId=\DRNUCMTP\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation21=Designator=R39B|UniqueId=\EXADGLCR\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation22=Designator=R39E|UniqueId=\HUQZOAIA\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation23=Designator=R39D|UniqueId=\HMYPQART\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation24=Designator=R39G|UniqueId=\TEXHQLAT\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation25=Designator=R39F|UniqueId=\BELBWRRR\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation26=Designator=R40A|UniqueId=\EYBTXOXL\XMVMUABH|Kind=1|AlternatePart= 
+Variation27=Designator=R39H|UniqueId=\DVUYIACZ\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation28=Designator=R40C|UniqueId=\DRNUCMTP\XMVMUABH|Kind=1|AlternatePart= 
+Variation29=Designator=R40B|UniqueId=\EXADGLCR\XMVMUABH|Kind=1|AlternatePart= 
+Variation30=Designator=R40E|UniqueId=\HUQZOAIA\XMVMUABH|Kind=1|AlternatePart= 
+Variation31=Designator=R40D|UniqueId=\HMYPQART\XMVMUABH|Kind=1|AlternatePart= 
+Variation32=Designator=R40G|UniqueId=\TEXHQLAT\XMVMUABH|Kind=1|AlternatePart= 
+Variation33=Designator=R40F|UniqueId=\BELBWRRR\XMVMUABH|Kind=1|AlternatePart= 
+Variation34=Designator=R41A|UniqueId=\EYBTXOXL\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation35=Designator=R40H|UniqueId=\DVUYIACZ\XMVMUABH|Kind=1|AlternatePart= 
+Variation36=Designator=R41C|UniqueId=\DRNUCMTP\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation37=Designator=R41B|UniqueId=\EXADGLCR\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation38=Designator=R41E|UniqueId=\HUQZOAIA\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation39=Designator=R42A|UniqueId=\EYBTXOXL\YFBHNIFF|Kind=1|AlternatePart= 
+Variation40=Designator=R41F|UniqueId=\BELBWRRR\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation41=Designator=R41G|UniqueId=\TEXHQLAT\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation42=Designator=R41D|UniqueId=\HMYPQART\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation43=Designator=R41H|UniqueId=\DVUYIACZ\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation44=Designator=R42B|UniqueId=\EXADGLCR\YFBHNIFF|Kind=1|AlternatePart= 
+Variation45=Designator=R42E|UniqueId=\HUQZOAIA\YFBHNIFF|Kind=1|AlternatePart= 
+Variation46=Designator=R42D|UniqueId=\HMYPQART\YFBHNIFF|Kind=1|AlternatePart= 
+Variation47=Designator=R42F|UniqueId=\BELBWRRR\YFBHNIFF|Kind=1|AlternatePart= 
+Variation48=Designator=R42G|UniqueId=\TEXHQLAT\YFBHNIFF|Kind=1|AlternatePart= 
+Variation49=Designator=R42C|UniqueId=\DRNUCMTP\YFBHNIFF|Kind=1|AlternatePart= 
+Variation50=Designator=R42H|UniqueId=\DVUYIACZ\YFBHNIFF|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -324,18 +356,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument19]
 DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\NC Drill\Analog_Daughter_6U_MAX11331.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\BOM\BOM_Analog_Daugther_MAX11331_6U_1v02_1v02.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Design Rule Check - Analog_Daughter_6U_MAX11331.html
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Pick Place\PickPlace_Analog_Daugther_MAX11331_6U_1v02_1v02.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -1058,6 +1078,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

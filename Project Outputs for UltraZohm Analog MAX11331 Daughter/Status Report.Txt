@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:49:42 On 16.06.2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [No_CLK_RTN] of BOM Document [Analog_Daugther_MAX11331_6U_1v02.BomDoc]
+   Generated File[BOM_Analog_Daugther_MAX11331_6U_1v02_1v02.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:49:47 On 16.06.2020

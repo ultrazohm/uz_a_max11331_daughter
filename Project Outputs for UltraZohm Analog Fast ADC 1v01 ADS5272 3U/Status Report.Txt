@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 09:49:42 On 16.06.2020
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [No_CLK_RTN] of BOM Document [Analog_Daugther_MAX11331_6U_1v02.BomDoc]
-   Generated File[BOM_Analog_Daugther_MAX11331_6U_1v02_1v02.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Analog_Daughter_6U_MAX11331.PcbDoc]
+   Generated File[Analog_Daughter_6U_MAX11331.TXT]
+   Generated File[Analog_Daughter_6U_MAX11331.LDP]
+   Generated File[Analog_Daughter_6U_MAX11331.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 09:49:47 On 16.06.2020
+Finished Output Generation At 11:13:18 On 19.07.2020
