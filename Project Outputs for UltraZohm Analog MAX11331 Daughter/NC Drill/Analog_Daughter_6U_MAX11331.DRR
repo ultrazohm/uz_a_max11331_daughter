@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Analog_Daughter_6U_MAX11331.PcbDoc   16.06.2020  09:41:28
+NCDrill File Report For: Analog_Daughter_6U_MAX11331.PcbDoc   19.07.2020  11:18:22
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Analog_Daughter_6U_MAX11331.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             241       PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             285       PTH        0.00inch (0.00mm)
 T2      12mil (0.3mm)                                             Round             237       PTH        0.00inch (0.00mm)
 T3      26mil (0.65mm)                                            Round             16        PTH        0.00inch (0.00mm)
 T4      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
@@ -19,6 +19,6 @@ T9      63mil (1.6mm)                                             Round         
 T10     118mil (3mm)                                              Round             2         NPTH       0.00inch (0.00mm)
 T11     126mil (3.2mm)          +/-3mil (0.076mm)                 Round             2         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              593
+Totals                                                                              637
 
 Total Processing Time (hh:mm:ss) : 00:00:01
