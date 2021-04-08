@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 17:42:27 On 07.04.2021
-
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [No_CLK_RTN] of PCB Document [Analog_Daughter_6U_MAX11331.PcbDoc]
-   Generated File[PickPlace_Analog_Daugther_MAX11331_6U_2v01.txt]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Analog_Daughter_6U_MAX11331.PcbDoc]
+   Generated File[Analog_Daughter_6U_MAX11331.TXT]
+   Generated File[Analog_Daughter_6U_MAX11331.LDP]
+   Generated File[Analog_Daughter_6U_MAX11331.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 17:42:33 On 07.04.2021
+Finished Output Generation At 11:15:56 On 08.04.2021
