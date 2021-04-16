@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for UZ_A_MAX11331_Daugther
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -297,105 +297,96 @@ Variation64=Designator=P2H|UniqueId=\DVUYIACZ\GFRORSNO|Kind=1|AlternatePart=
 Variation65=Designator=TP14|UniqueId=\TUXJPARN\TTGYLGNZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\NC Drill\Analog_Daughter_6U_MAX11331.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G3
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.G4
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\NC Drill\Analog_Daughter_6U_MAX11331.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Gerber\Analog_Daughter_6U_MAX11331.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\NC Drill\Analog_Daughter_6U_MAX11331.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\BOM\BOM_Analog_Daugther_MAX11331_6U_2v01.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for UltraZohm Analog Fast ADC 1v01 ADS5272 3U\Pick Place\PickPlace_Analog_Daugther_MAX11331_6U_2v01.txt
-DItemRevisionGUID=
+[ProjectVariant2]
+UniqueID=0974B730-6295-42E6-9349-34EC93720BAB
+Description=SMD_Assembly
+AllowFabrication=0
+ParameterCount=0
+VariationCount=67
+Variation1=Designator=TP1|UniqueId=\TUXJPARN\IHVXTIXJ|Kind=1|AlternatePart= 
+Variation2=Designator=TP2|UniqueId=\TUXJPARN\ADNVTIUL|Kind=1|AlternatePart= 
+Variation3=Designator=TP3|UniqueId=\TUXJPARN\HWOKORVL|Kind=1|AlternatePart= 
+Variation4=Designator=TP4|UniqueId=\TUXJPARN\VTQGZGFB|Kind=1|AlternatePart= 
+Variation5=Designator=TP5|UniqueId=\TUXJPARN\FLWLIPWN|Kind=1|AlternatePart= 
+Variation6=Designator=C43|UniqueId=\TUXJPARN\FRSGLNFM|Kind=1|AlternatePart= 
+Variation7=Designator=C44|UniqueId=\TUXJPARN\KMLXSLQR|Kind=1|AlternatePart= 
+Variation8=Designator=X2|UniqueId=\UIYFAQGC\JSNLZGRS|Kind=1|AlternatePart= 
+Variation9=Designator=X1|UniqueId=\TUXJPARN\NWZQCRDA|Kind=1|AlternatePart= 
+Variation10=Designator=J1|UniqueId=\RQCSKXFE\BSMDSQCS|Kind=1|AlternatePart= 
+Variation11=Designator=TP14|UniqueId=\TUXJPARN\TTGYLGNZ|Kind=1|AlternatePart= 
+Variation12=Designator=R39H|UniqueId=\DVUYIACZ\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation13=Designator=R40H|UniqueId=\DVUYIACZ\XMVMUABH|Kind=1|AlternatePart= 
+Variation14=Designator=R41H|UniqueId=\DVUYIACZ\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation15=Designator=R42H|UniqueId=\DVUYIACZ\YFBHNIFF|Kind=1|AlternatePart= 
+Variation16=Designator=P1H|UniqueId=\DVUYIACZ\MIIEROAC|Kind=1|AlternatePart= 
+Variation17=Designator=P2H|UniqueId=\DVUYIACZ\GFRORSNO|Kind=1|AlternatePart= 
+Variation18=Designator=R42G|UniqueId=\TEXHQLAT\YFBHNIFF|Kind=1|AlternatePart= 
+Variation19=Designator=R41G|UniqueId=\TEXHQLAT\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation20=Designator=P1G|UniqueId=\TEXHQLAT\MIIEROAC|Kind=1|AlternatePart= 
+Variation21=Designator=P2G|UniqueId=\TEXHQLAT\GFRORSNO|Kind=1|AlternatePart= 
+Variation22=Designator=TP10|UniqueId=\UIYFAQGC\FKMZPPGI|Kind=1|AlternatePart= 
+Variation23=Designator=TP11|UniqueId=\UIYFAQGC\OHZESNNS|Kind=1|AlternatePart= 
+Variation24=Designator=TP12|UniqueId=\UIYFAQGC\OESHQNZO|Kind=1|AlternatePart= 
+Variation25=Designator=TP13|UniqueId=\UIYFAQGC\TWZFULUH|Kind=1|AlternatePart= 
+Variation26=Designator=TP6|UniqueId=\UIYFAQGC\LCALACKN|Kind=1|AlternatePart= 
+Variation27=Designator=TP7|UniqueId=\UIYFAQGC\EELBSDRV|Kind=1|AlternatePart= 
+Variation28=Designator=TP8|UniqueId=\UIYFAQGC\HBEQYGRZ|Kind=1|AlternatePart= 
+Variation29=Designator=TP9|UniqueId=\UIYFAQGC\JONRJFEP|Kind=1|AlternatePart= 
+Variation30=Designator=R40G|UniqueId=\TEXHQLAT\XMVMUABH|Kind=1|AlternatePart= 
+Variation31=Designator=R39G|UniqueId=\TEXHQLAT\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation32=Designator=R42F|UniqueId=\BELBWRRR\YFBHNIFF|Kind=1|AlternatePart= 
+Variation33=Designator=R41F|UniqueId=\BELBWRRR\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation34=Designator=R40F|UniqueId=\BELBWRRR\XMVMUABH|Kind=1|AlternatePart= 
+Variation35=Designator=R39F|UniqueId=\BELBWRRR\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation36=Designator=P1F|UniqueId=\BELBWRRR\MIIEROAC|Kind=1|AlternatePart= 
+Variation37=Designator=P2F|UniqueId=\BELBWRRR\GFRORSNO|Kind=1|AlternatePart= 
+Variation38=Designator=R42E|UniqueId=\HUQZOAIA\YFBHNIFF|Kind=1|AlternatePart= 
+Variation39=Designator=P1E|UniqueId=\HUQZOAIA\MIIEROAC|Kind=1|AlternatePart= 
+Variation40=Designator=P2E|UniqueId=\HUQZOAIA\GFRORSNO|Kind=1|AlternatePart= 
+Variation41=Designator=R41E|UniqueId=\HUQZOAIA\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation42=Designator=R39E|UniqueId=\HUQZOAIA\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation43=Designator=R42D|UniqueId=\HMYPQART\YFBHNIFF|Kind=1|AlternatePart= 
+Variation44=Designator=R40D|UniqueId=\HMYPQART\XMVMUABH|Kind=1|AlternatePart= 
+Variation45=Designator=R40E|UniqueId=\HUQZOAIA\XMVMUABH|Kind=1|AlternatePart= 
+Variation46=Designator=R41D|UniqueId=\HMYPQART\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation47=Designator=R39D|UniqueId=\HMYPQART\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation48=Designator=P2D|UniqueId=\HMYPQART\GFRORSNO|Kind=1|AlternatePart= 
+Variation49=Designator=P1D|UniqueId=\HMYPQART\MIIEROAC|Kind=1|AlternatePart= 
+Variation50=Designator=R42C|UniqueId=\DRNUCMTP\YFBHNIFF|Kind=1|AlternatePart= 
+Variation51=Designator=P1A|UniqueId=\EYBTXOXL\MIIEROAC|Kind=1|AlternatePart= 
+Variation52=Designator=P2A|UniqueId=\EYBTXOXL\GFRORSNO|Kind=1|AlternatePart= 
+Variation53=Designator=R39A|UniqueId=\EYBTXOXL\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation54=Designator=R40A|UniqueId=\EYBTXOXL\XMVMUABH|Kind=1|AlternatePart= 
+Variation55=Designator=R42A|UniqueId=\EYBTXOXL\YFBHNIFF|Kind=1|AlternatePart= 
+Variation56=Designator=R41A|UniqueId=\EYBTXOXL\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation57=Designator=P1B|UniqueId=\EXADGLCR\MIIEROAC|Kind=1|AlternatePart= 
+Variation58=Designator=P2B|UniqueId=\EXADGLCR\GFRORSNO|Kind=1|AlternatePart= 
+Variation59=Designator=R39B|UniqueId=\EXADGLCR\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation60=Designator=R40B|UniqueId=\EXADGLCR\XMVMUABH|Kind=1|AlternatePart= 
+Variation61=Designator=R41B|UniqueId=\EXADGLCR\KUOKMLRJ|Kind=1|AlternatePart= 
+Variation62=Designator=R42B|UniqueId=\EXADGLCR\YFBHNIFF|Kind=1|AlternatePart= 
+Variation63=Designator=P1C|UniqueId=\DRNUCMTP\MIIEROAC|Kind=1|AlternatePart= 
+Variation64=Designator=P2C|UniqueId=\DRNUCMTP\GFRORSNO|Kind=1|AlternatePart= 
+Variation65=Designator=R39C|UniqueId=\DRNUCMTP\JIZHRCQJ|Kind=1|AlternatePart= 
+Variation66=Designator=R40C|UniqueId=\DRNUCMTP\XMVMUABH|Kind=1|AlternatePart= 
+Variation67=Designator=R41C|UniqueId=\DRNUCMTP\KUOKMLRJ|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=2v01
+Name=Author
+Value=Thomas Kreppel
 
 [Parameter2]
-Name=ProjectName
-Value=UZ_A_MAX11331_Daughter
-
-[Parameter3]
 Name=Date
 Value=04/2021
 
+[Parameter3]
+Name=ProjectName
+Value=UZ_A_MAX11331_Daughter
+
 [Parameter4]
-Name=Author
-Value=Thomas Kreppel
+Name=ProjectRevision
+Value=2v01
 
 [Configuration1]
 Name=Default Configuration
@@ -444,7 +435,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UZ_A_MAX11331_Daugther
 
 [OutputGroup1]
 Name=Netlist Outputs
