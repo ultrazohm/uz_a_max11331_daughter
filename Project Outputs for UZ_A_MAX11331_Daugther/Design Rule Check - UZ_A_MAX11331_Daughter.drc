@@ -1,0 +1,108 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\thoma\Documents\Altium\UltraZOhm\UZ_A_MAX11331_Daughter\UZ_A_MAX11331_Daughter.PcbDoc
+Date     : 21.04.2021
+Time     : 18:18:09
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=30mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=4.724mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=19.685mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.543mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1.968mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=100mil) (InNetClass('Match_single'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('Match_diff'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=100mil) (InNetClass('Match_diff'))
+Rule Violations :0
+
+Processing Rule : Room ADC1 (Bounding Region = (1869.429mil, 3046.87mil, 2393.504mil, 3718.76mil) (InComponentClass('ADC1'))
+Rule Violations :0
+
+Processing Rule : Room ADC3 (Bounding Region = (1869.429mil, 1389.075mil, 2393.504mil, 2060.965mil) (InComponentClass('ADC3'))
+Rule Violations :0
+
+Processing Rule : Room ADC4 (Bounding Region = (1869.429mil, 549.075mil, 2393.504mil, 1220.965mil) (InComponentClass('ADC4'))
+Rule Violations :0
+
+Processing Rule : Room ADC2 (Bounding Region = (1869.429mil, 2239.075mil, 2393.504mil, 2910.965mil) (InComponentClass('ADC2'))
+Rule Violations :0
+
+Processing Rule : Room Analog_Inputs (Bounding Region = (5639.646mil, 436.476mil, 6795.63mil, 3168.646mil) (InComponentClass('Analog_Inputs'))
+Rule Violations :0
+
+Processing Rule : Room Interface (Bounding Region = (171.358mil, 394.55mil, 1665.45mil, 2303.406mil) (InComponentClass('Interface'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp7 (Bounding Region = (4278.142mil, 1076.063mil, 5574.431mil, 1845.532mil) (InComponentClass('OpAmp7'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp8 (Bounding Region = (4278.142mil, 176.063mil, 5544.423mil, 1013mil) (InComponentClass('OpAmp8'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp6 (Bounding Region = (2738.142mil, 176.063mil, 4014.423mil, 945.532mil) (InComponentClass('OpAmp6'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp4 (Bounding Region = (2743.181mil, 2071.063mil, 4024.423mil, 2842.067mil) (InComponentClass('OpAmp4'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp5 (Bounding Region = (2748.189mil, 1076.063mil, 4024.423mil, 1863.008mil) (InComponentClass('OpAmp5'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp1 (Bounding Region = (4278.614mil, 2976.063mil, 5594.431mil, 3747.579mil) (InComponentClass('OpAmp1'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp3 (Bounding Region = (2743.181mil, 2976.063mil, 4064.431mil, 3747.579mil) (InComponentClass('OpAmp3'))
+Rule Violations :0
+
+Processing Rule : Room OpAmp2 (Bounding Region = (4278.614mil, 2071.063mil, 5544.423mil, 2843.008mil) (InComponentClass('OpAmp2'))
+Rule Violations :0
+
+Processing Rule : Room Power Supply (Bounding Region = (228.732mil, 1536.55mil, 2073.922mil, 3899.549mil) (InComponentClass('Power Supply'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1100mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:12

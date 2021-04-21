@@ -1,7 +1,6 @@
 History/
+__Previews/
 *.SchDocPreview
 *.LOG
 *.htm
 *.PrjPCBStructure
-*.drc
-*.html
