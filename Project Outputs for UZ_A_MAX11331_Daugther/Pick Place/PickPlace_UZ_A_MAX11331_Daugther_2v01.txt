@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\thoma\Documents\Altium\UltraZOhm\UZ_A_MAX11331_Daughter\Project Outputs for UZ_A_MAX11331_Daugther\Pick Place\PickPlace_UZ_A_MAX11331_Daugther_2v01.txt
+C:\Users\david\Documents\Altium_projects\UltraZohm\UZ_A_MAX11331_Daughter\Project Outputs for UZ_A_MAX11331_Daugther\Pick Place\PickPlace_UZ_A_MAX11331_Daugther_2v01.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       21.04.21
-Time:       17:24
-Revision:   960d3172a432447561f6f2b9979d694950ee8413
+Date:       21/04/21
+Time:       13:25
+Revision:   60820186669d9ef344b8436beed513b6fc338689
 Variant:    SMD_Assembly
 Units used: mm
 
@@ -17,8 +17,14 @@ F1          Fiducial_1.7mm                -169.2002    0.0000       -170.0000 97
 C29         CAP_0603                      -150.8110    83.4390      -150.1110 83.4390   -150.1110 83.4390   270      TopLayer 1µF                        
 BS5         RES_1206                      -130.1510    89.4080      -131.6510 89.4080   -131.6510 89.4080   270      TopLayer "Ferrite bead"             
 BS4         RES_1206                      -129.7164    75.1586      -128.2164 75.1586   -128.2164 75.1586   90       TopLayer "Ferrite bead"             
+X2          EHF-108-01-F-D                -152.2112    27.7512      -152.2112 27.7512   -156.6562 27.1162   360      TopLayer "2x8 Pin"                  
 U6          TSOP65P640X120-16N            -155.8942    17.7690      -155.8942 17.7690   -158.8442 20.0440   360      TopLayer "Quad LVDS driver"         
+Serial      SERIAL_6.3X6.3MM              -169.2002    0.0000       -20.6502  6.5000    -169.2002 0.0000    180      TopLayer "Serialnumber 6,3 x 6.3mm" 
+PCB_Logo1   ESD_OVERLAY_MEDIUM            -169.2002    0.0000       -10.5252  6.2500    -169.2002 0.0000    360      TopLayer "ESD Susceptible"          
+R24         RES_0603                      -129.1061    18.9230      -128.3062 18.9230   -128.3061 18.9230   270      TopLayer 0                          
+X1          IPL1-102-01-L-D-K             -159.1742    84.3120      -159.1742 84.3120   -157.9042 83.0420   180      TopLayer IPL1-102-01-L-D-K          
 U9          SOIC127P600X170_HS-9N         -149.1742    78.7120      -149.1742 78.7120   -147.2692 81.4120   270      TopLayer "buck converter"           
+U8          SOIC127P600X170_HS-9N_NO_THP  -143.1942    19.5470      -143.1942 19.5470   -145.0992 16.8470   90       TopLayer "Single LVDS driver"       
 U7          TSOP65P640X120-8N             -141.6301    51.5330      -141.6301 51.5330   -142.6052 48.6330   90       TopLayer "Clock buffer"             
 U5          TSOP65P640X120-8N             -147.4722    51.5330      -147.4722 51.5330   -148.4472 48.6330   90       TopLayer "Clock buffer"             
 U4          TSOP65P640X120-8N             -153.3142    51.5330      -153.3142 51.5330   -154.2892 48.6330   90       TopLayer "Clock buffer"             
@@ -228,18 +234,28 @@ R2C         CAC-80P320X160-8N             -85.5824     78.6460      -85.5824  78
 R2B         CAC-80P320X160-8N             -46.5824     55.6460      -46.5824  55.6460   -45.8824  54.3210   180      TopLayer 10k                        
 R2A         CAC-80P320X160-8N             -46.5824     78.6460      -46.5824  78.6460   -45.8824  77.3210   180      TopLayer 10k                        
 R1          RES_1206                      -8.1024      13.6640      -8.1023   15.1640   -8.1024   15.1640   180      TopLayer 1M                         
+ProjectName ID_PROJECTREV                 -169.2002    0.0000       -159.5482 2.2860    -169.2002 0.0000    360      TopLayer "Project Name, Rev"        
+MH2         MOUNTING_HOLE                 -165.6302    94.4500      -165.6302 94.4500   -165.6302 94.4500   0        TopLayer MH_3mm                     
+MH1         MOUNTING_HOLE                 -165.6302    5.5500       -165.6302 5.5500    -165.6302 5.5500    0        TopLayer MH_3mm                     
+Logo3       LOGO_G.S.OHM_UNIVERSITY       -169.2002    0.0000       -18.2002  86.0000   -169.2002 0.0000    0        TopLayer "LOGO G.S. Ohm"            
+Logo2       LOGO_TUM                      -169.2002    0.0000       -20.2002  95.0000   -169.2002 0.0000    360      TopLayer "LOGO TUM"                 
+Logo1       LOGO_USACH                    -169.2002    0.0000       -8.2002   90.0000   -169.2002 0.0000    0        TopLayer "LOGO USACH"               
 L1          SMT_inductor_1050_Performance -139.9032    77.0128      -139.9032 77.0128   -139.9032 72.0628   180      TopLayer 15mH                       
+J1          RJ45_-_4X2                    -13.2205     49.4640      -13.2205  49.4640   -14.1222  24.0640   90       TopLayer "Conector RJ-45 4x2"       
 D2          WL-SMCW_0603_H=0.7mm          -162.2982    70.0960      -162.2982 70.0960   -162.2982 69.2960   90       TopLayer VIN                        
 D1          WL-SMCW_0603_H=0.7mm          -157.0902    70.0960      -157.0902 70.0960   -157.0902 69.2960   90       TopLayer VCC                        
 C48         CAP_0603                      -147.8741    83.5120      -148.5741 83.5120   -148.5741 83.5120   90       TopLayer 100nF                      
 C47         RES_1206                      -147.1690    87.3760      -148.6690 87.3760   -148.6690 87.3760   270      TopLayer 10µF                       
 C46         RES_1206                      -142.3910    87.3760      -140.8910 87.3760   -140.8910 87.3760   90       TopLayer 10µF                       
 C45         CAP_0603                      -144.7150    85.0900      -144.0150 85.0900   -144.0150 85.0900   270      TopLayer 100nF                      
+C44         WCAP-ATG8_6.3X11              -146.6242    92.2120      -146.6242 92.2120   -145.3742 92.2120   180      TopLayer 68µF                       
+C43         WCAP-ATG8_6.3X11              -138.4300    92.2120      -138.4300 92.2120   -138.4300 93.4620   270      TopLayer 68µF                       
 C42         CAP_0603                      -149.9108    73.4934      -149.9108 74.1934   -149.9108 74.1934   360      TopLayer 1µF                        
 C41         CAP_0603                      -147.6742    74.0120      -146.9742 74.0120   -146.9742 74.0120   270      TopLayer 100nF                      
 C40         CAP_0603                      -141.1221    56.9290      -141.1221 56.2290   -141.1221 56.2290   180      TopLayer 100nF                      
 C39         CAP_0603                      -146.9641    56.9290      -146.9641 56.2290   -146.9641 56.2290   180      TopLayer 100nF                      
 C38         CAP_0603                      -152.8062    56.9290      -152.8062 56.2290   -152.8062 56.2290   180      TopLayer 100nF                      
+C37         CAP_0603                      -146.7501    18.5930      -146.7501 17.8930   -146.7501 17.8930   180      TopLayer 100nF                      
 C36         CAP_0603                      -153.0382    21.3250      -152.3382 21.3250   -152.3382 21.3250   270      TopLayer 100nF                      
 C35         CAP_0603                      -144.2722    42.5340      -144.9722 42.5340   -144.9722 42.5340   90       TopLayer 100nF                      
 C34D        CAP_0603                      -114.3452    16.7270      -113.6452 16.7270   -113.6452 16.7270   270      TopLayer 100nF                      
