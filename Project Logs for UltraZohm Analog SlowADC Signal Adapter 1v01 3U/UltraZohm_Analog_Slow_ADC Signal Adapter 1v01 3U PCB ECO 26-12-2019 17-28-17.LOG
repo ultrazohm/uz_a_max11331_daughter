@@ -1,3 +1,0 @@
-Change Component DesignItemId : Designator=J1 Old DesignItemId=Conector RJ-45 2x1 New DesignItemId=Conector RJ-45 4x2
-Change Component Footprint: Designator=J1 Old Footprint=RJ45 - 2X1 New Footprint=RJ45 - 4x2
-Change Component Comment : Designator=J1 Old Comment=Conector RJ-45 2x1 New Comment=Conector RJ-45 4x2

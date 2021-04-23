@@ -1,0 +1,15 @@
+Changelog for UltraZohm AnalogAdapter Daughter PCB MAX11331 Version 2
+
+- Added Ferrite Beads between AGND and DGND
+- Fixed Pin assignment for AIN CH4
+- Fixed Pin assignments of ADC input pairs -> #even p, #odd n
+- Added Headers/TestPoints for:
+	- Analog Inputs
+	- Filter Out/ADC In
+	- AVCC
+- Change backside corners to rounded, so the card will slide in more easily
+
+TODO:
+- Decide what values for Ferrite Beads
+- BoM consolidation Resistor/Capacitor values?
+- All ADC Inputs are the wrong polarity -> negative conversion factor
