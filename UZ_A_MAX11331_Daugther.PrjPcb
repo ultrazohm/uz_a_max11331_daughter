@@ -400,108 +400,24 @@ Variation64=Designator=R1|UniqueId=\RQCSKXFE\KFKUZFJH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\BOM\BOM_UZ_A_MAX11331_Daugther_2v01.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Design Rule Check - UZ_A_MAX11331_Daughter.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Pick Place\PickPlace_UZ_A_MAX11331_Daugther_2v01.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\NC Drill\UZ_A_MAX11331_Daughter.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.G3
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.G4
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\NC Drill\UZ_A_MAX11331_Daughter.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\Gerber\UZ_A_MAX11331_Daughter.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Daugther\NC Drill\UZ_A_MAX11331_Daughter.TXT
-DItemRevisionGUID=
-
 [Parameter1]
-Name=ProjectRevision
-Value=Rev03
+Name=Author
+Value=T. Kreppel / L. Testa
 
 [Parameter2]
-Name=ProjectName
-Value=UZ_A_MAX11331_Daughter
-
-[Parameter3]
 Name=Date
 Value=10/2025
 
+[Parameter3]
+Name=ProjectName
+Value=UZ_A_MAX11331_Daughter
+
 [Parameter4]
-Name=Author
-Value=T. Kreppel / L. Testa
+Name=ProjectRevision
+Value=Rev03
 
 [Configuration1]
 Name=Default Configuration
@@ -1109,36 +1025,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
